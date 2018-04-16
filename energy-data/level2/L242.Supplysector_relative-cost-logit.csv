@@ -1,0 +1,37 @@
+INPUT_TABLE
+Variable ID
+Supplysector_relative-cost-logit
+
+region,supplysector,logit.type
+USA,building,relative-cost-logit
+Africa_Eastern,building,relative-cost-logit
+Africa_Northern,building,relative-cost-logit
+Africa_Southern,building,relative-cost-logit
+Africa_Western,building,relative-cost-logit
+Australia_NZ,building,relative-cost-logit
+Brazil,building,relative-cost-logit
+Canada,building,relative-cost-logit
+Central America and Caribbean,building,relative-cost-logit
+Central Asia,building,relative-cost-logit
+China,building,relative-cost-logit
+EU-12,building,relative-cost-logit
+EU-15,building,relative-cost-logit
+Europe_Eastern,building,relative-cost-logit
+Europe_Non_EU,building,relative-cost-logit
+European Free Trade Association,building,relative-cost-logit
+India,building,relative-cost-logit
+Indonesia,building,relative-cost-logit
+Japan,building,relative-cost-logit
+Mexico,building,relative-cost-logit
+Middle East,building,relative-cost-logit
+Pakistan,building,relative-cost-logit
+Russia,building,relative-cost-logit
+South Africa,building,relative-cost-logit
+South America_Northern,building,relative-cost-logit
+South America_Southern,building,relative-cost-logit
+South Asia,building,relative-cost-logit
+South Korea,building,relative-cost-logit
+Southeast Asia,building,relative-cost-logit
+Taiwan,building,relative-cost-logit
+Argentina,building,relative-cost-logit
+Colombia,building,relative-cost-logit

@@ -1,0 +1,470 @@
+INPUT_TABLE
+Variable ID
+AgSupplySector_relative-cost-logit
+
+region,AgSupplySector,logit.type
+USA,Corn,relative-cost-logit
+USA,FiberCrop,relative-cost-logit
+USA,FodderGrass,relative-cost-logit
+USA,FodderHerb,relative-cost-logit
+USA,MiscCrop,relative-cost-logit
+USA,OilCrop,relative-cost-logit
+USA,OtherGrain,relative-cost-logit
+USA,PalmFruit,relative-cost-logit
+USA,Rice,relative-cost-logit
+USA,Root_Tuber,relative-cost-logit
+USA,SugarCrop,relative-cost-logit
+USA,Wheat,relative-cost-logit
+USA,Forest,relative-cost-logit
+USA,biomass,relative-cost-logit
+USA,Pasture,relative-cost-logit
+Africa_Eastern,Corn,relative-cost-logit
+Africa_Eastern,FiberCrop,relative-cost-logit
+Africa_Eastern,FodderGrass,relative-cost-logit
+Africa_Eastern,FodderHerb,relative-cost-logit
+Africa_Eastern,MiscCrop,relative-cost-logit
+Africa_Eastern,OilCrop,relative-cost-logit
+Africa_Eastern,OtherGrain,relative-cost-logit
+Africa_Eastern,PalmFruit,relative-cost-logit
+Africa_Eastern,Rice,relative-cost-logit
+Africa_Eastern,Root_Tuber,relative-cost-logit
+Africa_Eastern,SugarCrop,relative-cost-logit
+Africa_Eastern,Wheat,relative-cost-logit
+Africa_Eastern,Forest,relative-cost-logit
+Africa_Eastern,biomass,relative-cost-logit
+Africa_Eastern,Pasture,relative-cost-logit
+Africa_Northern,Corn,relative-cost-logit
+Africa_Northern,FiberCrop,relative-cost-logit
+Africa_Northern,FodderGrass,relative-cost-logit
+Africa_Northern,FodderHerb,relative-cost-logit
+Africa_Northern,MiscCrop,relative-cost-logit
+Africa_Northern,OilCrop,relative-cost-logit
+Africa_Northern,OtherGrain,relative-cost-logit
+Africa_Northern,PalmFruit,relative-cost-logit
+Africa_Northern,Rice,relative-cost-logit
+Africa_Northern,Root_Tuber,relative-cost-logit
+Africa_Northern,SugarCrop,relative-cost-logit
+Africa_Northern,Wheat,relative-cost-logit
+Africa_Northern,Forest,relative-cost-logit
+Africa_Northern,biomass,relative-cost-logit
+Africa_Northern,Pasture,relative-cost-logit
+Africa_Southern,Corn,relative-cost-logit
+Africa_Southern,FiberCrop,relative-cost-logit
+Africa_Southern,FodderGrass,relative-cost-logit
+Africa_Southern,FodderHerb,relative-cost-logit
+Africa_Southern,MiscCrop,relative-cost-logit
+Africa_Southern,OilCrop,relative-cost-logit
+Africa_Southern,OtherGrain,relative-cost-logit
+Africa_Southern,PalmFruit,relative-cost-logit
+Africa_Southern,Rice,relative-cost-logit
+Africa_Southern,Root_Tuber,relative-cost-logit
+Africa_Southern,SugarCrop,relative-cost-logit
+Africa_Southern,Wheat,relative-cost-logit
+Africa_Southern,Forest,relative-cost-logit
+Africa_Southern,biomass,relative-cost-logit
+Africa_Southern,Pasture,relative-cost-logit
+Africa_Western,Corn,relative-cost-logit
+Africa_Western,FiberCrop,relative-cost-logit
+Africa_Western,FodderGrass,relative-cost-logit
+Africa_Western,FodderHerb,relative-cost-logit
+Africa_Western,MiscCrop,relative-cost-logit
+Africa_Western,OilCrop,relative-cost-logit
+Africa_Western,OtherGrain,relative-cost-logit
+Africa_Western,PalmFruit,relative-cost-logit
+Africa_Western,Rice,relative-cost-logit
+Africa_Western,Root_Tuber,relative-cost-logit
+Africa_Western,SugarCrop,relative-cost-logit
+Africa_Western,Wheat,relative-cost-logit
+Africa_Western,Forest,relative-cost-logit
+Africa_Western,biomass,relative-cost-logit
+Africa_Western,Pasture,relative-cost-logit
+Australia_NZ,Corn,relative-cost-logit
+Australia_NZ,FiberCrop,relative-cost-logit
+Australia_NZ,FodderGrass,relative-cost-logit
+Australia_NZ,FodderHerb,relative-cost-logit
+Australia_NZ,MiscCrop,relative-cost-logit
+Australia_NZ,OilCrop,relative-cost-logit
+Australia_NZ,OtherGrain,relative-cost-logit
+Australia_NZ,PalmFruit,relative-cost-logit
+Australia_NZ,Rice,relative-cost-logit
+Australia_NZ,Root_Tuber,relative-cost-logit
+Australia_NZ,SugarCrop,relative-cost-logit
+Australia_NZ,Wheat,relative-cost-logit
+Australia_NZ,Forest,relative-cost-logit
+Australia_NZ,biomass,relative-cost-logit
+Australia_NZ,Pasture,relative-cost-logit
+Brazil,Corn,relative-cost-logit
+Brazil,FiberCrop,relative-cost-logit
+Brazil,FodderGrass,relative-cost-logit
+Brazil,FodderHerb,relative-cost-logit
+Brazil,MiscCrop,relative-cost-logit
+Brazil,OilCrop,relative-cost-logit
+Brazil,OtherGrain,relative-cost-logit
+Brazil,PalmFruit,relative-cost-logit
+Brazil,Rice,relative-cost-logit
+Brazil,Root_Tuber,relative-cost-logit
+Brazil,SugarCrop,relative-cost-logit
+Brazil,Wheat,relative-cost-logit
+Brazil,Forest,relative-cost-logit
+Brazil,biomass,relative-cost-logit
+Brazil,Pasture,relative-cost-logit
+Canada,Corn,relative-cost-logit
+Canada,FiberCrop,relative-cost-logit
+Canada,FodderGrass,relative-cost-logit
+Canada,FodderHerb,relative-cost-logit
+Canada,MiscCrop,relative-cost-logit
+Canada,OilCrop,relative-cost-logit
+Canada,OtherGrain,relative-cost-logit
+Canada,PalmFruit,relative-cost-logit
+Canada,Rice,relative-cost-logit
+Canada,Root_Tuber,relative-cost-logit
+Canada,SugarCrop,relative-cost-logit
+Canada,Wheat,relative-cost-logit
+Canada,Forest,relative-cost-logit
+Canada,biomass,relative-cost-logit
+Canada,Pasture,relative-cost-logit
+Central America and Caribbean,Corn,relative-cost-logit
+Central America and Caribbean,FiberCrop,relative-cost-logit
+Central America and Caribbean,FodderGrass,relative-cost-logit
+Central America and Caribbean,FodderHerb,relative-cost-logit
+Central America and Caribbean,MiscCrop,relative-cost-logit
+Central America and Caribbean,OilCrop,relative-cost-logit
+Central America and Caribbean,OtherGrain,relative-cost-logit
+Central America and Caribbean,PalmFruit,relative-cost-logit
+Central America and Caribbean,Rice,relative-cost-logit
+Central America and Caribbean,Root_Tuber,relative-cost-logit
+Central America and Caribbean,SugarCrop,relative-cost-logit
+Central America and Caribbean,Wheat,relative-cost-logit
+Central America and Caribbean,Forest,relative-cost-logit
+Central America and Caribbean,biomass,relative-cost-logit
+Central America and Caribbean,Pasture,relative-cost-logit
+Central Asia,Corn,relative-cost-logit
+Central Asia,FiberCrop,relative-cost-logit
+Central Asia,FodderGrass,relative-cost-logit
+Central Asia,FodderHerb,relative-cost-logit
+Central Asia,MiscCrop,relative-cost-logit
+Central Asia,OilCrop,relative-cost-logit
+Central Asia,OtherGrain,relative-cost-logit
+Central Asia,PalmFruit,relative-cost-logit
+Central Asia,Rice,relative-cost-logit
+Central Asia,Root_Tuber,relative-cost-logit
+Central Asia,SugarCrop,relative-cost-logit
+Central Asia,Wheat,relative-cost-logit
+Central Asia,Forest,relative-cost-logit
+Central Asia,biomass,relative-cost-logit
+Central Asia,Pasture,relative-cost-logit
+China,Corn,relative-cost-logit
+China,FiberCrop,relative-cost-logit
+China,FodderGrass,relative-cost-logit
+China,FodderHerb,relative-cost-logit
+China,MiscCrop,relative-cost-logit
+China,OilCrop,relative-cost-logit
+China,OtherGrain,relative-cost-logit
+China,PalmFruit,relative-cost-logit
+China,Rice,relative-cost-logit
+China,Root_Tuber,relative-cost-logit
+China,SugarCrop,relative-cost-logit
+China,Wheat,relative-cost-logit
+China,Forest,relative-cost-logit
+China,biomass,relative-cost-logit
+China,Pasture,relative-cost-logit
+EU-12,Corn,relative-cost-logit
+EU-12,FiberCrop,relative-cost-logit
+EU-12,FodderGrass,relative-cost-logit
+EU-12,FodderHerb,relative-cost-logit
+EU-12,MiscCrop,relative-cost-logit
+EU-12,OilCrop,relative-cost-logit
+EU-12,OtherGrain,relative-cost-logit
+EU-12,PalmFruit,relative-cost-logit
+EU-12,Rice,relative-cost-logit
+EU-12,Root_Tuber,relative-cost-logit
+EU-12,SugarCrop,relative-cost-logit
+EU-12,Wheat,relative-cost-logit
+EU-12,Forest,relative-cost-logit
+EU-12,biomass,relative-cost-logit
+EU-12,Pasture,relative-cost-logit
+EU-15,Corn,relative-cost-logit
+EU-15,FiberCrop,relative-cost-logit
+EU-15,FodderGrass,relative-cost-logit
+EU-15,FodderHerb,relative-cost-logit
+EU-15,MiscCrop,relative-cost-logit
+EU-15,OilCrop,relative-cost-logit
+EU-15,OtherGrain,relative-cost-logit
+EU-15,PalmFruit,relative-cost-logit
+EU-15,Rice,relative-cost-logit
+EU-15,Root_Tuber,relative-cost-logit
+EU-15,SugarCrop,relative-cost-logit
+EU-15,Wheat,relative-cost-logit
+EU-15,Forest,relative-cost-logit
+EU-15,biomass,relative-cost-logit
+EU-15,Pasture,relative-cost-logit
+Europe_Eastern,Corn,relative-cost-logit
+Europe_Eastern,FiberCrop,relative-cost-logit
+Europe_Eastern,FodderGrass,relative-cost-logit
+Europe_Eastern,FodderHerb,relative-cost-logit
+Europe_Eastern,MiscCrop,relative-cost-logit
+Europe_Eastern,OilCrop,relative-cost-logit
+Europe_Eastern,OtherGrain,relative-cost-logit
+Europe_Eastern,PalmFruit,relative-cost-logit
+Europe_Eastern,Rice,relative-cost-logit
+Europe_Eastern,Root_Tuber,relative-cost-logit
+Europe_Eastern,SugarCrop,relative-cost-logit
+Europe_Eastern,Wheat,relative-cost-logit
+Europe_Eastern,Forest,relative-cost-logit
+Europe_Eastern,biomass,relative-cost-logit
+Europe_Eastern,Pasture,relative-cost-logit
+Europe_Non_EU,Corn,relative-cost-logit
+Europe_Non_EU,FiberCrop,relative-cost-logit
+Europe_Non_EU,FodderGrass,relative-cost-logit
+Europe_Non_EU,FodderHerb,relative-cost-logit
+Europe_Non_EU,MiscCrop,relative-cost-logit
+Europe_Non_EU,OilCrop,relative-cost-logit
+Europe_Non_EU,OtherGrain,relative-cost-logit
+Europe_Non_EU,PalmFruit,relative-cost-logit
+Europe_Non_EU,Rice,relative-cost-logit
+Europe_Non_EU,Root_Tuber,relative-cost-logit
+Europe_Non_EU,SugarCrop,relative-cost-logit
+Europe_Non_EU,Wheat,relative-cost-logit
+Europe_Non_EU,Forest,relative-cost-logit
+Europe_Non_EU,biomass,relative-cost-logit
+Europe_Non_EU,Pasture,relative-cost-logit
+European Free Trade Association,Corn,relative-cost-logit
+European Free Trade Association,FiberCrop,relative-cost-logit
+European Free Trade Association,FodderGrass,relative-cost-logit
+European Free Trade Association,FodderHerb,relative-cost-logit
+European Free Trade Association,MiscCrop,relative-cost-logit
+European Free Trade Association,OilCrop,relative-cost-logit
+European Free Trade Association,OtherGrain,relative-cost-logit
+European Free Trade Association,PalmFruit,relative-cost-logit
+European Free Trade Association,Rice,relative-cost-logit
+European Free Trade Association,Root_Tuber,relative-cost-logit
+European Free Trade Association,SugarCrop,relative-cost-logit
+European Free Trade Association,Wheat,relative-cost-logit
+European Free Trade Association,Forest,relative-cost-logit
+European Free Trade Association,biomass,relative-cost-logit
+European Free Trade Association,Pasture,relative-cost-logit
+India,Corn,relative-cost-logit
+India,FiberCrop,relative-cost-logit
+India,FodderGrass,relative-cost-logit
+India,FodderHerb,relative-cost-logit
+India,MiscCrop,relative-cost-logit
+India,OilCrop,relative-cost-logit
+India,OtherGrain,relative-cost-logit
+India,PalmFruit,relative-cost-logit
+India,Rice,relative-cost-logit
+India,Root_Tuber,relative-cost-logit
+India,SugarCrop,relative-cost-logit
+India,Wheat,relative-cost-logit
+India,Forest,relative-cost-logit
+India,biomass,relative-cost-logit
+India,Pasture,relative-cost-logit
+Indonesia,Corn,relative-cost-logit
+Indonesia,FiberCrop,relative-cost-logit
+Indonesia,FodderGrass,relative-cost-logit
+Indonesia,FodderHerb,relative-cost-logit
+Indonesia,MiscCrop,relative-cost-logit
+Indonesia,OilCrop,relative-cost-logit
+Indonesia,OtherGrain,relative-cost-logit
+Indonesia,PalmFruit,relative-cost-logit
+Indonesia,Rice,relative-cost-logit
+Indonesia,Root_Tuber,relative-cost-logit
+Indonesia,SugarCrop,relative-cost-logit
+Indonesia,Wheat,relative-cost-logit
+Indonesia,Forest,relative-cost-logit
+Indonesia,biomass,relative-cost-logit
+Indonesia,Pasture,relative-cost-logit
+Japan,Corn,relative-cost-logit
+Japan,FiberCrop,relative-cost-logit
+Japan,FodderGrass,relative-cost-logit
+Japan,FodderHerb,relative-cost-logit
+Japan,MiscCrop,relative-cost-logit
+Japan,OilCrop,relative-cost-logit
+Japan,OtherGrain,relative-cost-logit
+Japan,PalmFruit,relative-cost-logit
+Japan,Rice,relative-cost-logit
+Japan,Root_Tuber,relative-cost-logit
+Japan,SugarCrop,relative-cost-logit
+Japan,Wheat,relative-cost-logit
+Japan,Forest,relative-cost-logit
+Japan,biomass,relative-cost-logit
+Japan,Pasture,relative-cost-logit
+Mexico,Corn,relative-cost-logit
+Mexico,FiberCrop,relative-cost-logit
+Mexico,FodderGrass,relative-cost-logit
+Mexico,FodderHerb,relative-cost-logit
+Mexico,MiscCrop,relative-cost-logit
+Mexico,OilCrop,relative-cost-logit
+Mexico,OtherGrain,relative-cost-logit
+Mexico,PalmFruit,relative-cost-logit
+Mexico,Rice,relative-cost-logit
+Mexico,Root_Tuber,relative-cost-logit
+Mexico,SugarCrop,relative-cost-logit
+Mexico,Wheat,relative-cost-logit
+Mexico,Forest,relative-cost-logit
+Mexico,biomass,relative-cost-logit
+Mexico,Pasture,relative-cost-logit
+Middle East,Corn,relative-cost-logit
+Middle East,FiberCrop,relative-cost-logit
+Middle East,FodderGrass,relative-cost-logit
+Middle East,FodderHerb,relative-cost-logit
+Middle East,MiscCrop,relative-cost-logit
+Middle East,OilCrop,relative-cost-logit
+Middle East,OtherGrain,relative-cost-logit
+Middle East,PalmFruit,relative-cost-logit
+Middle East,Rice,relative-cost-logit
+Middle East,Root_Tuber,relative-cost-logit
+Middle East,SugarCrop,relative-cost-logit
+Middle East,Wheat,relative-cost-logit
+Middle East,Forest,relative-cost-logit
+Middle East,biomass,relative-cost-logit
+Middle East,Pasture,relative-cost-logit
+Pakistan,Corn,relative-cost-logit
+Pakistan,FiberCrop,relative-cost-logit
+Pakistan,FodderGrass,relative-cost-logit
+Pakistan,FodderHerb,relative-cost-logit
+Pakistan,MiscCrop,relative-cost-logit
+Pakistan,OilCrop,relative-cost-logit
+Pakistan,OtherGrain,relative-cost-logit
+Pakistan,PalmFruit,relative-cost-logit
+Pakistan,Rice,relative-cost-logit
+Pakistan,Root_Tuber,relative-cost-logit
+Pakistan,SugarCrop,relative-cost-logit
+Pakistan,Wheat,relative-cost-logit
+Pakistan,Forest,relative-cost-logit
+Pakistan,biomass,relative-cost-logit
+Pakistan,Pasture,relative-cost-logit
+Russia,Corn,relative-cost-logit
+Russia,FiberCrop,relative-cost-logit
+Russia,FodderGrass,relative-cost-logit
+Russia,FodderHerb,relative-cost-logit
+Russia,MiscCrop,relative-cost-logit
+Russia,OilCrop,relative-cost-logit
+Russia,OtherGrain,relative-cost-logit
+Russia,PalmFruit,relative-cost-logit
+Russia,Rice,relative-cost-logit
+Russia,Root_Tuber,relative-cost-logit
+Russia,SugarCrop,relative-cost-logit
+Russia,Wheat,relative-cost-logit
+Russia,Forest,relative-cost-logit
+Russia,biomass,relative-cost-logit
+Russia,Pasture,relative-cost-logit
+South Africa,Corn,relative-cost-logit
+South Africa,FiberCrop,relative-cost-logit
+South Africa,FodderGrass,relative-cost-logit
+South Africa,FodderHerb,relative-cost-logit
+South Africa,MiscCrop,relative-cost-logit
+South Africa,OilCrop,relative-cost-logit
+South Africa,OtherGrain,relative-cost-logit
+South Africa,PalmFruit,relative-cost-logit
+South Africa,Rice,relative-cost-logit
+South Africa,Root_Tuber,relative-cost-logit
+South Africa,SugarCrop,relative-cost-logit
+South Africa,Wheat,relative-cost-logit
+South Africa,Forest,relative-cost-logit
+South Africa,biomass,relative-cost-logit
+South Africa,Pasture,relative-cost-logit
+South America_Northern,Corn,relative-cost-logit
+South America_Northern,FiberCrop,relative-cost-logit
+South America_Northern,FodderGrass,relative-cost-logit
+South America_Northern,FodderHerb,relative-cost-logit
+South America_Northern,MiscCrop,relative-cost-logit
+South America_Northern,OilCrop,relative-cost-logit
+South America_Northern,OtherGrain,relative-cost-logit
+South America_Northern,PalmFruit,relative-cost-logit
+South America_Northern,Rice,relative-cost-logit
+South America_Northern,Root_Tuber,relative-cost-logit
+South America_Northern,SugarCrop,relative-cost-logit
+South America_Northern,Wheat,relative-cost-logit
+South America_Northern,Forest,relative-cost-logit
+South America_Northern,biomass,relative-cost-logit
+South America_Northern,Pasture,relative-cost-logit
+South America_Southern,Corn,relative-cost-logit
+South America_Southern,FiberCrop,relative-cost-logit
+South America_Southern,FodderGrass,relative-cost-logit
+South America_Southern,FodderHerb,relative-cost-logit
+South America_Southern,MiscCrop,relative-cost-logit
+South America_Southern,OilCrop,relative-cost-logit
+South America_Southern,OtherGrain,relative-cost-logit
+South America_Southern,PalmFruit,relative-cost-logit
+South America_Southern,Rice,relative-cost-logit
+South America_Southern,Root_Tuber,relative-cost-logit
+South America_Southern,SugarCrop,relative-cost-logit
+South America_Southern,Wheat,relative-cost-logit
+South America_Southern,Forest,relative-cost-logit
+South America_Southern,biomass,relative-cost-logit
+South America_Southern,Pasture,relative-cost-logit
+South Asia,Corn,relative-cost-logit
+South Asia,FiberCrop,relative-cost-logit
+South Asia,FodderGrass,relative-cost-logit
+South Asia,FodderHerb,relative-cost-logit
+South Asia,MiscCrop,relative-cost-logit
+South Asia,OilCrop,relative-cost-logit
+South Asia,OtherGrain,relative-cost-logit
+South Asia,PalmFruit,relative-cost-logit
+South Asia,Rice,relative-cost-logit
+South Asia,Root_Tuber,relative-cost-logit
+South Asia,SugarCrop,relative-cost-logit
+South Asia,Wheat,relative-cost-logit
+South Asia,Forest,relative-cost-logit
+South Asia,biomass,relative-cost-logit
+South Asia,Pasture,relative-cost-logit
+South Korea,Corn,relative-cost-logit
+South Korea,FiberCrop,relative-cost-logit
+South Korea,FodderGrass,relative-cost-logit
+South Korea,FodderHerb,relative-cost-logit
+South Korea,MiscCrop,relative-cost-logit
+South Korea,OilCrop,relative-cost-logit
+South Korea,OtherGrain,relative-cost-logit
+South Korea,PalmFruit,relative-cost-logit
+South Korea,Rice,relative-cost-logit
+South Korea,Root_Tuber,relative-cost-logit
+South Korea,SugarCrop,relative-cost-logit
+South Korea,Wheat,relative-cost-logit
+South Korea,Forest,relative-cost-logit
+South Korea,biomass,relative-cost-logit
+South Korea,Pasture,relative-cost-logit
+Southeast Asia,Corn,relative-cost-logit
+Southeast Asia,FiberCrop,relative-cost-logit
+Southeast Asia,FodderGrass,relative-cost-logit
+Southeast Asia,FodderHerb,relative-cost-logit
+Southeast Asia,MiscCrop,relative-cost-logit
+Southeast Asia,OilCrop,relative-cost-logit
+Southeast Asia,OtherGrain,relative-cost-logit
+Southeast Asia,PalmFruit,relative-cost-logit
+Southeast Asia,Rice,relative-cost-logit
+Southeast Asia,Root_Tuber,relative-cost-logit
+Southeast Asia,SugarCrop,relative-cost-logit
+Southeast Asia,Wheat,relative-cost-logit
+Southeast Asia,Forest,relative-cost-logit
+Southeast Asia,biomass,relative-cost-logit
+Southeast Asia,Pasture,relative-cost-logit
+Argentina,Corn,relative-cost-logit
+Argentina,FiberCrop,relative-cost-logit
+Argentina,FodderGrass,relative-cost-logit
+Argentina,FodderHerb,relative-cost-logit
+Argentina,MiscCrop,relative-cost-logit
+Argentina,OilCrop,relative-cost-logit
+Argentina,OtherGrain,relative-cost-logit
+Argentina,PalmFruit,relative-cost-logit
+Argentina,Rice,relative-cost-logit
+Argentina,Root_Tuber,relative-cost-logit
+Argentina,SugarCrop,relative-cost-logit
+Argentina,Wheat,relative-cost-logit
+Argentina,Forest,relative-cost-logit
+Argentina,biomass,relative-cost-logit
+Argentina,Pasture,relative-cost-logit
+Colombia,Corn,relative-cost-logit
+Colombia,FiberCrop,relative-cost-logit
+Colombia,FodderGrass,relative-cost-logit
+Colombia,FodderHerb,relative-cost-logit
+Colombia,MiscCrop,relative-cost-logit
+Colombia,OilCrop,relative-cost-logit
+Colombia,OtherGrain,relative-cost-logit
+Colombia,PalmFruit,relative-cost-logit
+Colombia,Rice,relative-cost-logit
+Colombia,Root_Tuber,relative-cost-logit
+Colombia,SugarCrop,relative-cost-logit
+Colombia,Wheat,relative-cost-logit
+Colombia,Forest,relative-cost-logit
+Colombia,biomass,relative-cost-logit
+Colombia,Pasture,relative-cost-logit

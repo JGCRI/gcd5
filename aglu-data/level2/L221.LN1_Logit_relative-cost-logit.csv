@@ -1,0 +1,1063 @@
+INPUT_TABLE
+Variable ID
+LN1_Logit_relative-cost-logit
+
+region,LandAllocatorRoot,LandNode1,logit.type
+USA,root,UrbanLand_ArkWhtRedR,relative-cost-logit
+USA,root,AgroForestLand_ArkWhtRedR,relative-cost-logit
+USA,root,UrbanLand_California,relative-cost-logit
+USA,root,Tundra_California,relative-cost-logit
+USA,root,RockIceDesert_California,relative-cost-logit
+USA,root,AgroForestLand_California,relative-cost-logit
+USA,root,UrbanLand_Caribbean,relative-cost-logit
+USA,root,AgroForestLand_Caribbean,relative-cost-logit
+USA,root,AgroForestLand_FraserR,relative-cost-logit
+USA,root,UrbanLand_GreatBasin,relative-cost-logit
+USA,root,Tundra_GreatBasin,relative-cost-logit
+USA,root,RockIceDesert_GreatBasin,relative-cost-logit
+USA,root,AgroForestLand_GreatBasin,relative-cost-logit
+USA,root,UrbanLand_GreatLakes,relative-cost-logit
+USA,root,AgroForestLand_GreatLakes,relative-cost-logit
+USA,root,UrbanLand_MexCstNW,relative-cost-logit
+USA,root,AgroForestLand_MexCstNW,relative-cost-logit
+USA,root,UrbanLand_MissouriR,relative-cost-logit
+USA,root,Tundra_MissouriR,relative-cost-logit
+USA,root,AgroForestLand_MissouriR,relative-cost-logit
+USA,root,UrbanLand_MissppRN,relative-cost-logit
+USA,root,AgroForestLand_MissppRN,relative-cost-logit
+USA,root,UrbanLand_MissppRS,relative-cost-logit
+USA,root,AgroForestLand_MissppRS,relative-cost-logit
+USA,root,UrbanLand_NelsonR,relative-cost-logit
+USA,root,AgroForestLand_NelsonR,relative-cost-logit
+USA,root,UrbanLand_OhioR,relative-cost-logit
+USA,root,AgroForestLand_OhioR,relative-cost-logit
+USA,root,UrbanLand_PacArctic,relative-cost-logit
+USA,root,Tundra_PacArctic,relative-cost-logit
+USA,root,RockIceDesert_PacArctic,relative-cost-logit
+USA,root,AgroForestLand_PacArctic,relative-cost-logit
+USA,root,UrbanLand_RioGrande,relative-cost-logit
+USA,root,Tundra_RioGrande,relative-cost-logit
+USA,root,RockIceDesert_RioGrande,relative-cost-logit
+USA,root,AgroForestLand_RioGrande,relative-cost-logit
+USA,root,UrbanLand_TennR,relative-cost-logit
+USA,root,AgroForestLand_TennR,relative-cost-logit
+USA,root,UrbanLand_TexasCst,relative-cost-logit
+USA,root,AgroForestLand_TexasCst,relative-cost-logit
+USA,root,UrbanLand_UsaColoRN,relative-cost-logit
+USA,root,Tundra_UsaColoRN,relative-cost-logit
+USA,root,AgroForestLand_UsaColoRN,relative-cost-logit
+USA,root,UrbanLand_UsaColoRS,relative-cost-logit
+USA,root,AgroForestLand_UsaColoRS,relative-cost-logit
+USA,root,UrbanLand_UsaCstE,relative-cost-logit
+USA,root,AgroForestLand_UsaCstE,relative-cost-logit
+USA,root,UrbanLand_UsaCstNE,relative-cost-logit
+USA,root,AgroForestLand_UsaCstNE,relative-cost-logit
+USA,root,UrbanLand_UsaCstSE,relative-cost-logit
+USA,root,AgroForestLand_UsaCstSE,relative-cost-logit
+USA,root,UrbanLand_UsaPacNW,relative-cost-logit
+USA,root,Tundra_UsaPacNW,relative-cost-logit
+USA,root,AgroForestLand_UsaPacNW,relative-cost-logit
+Africa_Eastern,root,UrbanLand_AfrCstE,relative-cost-logit
+Africa_Eastern,root,AgroForestLand_AfrCstE,relative-cost-logit
+Africa_Eastern,root,UrbanLand_AfrCstNE,relative-cost-logit
+Africa_Eastern,root,RockIceDesert_AfrCstNE,relative-cost-logit
+Africa_Eastern,root,AgroForestLand_AfrCstNE,relative-cost-logit
+Africa_Eastern,root,UrbanLand_AfrIntN,relative-cost-logit
+Africa_Eastern,root,RockIceDesert_AfrIntN,relative-cost-logit
+Africa_Eastern,root,AgroForestLand_AfrIntN,relative-cost-logit
+Africa_Eastern,root,UrbanLand_CongoR,relative-cost-logit
+Africa_Eastern,root,AgroForestLand_CongoR,relative-cost-logit
+Africa_Eastern,root,UrbanLand_LChad,relative-cost-logit
+Africa_Eastern,root,RockIceDesert_LChad,relative-cost-logit
+Africa_Eastern,root,AgroForestLand_LChad,relative-cost-logit
+Africa_Eastern,root,UrbanLand_Madasgacar,relative-cost-logit
+Africa_Eastern,root,RockIceDesert_Madasgacar,relative-cost-logit
+Africa_Eastern,root,AgroForestLand_Madasgacar,relative-cost-logit
+Africa_Eastern,root,UrbanLand_NileR,relative-cost-logit
+Africa_Eastern,root,RockIceDesert_NileR,relative-cost-logit
+Africa_Eastern,root,AgroForestLand_NileR,relative-cost-logit
+Africa_Eastern,root,UrbanLand_RiftValley,relative-cost-logit
+Africa_Eastern,root,RockIceDesert_RiftValley,relative-cost-logit
+Africa_Eastern,root,AgroForestLand_RiftValley,relative-cost-logit
+Africa_Eastern,root,UrbanLand_ShebJubR,relative-cost-logit
+Africa_Eastern,root,RockIceDesert_ShebJubR,relative-cost-logit
+Africa_Eastern,root,AgroForestLand_ShebJubR,relative-cost-logit
+Africa_Northern,root,RockIceDesert_AfrCstNE,relative-cost-logit
+Africa_Northern,root,AgroForestLand_AfrCstNE,relative-cost-logit
+Africa_Northern,root,UrbanLand_AfrCstNW,relative-cost-logit
+Africa_Northern,root,RockIceDesert_AfrCstNW,relative-cost-logit
+Africa_Northern,root,AgroForestLand_AfrCstNW,relative-cost-logit
+Africa_Northern,root,UrbanLand_AfrIntN,relative-cost-logit
+Africa_Northern,root,RockIceDesert_AfrIntN,relative-cost-logit
+Africa_Northern,root,AgroForestLand_AfrIntN,relative-cost-logit
+Africa_Northern,root,RockIceDesert_DeadSea,relative-cost-logit
+Africa_Northern,root,AgroForestLand_DeadSea,relative-cost-logit
+Africa_Northern,root,UrbanLand_LChad,relative-cost-logit
+Africa_Northern,root,RockIceDesert_LChad,relative-cost-logit
+Africa_Northern,root,AgroForestLand_LChad,relative-cost-logit
+Africa_Northern,root,UrbanLand_MeditE,relative-cost-logit
+Africa_Northern,root,RockIceDesert_MeditE,relative-cost-logit
+Africa_Northern,root,AgroForestLand_MeditE,relative-cost-logit
+Africa_Northern,root,UrbanLand_MeditS,relative-cost-logit
+Africa_Northern,root,RockIceDesert_MeditS,relative-cost-logit
+Africa_Northern,root,AgroForestLand_MeditS,relative-cost-logit
+Africa_Northern,root,UrbanLand_NigerR,relative-cost-logit
+Africa_Northern,root,RockIceDesert_NigerR,relative-cost-logit
+Africa_Northern,root,AgroForestLand_NigerR,relative-cost-logit
+Africa_Northern,root,UrbanLand_NileR,relative-cost-logit
+Africa_Northern,root,RockIceDesert_NileR,relative-cost-logit
+Africa_Northern,root,AgroForestLand_NileR,relative-cost-logit
+Africa_Northern,root,UrbanLand_SinaiP,relative-cost-logit
+Africa_Northern,root,RockIceDesert_SinaiP,relative-cost-logit
+Africa_Northern,root,AgroForestLand_SinaiP,relative-cost-logit
+Africa_Southern,root,UrbanLand_AfrCstE,relative-cost-logit
+Africa_Southern,root,RockIceDesert_AfrCstE,relative-cost-logit
+Africa_Southern,root,AgroForestLand_AfrCstE,relative-cost-logit
+Africa_Southern,root,UrbanLand_AfrCstS,relative-cost-logit
+Africa_Southern,root,RockIceDesert_AfrCstS,relative-cost-logit
+Africa_Southern,root,AgroForestLand_AfrCstS,relative-cost-logit
+Africa_Southern,root,UrbanLand_AfrCstSE,relative-cost-logit
+Africa_Southern,root,RockIceDesert_AfrCstSE,relative-cost-logit
+Africa_Southern,root,AgroForestLand_AfrCstSE,relative-cost-logit
+Africa_Southern,root,UrbanLand_AfrCstSW,relative-cost-logit
+Africa_Southern,root,RockIceDesert_AfrCstSW,relative-cost-logit
+Africa_Southern,root,AgroForestLand_AfrCstSW,relative-cost-logit
+Africa_Southern,root,UrbanLand_AfrIntS,relative-cost-logit
+Africa_Southern,root,RockIceDesert_AfrIntS,relative-cost-logit
+Africa_Southern,root,AgroForestLand_AfrIntS,relative-cost-logit
+Africa_Southern,root,UrbanLand_AngolaCst,relative-cost-logit
+Africa_Southern,root,RockIceDesert_AngolaCst,relative-cost-logit
+Africa_Southern,root,AgroForestLand_AngolaCst,relative-cost-logit
+Africa_Southern,root,UrbanLand_CongoR,relative-cost-logit
+Africa_Southern,root,RockIceDesert_CongoR,relative-cost-logit
+Africa_Southern,root,AgroForestLand_CongoR,relative-cost-logit
+Africa_Southern,root,UrbanLand_GuineaGulf,relative-cost-logit
+Africa_Southern,root,AgroForestLand_GuineaGulf,relative-cost-logit
+Africa_Southern,root,UrbanLand_LimpopoR,relative-cost-logit
+Africa_Southern,root,AgroForestLand_LimpopoR,relative-cost-logit
+Africa_Southern,root,UrbanLand_NileR,relative-cost-logit
+Africa_Southern,root,RockIceDesert_NileR,relative-cost-logit
+Africa_Southern,root,AgroForestLand_NileR,relative-cost-logit
+Africa_Southern,root,UrbanLand_OrangeR,relative-cost-logit
+Africa_Southern,root,RockIceDesert_OrangeR,relative-cost-logit
+Africa_Southern,root,AgroForestLand_OrangeR,relative-cost-logit
+Africa_Southern,root,UrbanLand_RiftValley,relative-cost-logit
+Africa_Southern,root,RockIceDesert_RiftValley,relative-cost-logit
+Africa_Southern,root,AgroForestLand_RiftValley,relative-cost-logit
+Africa_Southern,root,UrbanLand_ZambeziR,relative-cost-logit
+Africa_Southern,root,RockIceDesert_ZambeziR,relative-cost-logit
+Africa_Southern,root,AgroForestLand_ZambeziR,relative-cost-logit
+Africa_Western,root,UrbanLand_AfrCstNW,relative-cost-logit
+Africa_Western,root,RockIceDesert_AfrCstNW,relative-cost-logit
+Africa_Western,root,AgroForestLand_AfrCstNW,relative-cost-logit
+Africa_Western,root,UrbanLand_AfrCstW,relative-cost-logit
+Africa_Western,root,RockIceDesert_AfrCstW,relative-cost-logit
+Africa_Western,root,AgroForestLand_AfrCstW,relative-cost-logit
+Africa_Western,root,UrbanLand_AfrIntN,relative-cost-logit
+Africa_Western,root,RockIceDesert_AfrIntN,relative-cost-logit
+Africa_Western,root,AgroForestLand_AfrIntN,relative-cost-logit
+Africa_Western,root,UrbanLand_CongoR,relative-cost-logit
+Africa_Western,root,RockIceDesert_CongoR,relative-cost-logit
+Africa_Western,root,AgroForestLand_CongoR,relative-cost-logit
+Africa_Western,root,UrbanLand_GuineaGulf,relative-cost-logit
+Africa_Western,root,RockIceDesert_GuineaGulf,relative-cost-logit
+Africa_Western,root,AgroForestLand_GuineaGulf,relative-cost-logit
+Africa_Western,root,UrbanLand_LChad,relative-cost-logit
+Africa_Western,root,RockIceDesert_LChad,relative-cost-logit
+Africa_Western,root,AgroForestLand_LChad,relative-cost-logit
+Africa_Western,root,UrbanLand_NigerR,relative-cost-logit
+Africa_Western,root,RockIceDesert_NigerR,relative-cost-logit
+Africa_Western,root,AgroForestLand_NigerR,relative-cost-logit
+Africa_Western,root,UrbanLand_NileR,relative-cost-logit
+Africa_Western,root,RockIceDesert_NileR,relative-cost-logit
+Africa_Western,root,AgroForestLand_NileR,relative-cost-logit
+Africa_Western,root,UrbanLand_SenegalR,relative-cost-logit
+Africa_Western,root,RockIceDesert_SenegalR,relative-cost-logit
+Africa_Western,root,AgroForestLand_SenegalR,relative-cost-logit
+Africa_Western,root,UrbanLand_VoltaR,relative-cost-logit
+Africa_Western,root,RockIceDesert_VoltaR,relative-cost-logit
+Africa_Western,root,AgroForestLand_VoltaR,relative-cost-logit
+Africa_Western,root,UrbanLand_ZambeziR,relative-cost-logit
+Africa_Western,root,AgroForestLand_ZambeziR,relative-cost-logit
+Australia_NZ,root,UrbanLand_AusCstE,relative-cost-logit
+Australia_NZ,root,AgroForestLand_AusCstE,relative-cost-logit
+Australia_NZ,root,UrbanLand_AusCstN,relative-cost-logit
+Australia_NZ,root,RockIceDesert_AusCstN,relative-cost-logit
+Australia_NZ,root,AgroForestLand_AusCstN,relative-cost-logit
+Australia_NZ,root,UrbanLand_AusCstS,relative-cost-logit
+Australia_NZ,root,RockIceDesert_AusCstS,relative-cost-logit
+Australia_NZ,root,AgroForestLand_AusCstS,relative-cost-logit
+Australia_NZ,root,UrbanLand_AusCstW,relative-cost-logit
+Australia_NZ,root,RockIceDesert_AusCstW,relative-cost-logit
+Australia_NZ,root,AgroForestLand_AusCstW,relative-cost-logit
+Australia_NZ,root,UrbanLand_AusInt,relative-cost-logit
+Australia_NZ,root,RockIceDesert_AusInt,relative-cost-logit
+Australia_NZ,root,AgroForestLand_AusInt,relative-cost-logit
+Australia_NZ,root,UrbanLand_MurrayDrlg,relative-cost-logit
+Australia_NZ,root,AgroForestLand_MurrayDrlg,relative-cost-logit
+Australia_NZ,root,UrbanLand_NewZealand,relative-cost-logit
+Australia_NZ,root,Tundra_NewZealand,relative-cost-logit
+Australia_NZ,root,RockIceDesert_NewZealand,relative-cost-logit
+Australia_NZ,root,AgroForestLand_NewZealand,relative-cost-logit
+Australia_NZ,root,UrbanLand_Tasmania,relative-cost-logit
+Australia_NZ,root,AgroForestLand_Tasmania,relative-cost-logit
+Brazil,root,UrbanLand_AmazonR,relative-cost-logit
+Brazil,root,Tundra_AmazonR,relative-cost-logit
+Brazil,root,RockIceDesert_AmazonR,relative-cost-logit
+Brazil,root,AgroForestLand_AmazonR,relative-cost-logit
+Brazil,root,UrbanLand_BrzCstE,relative-cost-logit
+Brazil,root,RockIceDesert_BrzCstE,relative-cost-logit
+Brazil,root,AgroForestLand_BrzCstE,relative-cost-logit
+Brazil,root,UrbanLand_BrzCstN,relative-cost-logit
+Brazil,root,RockIceDesert_BrzCstN,relative-cost-logit
+Brazil,root,AgroForestLand_BrzCstN,relative-cost-logit
+Brazil,root,UrbanLand_BrzCstS,relative-cost-logit
+Brazil,root,RockIceDesert_BrzCstS,relative-cost-logit
+Brazil,root,AgroForestLand_BrzCstS,relative-cost-logit
+Brazil,root,UrbanLand_OrinocoR,relative-cost-logit
+Brazil,root,Tundra_OrinocoR,relative-cost-logit
+Brazil,root,AgroForestLand_OrinocoR,relative-cost-logit
+Brazil,root,UrbanLand_ParnaibaR,relative-cost-logit
+Brazil,root,AgroForestLand_ParnaibaR,relative-cost-logit
+Brazil,root,UrbanLand_RioLaPlata,relative-cost-logit
+Brazil,root,RockIceDesert_RioLaPlata,relative-cost-logit
+Brazil,root,AgroForestLand_RioLaPlata,relative-cost-logit
+Brazil,root,UrbanLand_SAmerCstNE,relative-cost-logit
+Brazil,root,RockIceDesert_SAmerCstNE,relative-cost-logit
+Brazil,root,AgroForestLand_SAmerCstNE,relative-cost-logit
+Brazil,root,UrbanLand_SaoFrancR,relative-cost-logit
+Brazil,root,RockIceDesert_SaoFrancR,relative-cost-logit
+Brazil,root,AgroForestLand_SaoFrancR,relative-cost-logit
+Brazil,root,UrbanLand_TocantinsR,relative-cost-logit
+Brazil,root,RockIceDesert_TocantinsR,relative-cost-logit
+Brazil,root,AgroForestLand_TocantinsR,relative-cost-logit
+Canada,root,UrbanLand_CanAtl,relative-cost-logit
+Canada,root,Tundra_CanAtl,relative-cost-logit
+Canada,root,RockIceDesert_CanAtl,relative-cost-logit
+Canada,root,AgroForestLand_CanAtl,relative-cost-logit
+Canada,root,UrbanLand_ChurchillR,relative-cost-logit
+Canada,root,Tundra_ChurchillR,relative-cost-logit
+Canada,root,AgroForestLand_ChurchillR,relative-cost-logit
+Canada,root,UrbanLand_FraserR,relative-cost-logit
+Canada,root,Tundra_FraserR,relative-cost-logit
+Canada,root,RockIceDesert_FraserR,relative-cost-logit
+Canada,root,AgroForestLand_FraserR,relative-cost-logit
+Canada,root,UrbanLand_GreatLakes,relative-cost-logit
+Canada,root,AgroForestLand_GreatLakes,relative-cost-logit
+Canada,root,UrbanLand_HudsonBay,relative-cost-logit
+Canada,root,Tundra_HudsonBay,relative-cost-logit
+Canada,root,RockIceDesert_HudsonBay,relative-cost-logit
+Canada,root,AgroForestLand_HudsonBay,relative-cost-logit
+Canada,root,UrbanLand_Mackenzie,relative-cost-logit
+Canada,root,Tundra_Mackenzie,relative-cost-logit
+Canada,root,RockIceDesert_Mackenzie,relative-cost-logit
+Canada,root,AgroForestLand_Mackenzie,relative-cost-logit
+Canada,root,UrbanLand_MissouriR,relative-cost-logit
+Canada,root,AgroForestLand_MissouriR,relative-cost-logit
+Canada,root,UrbanLand_NelsonR,relative-cost-logit
+Canada,root,Tundra_NelsonR,relative-cost-logit
+Canada,root,RockIceDesert_NelsonR,relative-cost-logit
+Canada,root,AgroForestLand_NelsonR,relative-cost-logit
+Canada,root,UrbanLand_NWTerr,relative-cost-logit
+Canada,root,Tundra_NWTerr,relative-cost-logit
+Canada,root,RockIceDesert_NWTerr,relative-cost-logit
+Canada,root,AgroForestLand_NWTerr,relative-cost-logit
+Canada,root,UrbanLand_PacArctic,relative-cost-logit
+Canada,root,Tundra_PacArctic,relative-cost-logit
+Canada,root,RockIceDesert_PacArctic,relative-cost-logit
+Canada,root,AgroForestLand_PacArctic,relative-cost-logit
+Canada,root,UrbanLand_StLwrncR,relative-cost-logit
+Canada,root,Tundra_StLwrncR,relative-cost-logit
+Canada,root,AgroForestLand_StLwrncR,relative-cost-logit
+Canada,root,UrbanLand_UsaCstNE,relative-cost-logit
+Canada,root,AgroForestLand_UsaCstNE,relative-cost-logit
+Canada,root,UrbanLand_UsaPacNW,relative-cost-logit
+Canada,root,Tundra_UsaPacNW,relative-cost-logit
+Canada,root,RockIceDesert_UsaPacNW,relative-cost-logit
+Canada,root,AgroForestLand_UsaPacNW,relative-cost-logit
+Central America and Caribbean,root,UrbanLand_Caribbean,relative-cost-logit
+Central America and Caribbean,root,AgroForestLand_Caribbean,relative-cost-logit
+Central America and Caribbean,root,UrbanLand_CntAmer,relative-cost-logit
+Central America and Caribbean,root,AgroForestLand_CntAmer,relative-cost-logit
+Central America and Caribbean,root,UrbanLand_ColEcuaCst,relative-cost-logit
+Central America and Caribbean,root,AgroForestLand_ColEcuaCst,relative-cost-logit
+Central America and Caribbean,root,UrbanLand_GrijUsuR,relative-cost-logit
+Central America and Caribbean,root,AgroForestLand_GrijUsuR,relative-cost-logit
+Central America and Caribbean,root,UrbanLand_SAmerCstN,relative-cost-logit
+Central America and Caribbean,root,AgroForestLand_SAmerCstN,relative-cost-logit
+Central America and Caribbean,root,UrbanLand_YucatanP,relative-cost-logit
+Central America and Caribbean,root,AgroForestLand_YucatanP,relative-cost-logit
+Central Asia,root,UrbanLand_AmuDaryaR,relative-cost-logit
+Central Asia,root,Tundra_AmuDaryaR,relative-cost-logit
+Central Asia,root,RockIceDesert_AmuDaryaR,relative-cost-logit
+Central Asia,root,AgroForestLand_AmuDaryaR,relative-cost-logit
+Central Asia,root,UrbanLand_AmurR,relative-cost-logit
+Central Asia,root,AgroForestLand_AmurR,relative-cost-logit
+Central Asia,root,AgroForestLand_BlackSeaN,relative-cost-logit
+Central Asia,root,UrbanLand_BlackSeaS,relative-cost-logit
+Central Asia,root,Tundra_BlackSeaS,relative-cost-logit
+Central Asia,root,RockIceDesert_BlackSeaS,relative-cost-logit
+Central Asia,root,AgroForestLand_BlackSeaS,relative-cost-logit
+Central Asia,root,UrbanLand_CaspianE,relative-cost-logit
+Central Asia,root,Tundra_CaspianE,relative-cost-logit
+Central Asia,root,RockIceDesert_CaspianE,relative-cost-logit
+Central Asia,root,AgroForestLand_CaspianE,relative-cost-logit
+Central Asia,root,UrbanLand_CaspianNE,relative-cost-logit
+Central Asia,root,Tundra_CaspianNE,relative-cost-logit
+Central Asia,root,RockIceDesert_CaspianNE,relative-cost-logit
+Central Asia,root,AgroForestLand_CaspianNE,relative-cost-logit
+Central Asia,root,UrbanLand_CaspianSW,relative-cost-logit
+Central Asia,root,Tundra_CaspianSW,relative-cost-logit
+Central Asia,root,RockIceDesert_CaspianSW,relative-cost-logit
+Central Asia,root,AgroForestLand_CaspianSW,relative-cost-logit
+Central Asia,root,UrbanLand_Gobi,relative-cost-logit
+Central Asia,root,Tundra_Gobi,relative-cost-logit
+Central Asia,root,RockIceDesert_Gobi,relative-cost-logit
+Central Asia,root,AgroForestLand_Gobi,relative-cost-logit
+Central Asia,root,UrbanLand_LBalkash,relative-cost-logit
+Central Asia,root,Tundra_LBalkash,relative-cost-logit
+Central Asia,root,RockIceDesert_LBalkash,relative-cost-logit
+Central Asia,root,AgroForestLand_LBalkash,relative-cost-logit
+Central Asia,root,UrbanLand_ObR,relative-cost-logit
+Central Asia,root,Tundra_ObR,relative-cost-logit
+Central Asia,root,RockIceDesert_ObR,relative-cost-logit
+Central Asia,root,AgroForestLand_ObR,relative-cost-logit
+Central Asia,root,UrbanLand_SyrDaryaR,relative-cost-logit
+Central Asia,root,Tundra_SyrDaryaR,relative-cost-logit
+Central Asia,root,RockIceDesert_SyrDaryaR,relative-cost-logit
+Central Asia,root,AgroForestLand_SyrDaryaR,relative-cost-logit
+Central Asia,root,Tundra_Tarim,relative-cost-logit
+Central Asia,root,RockIceDesert_Tarim,relative-cost-logit
+Central Asia,root,AgroForestLand_Tarim,relative-cost-logit
+Central Asia,root,UrbanLand_UralR,relative-cost-logit
+Central Asia,root,AgroForestLand_UralR,relative-cost-logit
+Central Asia,root,UrbanLand_VolgaR,relative-cost-logit
+Central Asia,root,AgroForestLand_VolgaR,relative-cost-logit
+Central Asia,root,UrbanLand_YeniseiR,relative-cost-logit
+Central Asia,root,Tundra_YeniseiR,relative-cost-logit
+Central Asia,root,AgroForestLand_YeniseiR,relative-cost-logit
+China,root,Tundra_AmuDaryaR,relative-cost-logit
+China,root,RockIceDesert_AmuDaryaR,relative-cost-logit
+China,root,AgroForestLand_AmuDaryaR,relative-cost-logit
+China,root,UrbanLand_AmurR,relative-cost-logit
+China,root,Tundra_AmurR,relative-cost-logit
+China,root,AgroForestLand_AmurR,relative-cost-logit
+China,root,UrbanLand_BoHai,relative-cost-logit
+China,root,Tundra_BoHai,relative-cost-logit
+China,root,RockIceDesert_BoHai,relative-cost-logit
+China,root,AgroForestLand_BoHai,relative-cost-logit
+China,root,UrbanLand_ChinaCst,relative-cost-logit
+China,root,RockIceDesert_ChinaCst,relative-cost-logit
+China,root,AgroForestLand_ChinaCst,relative-cost-logit
+China,root,UrbanLand_GangesR,relative-cost-logit
+China,root,Tundra_GangesR,relative-cost-logit
+China,root,RockIceDesert_GangesR,relative-cost-logit
+China,root,AgroForestLand_GangesR,relative-cost-logit
+China,root,UrbanLand_Gobi,relative-cost-logit
+China,root,Tundra_Gobi,relative-cost-logit
+China,root,RockIceDesert_Gobi,relative-cost-logit
+China,root,AgroForestLand_Gobi,relative-cost-logit
+China,root,UrbanLand_Hainan,relative-cost-logit
+China,root,AgroForestLand_Hainan,relative-cost-logit
+China,root,UrbanLand_Hong,relative-cost-logit
+China,root,AgroForestLand_Hong,relative-cost-logit
+China,root,UrbanLand_HuangHeR,relative-cost-logit
+China,root,Tundra_HuangHeR,relative-cost-logit
+China,root,RockIceDesert_HuangHeR,relative-cost-logit
+China,root,AgroForestLand_HuangHeR,relative-cost-logit
+China,root,UrbanLand_IndusR,relative-cost-logit
+China,root,Tundra_IndusR,relative-cost-logit
+China,root,RockIceDesert_IndusR,relative-cost-logit
+China,root,AgroForestLand_IndusR,relative-cost-logit
+China,root,UrbanLand_IrrawaddyR,relative-cost-logit
+China,root,Tundra_IrrawaddyR,relative-cost-logit
+China,root,AgroForestLand_IrrawaddyR,relative-cost-logit
+China,root,UrbanLand_LBalkash,relative-cost-logit
+China,root,Tundra_LBalkash,relative-cost-logit
+China,root,RockIceDesert_LBalkash,relative-cost-logit
+China,root,AgroForestLand_LBalkash,relative-cost-logit
+China,root,UrbanLand_Mekong,relative-cost-logit
+China,root,Tundra_Mekong,relative-cost-logit
+China,root,RockIceDesert_Mekong,relative-cost-logit
+China,root,AgroForestLand_Mekong,relative-cost-logit
+China,root,UrbanLand_ObR,relative-cost-logit
+China,root,Tundra_ObR,relative-cost-logit
+China,root,RockIceDesert_ObR,relative-cost-logit
+China,root,AgroForestLand_ObR,relative-cost-logit
+China,root,UrbanLand_RusCstSE,relative-cost-logit
+China,root,AgroForestLand_RusCstSE,relative-cost-logit
+China,root,UrbanLand_Salween,relative-cost-logit
+China,root,Tundra_Salween,relative-cost-logit
+China,root,RockIceDesert_Salween,relative-cost-logit
+China,root,AgroForestLand_Salween,relative-cost-logit
+China,root,UrbanLand_SChinaSea,relative-cost-logit
+China,root,RockIceDesert_SChinaSea,relative-cost-logit
+China,root,AgroForestLand_SChinaSea,relative-cost-logit
+China,root,Tundra_SyrDaryaR,relative-cost-logit
+China,root,AgroForestLand_SyrDaryaR,relative-cost-logit
+China,root,UrbanLand_Taiwan,relative-cost-logit
+China,root,AgroForestLand_Taiwan,relative-cost-logit
+China,root,UrbanLand_Tarim,relative-cost-logit
+China,root,Tundra_Tarim,relative-cost-logit
+China,root,RockIceDesert_Tarim,relative-cost-logit
+China,root,AgroForestLand_Tarim,relative-cost-logit
+China,root,UrbanLand_Tibet,relative-cost-logit
+China,root,Tundra_Tibet,relative-cost-logit
+China,root,RockIceDesert_Tibet,relative-cost-logit
+China,root,AgroForestLand_Tibet,relative-cost-logit
+China,root,UrbanLand_XunJiang,relative-cost-logit
+China,root,AgroForestLand_XunJiang,relative-cost-logit
+China,root,UrbanLand_Yangtze,relative-cost-logit
+China,root,Tundra_Yangtze,relative-cost-logit
+China,root,RockIceDesert_Yangtze,relative-cost-logit
+China,root,AgroForestLand_Yangtze,relative-cost-logit
+China,root,UrbanLand_ZiyaHe,relative-cost-logit
+China,root,Tundra_ZiyaHe,relative-cost-logit
+China,root,RockIceDesert_ZiyaHe,relative-cost-logit
+China,root,AgroForestLand_ZiyaHe,relative-cost-logit
+EU-12,root,UrbanLand_AdrBlkSea,relative-cost-logit
+EU-12,root,AgroForestLand_AdrBlkSea,relative-cost-logit
+EU-12,root,UrbanLand_BalticSea,relative-cost-logit
+EU-12,root,AgroForestLand_BalticSea,relative-cost-logit
+EU-12,root,UrbanLand_DanubeR,relative-cost-logit
+EU-12,root,AgroForestLand_DanubeR,relative-cost-logit
+EU-12,root,UrbanLand_DaugavaR,relative-cost-logit
+EU-12,root,AgroForestLand_DaugavaR,relative-cost-logit
+EU-12,root,AgroForestLand_DniesterR,relative-cost-logit
+EU-12,root,UrbanLand_DnkGrmCst,relative-cost-logit
+EU-12,root,AgroForestLand_DnkGrmCst,relative-cost-logit
+EU-12,root,UrbanLand_ElbeR,relative-cost-logit
+EU-12,root,AgroForestLand_ElbeR,relative-cost-logit
+EU-12,root,UrbanLand_MeditE,relative-cost-logit
+EU-12,root,AgroForestLand_MeditE,relative-cost-logit
+EU-12,root,UrbanLand_NarvaR,relative-cost-logit
+EU-12,root,AgroForestLand_NarvaR,relative-cost-logit
+EU-12,root,UrbanLand_NemanR,relative-cost-logit
+EU-12,root,Tundra_NemanR,relative-cost-logit
+EU-12,root,AgroForestLand_NemanR,relative-cost-logit
+EU-12,root,UrbanLand_OderR,relative-cost-logit
+EU-12,root,AgroForestLand_OderR,relative-cost-logit
+EU-12,root,UrbanLand_PolandCst,relative-cost-logit
+EU-12,root,AgroForestLand_PolandCst,relative-cost-logit
+EU-12,root,UrbanLand_WislaR,relative-cost-logit
+EU-12,root,AgroForestLand_WislaR,relative-cost-logit
+EU-15,root,UrbanLand_AdrBlkSea,relative-cost-logit
+EU-15,root,AgroForestLand_AdrBlkSea,relative-cost-logit
+EU-15,root,UrbanLand_ArcticIsl,relative-cost-logit
+EU-15,root,Tundra_ArcticIsl,relative-cost-logit
+EU-15,root,RockIceDesert_ArcticIsl,relative-cost-logit
+EU-15,root,UrbanLand_DanubeR,relative-cost-logit
+EU-15,root,Tundra_DanubeR,relative-cost-logit
+EU-15,root,RockIceDesert_DanubeR,relative-cost-logit
+EU-15,root,AgroForestLand_DanubeR,relative-cost-logit
+EU-15,root,UrbanLand_DnkGrmCst,relative-cost-logit
+EU-15,root,AgroForestLand_DnkGrmCst,relative-cost-logit
+EU-15,root,UrbanLand_DouroR,relative-cost-logit
+EU-15,root,AgroForestLand_DouroR,relative-cost-logit
+EU-15,root,UrbanLand_EbroR,relative-cost-logit
+EU-15,root,Tundra_EbroR,relative-cost-logit
+EU-15,root,AgroForestLand_EbroR,relative-cost-logit
+EU-15,root,UrbanLand_ElbeR,relative-cost-logit
+EU-15,root,AgroForestLand_ElbeR,relative-cost-logit
+EU-15,root,UrbanLand_EmsWeserR,relative-cost-logit
+EU-15,root,AgroForestLand_EmsWeserR,relative-cost-logit
+EU-15,root,UrbanLand_EngWales,relative-cost-logit
+EU-15,root,AgroForestLand_EngWales,relative-cost-logit
+EU-15,root,UrbanLand_Finland,relative-cost-logit
+EU-15,root,AgroForestLand_Finland,relative-cost-logit
+EU-15,root,UrbanLand_FranceCstS,relative-cost-logit
+EU-15,root,Tundra_FranceCstS,relative-cost-logit
+EU-15,root,RockIceDesert_FranceCstS,relative-cost-logit
+EU-15,root,AgroForestLand_FranceCstS,relative-cost-logit
+EU-15,root,UrbanLand_FranceCstW,relative-cost-logit
+EU-15,root,Tundra_FranceCstW,relative-cost-logit
+EU-15,root,AgroForestLand_FranceCstW,relative-cost-logit
+EU-15,root,UrbanLand_Gironde,relative-cost-logit
+EU-15,root,Tundra_Gironde,relative-cost-logit
+EU-15,root,AgroForestLand_Gironde,relative-cost-logit
+EU-15,root,UrbanLand_GuadalqR,relative-cost-logit
+EU-15,root,AgroForestLand_GuadalqR,relative-cost-logit
+EU-15,root,UrbanLand_GuadianaR,relative-cost-logit
+EU-15,root,AgroForestLand_GuadianaR,relative-cost-logit
+EU-15,root,UrbanLand_IberiaCst,relative-cost-logit
+EU-15,root,AgroForestLand_IberiaCst,relative-cost-logit
+EU-15,root,UrbanLand_Ireland,relative-cost-logit
+EU-15,root,AgroForestLand_Ireland,relative-cost-logit
+EU-15,root,UrbanLand_ItalyCstE,relative-cost-logit
+EU-15,root,Tundra_ItalyCstE,relative-cost-logit
+EU-15,root,AgroForestLand_ItalyCstE,relative-cost-logit
+EU-15,root,UrbanLand_ItalyCstW,relative-cost-logit
+EU-15,root,AgroForestLand_ItalyCstW,relative-cost-logit
+EU-15,root,UrbanLand_LoireR,relative-cost-logit
+EU-15,root,AgroForestLand_LoireR,relative-cost-logit
+EU-15,root,UrbanLand_MeditIsl,relative-cost-logit
+EU-15,root,AgroForestLand_MeditIsl,relative-cost-logit
+EU-15,root,UrbanLand_NevaR,relative-cost-logit
+EU-15,root,AgroForestLand_NevaR,relative-cost-logit
+EU-15,root,UrbanLand_OderR,relative-cost-logit
+EU-15,root,AgroForestLand_OderR,relative-cost-logit
+EU-15,root,UrbanLand_PoR,relative-cost-logit
+EU-15,root,Tundra_PoR,relative-cost-logit
+EU-15,root,RockIceDesert_PoR,relative-cost-logit
+EU-15,root,AgroForestLand_PoR,relative-cost-logit
+EU-15,root,UrbanLand_RhineR,relative-cost-logit
+EU-15,root,AgroForestLand_RhineR,relative-cost-logit
+EU-15,root,UrbanLand_RhoneR,relative-cost-logit
+EU-15,root,Tundra_RhoneR,relative-cost-logit
+EU-15,root,RockIceDesert_RhoneR,relative-cost-logit
+EU-15,root,AgroForestLand_RhoneR,relative-cost-logit
+EU-15,root,UrbanLand_ScheldtR,relative-cost-logit
+EU-15,root,AgroForestLand_ScheldtR,relative-cost-logit
+EU-15,root,UrbanLand_ScndnvN,relative-cost-logit
+EU-15,root,Tundra_ScndnvN,relative-cost-logit
+EU-15,root,AgroForestLand_ScndnvN,relative-cost-logit
+EU-15,root,UrbanLand_Scotland,relative-cost-logit
+EU-15,root,AgroForestLand_Scotland,relative-cost-logit
+EU-15,root,UrbanLand_SeineR,relative-cost-logit
+EU-15,root,AgroForestLand_SeineR,relative-cost-logit
+EU-15,root,UrbanLand_SpainCstSE,relative-cost-logit
+EU-15,root,AgroForestLand_SpainCstSE,relative-cost-logit
+EU-15,root,UrbanLand_Sweden,relative-cost-logit
+EU-15,root,Tundra_Sweden,relative-cost-logit
+EU-15,root,RockIceDesert_Sweden,relative-cost-logit
+EU-15,root,AgroForestLand_Sweden,relative-cost-logit
+EU-15,root,UrbanLand_TagusR,relative-cost-logit
+EU-15,root,AgroForestLand_TagusR,relative-cost-logit
+EU-15,root,UrbanLand_TiberR,relative-cost-logit
+EU-15,root,AgroForestLand_TiberR,relative-cost-logit
+Europe_Eastern,root,UrbanLand_BlackSeaN,relative-cost-logit
+Europe_Eastern,root,AgroForestLand_BlackSeaN,relative-cost-logit
+Europe_Eastern,root,UrbanLand_DanubeR,relative-cost-logit
+Europe_Eastern,root,AgroForestLand_DanubeR,relative-cost-logit
+Europe_Eastern,root,UrbanLand_DaugavaR,relative-cost-logit
+Europe_Eastern,root,AgroForestLand_DaugavaR,relative-cost-logit
+Europe_Eastern,root,UrbanLand_DnieperR,relative-cost-logit
+Europe_Eastern,root,Tundra_DnieperR,relative-cost-logit
+Europe_Eastern,root,RockIceDesert_DnieperR,relative-cost-logit
+Europe_Eastern,root,AgroForestLand_DnieperR,relative-cost-logit
+Europe_Eastern,root,UrbanLand_DniesterR,relative-cost-logit
+Europe_Eastern,root,AgroForestLand_DniesterR,relative-cost-logit
+Europe_Eastern,root,UrbanLand_DonR,relative-cost-logit
+Europe_Eastern,root,AgroForestLand_DonR,relative-cost-logit
+Europe_Eastern,root,UrbanLand_NemanR,relative-cost-logit
+Europe_Eastern,root,AgroForestLand_NemanR,relative-cost-logit
+Europe_Eastern,root,UrbanLand_NevaR,relative-cost-logit
+Europe_Eastern,root,AgroForestLand_NevaR,relative-cost-logit
+Europe_Eastern,root,UrbanLand_WislaR,relative-cost-logit
+Europe_Eastern,root,Tundra_WislaR,relative-cost-logit
+Europe_Eastern,root,AgroForestLand_WislaR,relative-cost-logit
+Europe_Non_EU,root,UrbanLand_AdrBlkSea,relative-cost-logit
+Europe_Non_EU,root,AgroForestLand_AdrBlkSea,relative-cost-logit
+Europe_Non_EU,root,UrbanLand_BlackSeaS,relative-cost-logit
+Europe_Non_EU,root,Tundra_BlackSeaS,relative-cost-logit
+Europe_Non_EU,root,AgroForestLand_BlackSeaS,relative-cost-logit
+Europe_Non_EU,root,UrbanLand_CaspianSW,relative-cost-logit
+Europe_Non_EU,root,Tundra_CaspianSW,relative-cost-logit
+Europe_Non_EU,root,AgroForestLand_CaspianSW,relative-cost-logit
+Europe_Non_EU,root,UrbanLand_DanubeR,relative-cost-logit
+Europe_Non_EU,root,AgroForestLand_DanubeR,relative-cost-logit
+Europe_Non_EU,root,AgroForestLand_EJrdnSyr,relative-cost-logit
+Europe_Non_EU,root,UrbanLand_MeditE,relative-cost-logit
+Europe_Non_EU,root,RockIceDesert_MeditE,relative-cost-logit
+Europe_Non_EU,root,AgroForestLand_MeditE,relative-cost-logit
+Europe_Non_EU,root,UrbanLand_TigrEuphR,relative-cost-logit
+Europe_Non_EU,root,Tundra_TigrEuphR,relative-cost-logit
+Europe_Non_EU,root,AgroForestLand_TigrEuphR,relative-cost-logit
+European Free Trade Association,root,UrbanLand_DanubeR,relative-cost-logit
+European Free Trade Association,root,Tundra_DanubeR,relative-cost-logit
+European Free Trade Association,root,AgroForestLand_DanubeR,relative-cost-logit
+European Free Trade Association,root,UrbanLand_Iceland,relative-cost-logit
+European Free Trade Association,root,Tundra_Iceland,relative-cost-logit
+European Free Trade Association,root,RockIceDesert_Iceland,relative-cost-logit
+European Free Trade Association,root,AgroForestLand_Iceland,relative-cost-logit
+European Free Trade Association,root,UrbanLand_PoR,relative-cost-logit
+European Free Trade Association,root,Tundra_PoR,relative-cost-logit
+European Free Trade Association,root,RockIceDesert_PoR,relative-cost-logit
+European Free Trade Association,root,AgroForestLand_PoR,relative-cost-logit
+European Free Trade Association,root,UrbanLand_RhineR,relative-cost-logit
+European Free Trade Association,root,Tundra_RhineR,relative-cost-logit
+European Free Trade Association,root,RockIceDesert_RhineR,relative-cost-logit
+European Free Trade Association,root,AgroForestLand_RhineR,relative-cost-logit
+European Free Trade Association,root,UrbanLand_RhoneR,relative-cost-logit
+European Free Trade Association,root,Tundra_RhoneR,relative-cost-logit
+European Free Trade Association,root,RockIceDesert_RhoneR,relative-cost-logit
+European Free Trade Association,root,AgroForestLand_RhoneR,relative-cost-logit
+European Free Trade Association,root,UrbanLand_ScndnvN,relative-cost-logit
+European Free Trade Association,root,Tundra_ScndnvN,relative-cost-logit
+European Free Trade Association,root,RockIceDesert_ScndnvN,relative-cost-logit
+European Free Trade Association,root,AgroForestLand_ScndnvN,relative-cost-logit
+European Free Trade Association,root,UrbanLand_Sweden,relative-cost-logit
+European Free Trade Association,root,Tundra_Sweden,relative-cost-logit
+European Free Trade Association,root,RockIceDesert_Sweden,relative-cost-logit
+European Free Trade Association,root,AgroForestLand_Sweden,relative-cost-logit
+India,root,UrbanLand_BengalBay,relative-cost-logit
+India,root,AgroForestLand_BengalBay,relative-cost-logit
+India,root,UrbanLand_BengalW,relative-cost-logit
+India,root,AgroForestLand_BengalW,relative-cost-logit
+India,root,UrbanLand_BrahmaniR,relative-cost-logit
+India,root,AgroForestLand_BrahmaniR,relative-cost-logit
+India,root,UrbanLand_CauveryR,relative-cost-logit
+India,root,AgroForestLand_CauveryR,relative-cost-logit
+India,root,UrbanLand_GangesR,relative-cost-logit
+India,root,Tundra_GangesR,relative-cost-logit
+India,root,RockIceDesert_GangesR,relative-cost-logit
+India,root,AgroForestLand_GangesR,relative-cost-logit
+India,root,UrbanLand_GodavariR,relative-cost-logit
+India,root,AgroForestLand_GodavariR,relative-cost-logit
+India,root,UrbanLand_IndCstE,relative-cost-logit
+India,root,RockIceDesert_IndCstE,relative-cost-logit
+India,root,AgroForestLand_IndCstE,relative-cost-logit
+India,root,UrbanLand_IndCstNE,relative-cost-logit
+India,root,AgroForestLand_IndCstNE,relative-cost-logit
+India,root,UrbanLand_IndCstS,relative-cost-logit
+India,root,RockIceDesert_IndCstS,relative-cost-logit
+India,root,AgroForestLand_IndCstS,relative-cost-logit
+India,root,UrbanLand_IndCstW,relative-cost-logit
+India,root,AgroForestLand_IndCstW,relative-cost-logit
+India,root,UrbanLand_IndusR,relative-cost-logit
+India,root,Tundra_IndusR,relative-cost-logit
+India,root,RockIceDesert_IndusR,relative-cost-logit
+India,root,AgroForestLand_IndusR,relative-cost-logit
+India,root,UrbanLand_IrrawaddyR,relative-cost-logit
+India,root,AgroForestLand_IrrawaddyR,relative-cost-logit
+India,root,UrbanLand_KrishnaR,relative-cost-logit
+India,root,AgroForestLand_KrishnaR,relative-cost-logit
+India,root,UrbanLand_MahanadiR,relative-cost-logit
+India,root,AgroForestLand_MahanadiR,relative-cost-logit
+India,root,UrbanLand_MahiR,relative-cost-logit
+India,root,AgroForestLand_MahiR,relative-cost-logit
+India,root,UrbanLand_NarmadaR,relative-cost-logit
+India,root,AgroForestLand_NarmadaR,relative-cost-logit
+India,root,UrbanLand_PennarR,relative-cost-logit
+India,root,AgroForestLand_PennarR,relative-cost-logit
+India,root,UrbanLand_SabarmatiR,relative-cost-logit
+India,root,RockIceDesert_SabarmatiR,relative-cost-logit
+India,root,AgroForestLand_SabarmatiR,relative-cost-logit
+India,root,UrbanLand_TaptiR,relative-cost-logit
+India,root,AgroForestLand_TaptiR,relative-cost-logit
+Indonesia,root,UrbanLand_BorneoCstN,relative-cost-logit
+Indonesia,root,AgroForestLand_BorneoCstN,relative-cost-logit
+Indonesia,root,UrbanLand_FlyR,relative-cost-logit
+Indonesia,root,AgroForestLand_FlyR,relative-cost-logit
+Indonesia,root,UrbanLand_IdnE,relative-cost-logit
+Indonesia,root,AgroForestLand_IdnE,relative-cost-logit
+Indonesia,root,UrbanLand_IrianJaya,relative-cost-logit
+Indonesia,root,AgroForestLand_IrianJaya,relative-cost-logit
+Indonesia,root,UrbanLand_JavaTimor,relative-cost-logit
+Indonesia,root,AgroForestLand_JavaTimor,relative-cost-logit
+Indonesia,root,UrbanLand_Kalimantan,relative-cost-logit
+Indonesia,root,AgroForestLand_Kalimantan,relative-cost-logit
+Indonesia,root,UrbanLand_SepikR,relative-cost-logit
+Indonesia,root,AgroForestLand_SepikR,relative-cost-logit
+Indonesia,root,UrbanLand_Sulawesi,relative-cost-logit
+Indonesia,root,AgroForestLand_Sulawesi,relative-cost-logit
+Indonesia,root,UrbanLand_Sumatra,relative-cost-logit
+Indonesia,root,AgroForestLand_Sumatra,relative-cost-logit
+Japan,root,UrbanLand_Japan,relative-cost-logit
+Japan,root,Tundra_Japan,relative-cost-logit
+Japan,root,AgroForestLand_Japan,relative-cost-logit
+Japan,root,AgroForestLand_Taiwan,relative-cost-logit
+Mexico,root,UrbanLand_California,relative-cost-logit
+Mexico,root,AgroForestLand_California,relative-cost-logit
+Mexico,root,UrbanLand_CntAmer,relative-cost-logit
+Mexico,root,AgroForestLand_CntAmer,relative-cost-logit
+Mexico,root,UrbanLand_GrijUsuR,relative-cost-logit
+Mexico,root,AgroForestLand_GrijUsuR,relative-cost-logit
+Mexico,root,UrbanLand_MexBaja,relative-cost-logit
+Mexico,root,RockIceDesert_MexBaja,relative-cost-logit
+Mexico,root,AgroForestLand_MexBaja,relative-cost-logit
+Mexico,root,UrbanLand_MexCstNW,relative-cost-logit
+Mexico,root,AgroForestLand_MexCstNW,relative-cost-logit
+Mexico,root,UrbanLand_MexCstW,relative-cost-logit
+Mexico,root,AgroForestLand_MexCstW,relative-cost-logit
+Mexico,root,UrbanLand_MexGulf,relative-cost-logit
+Mexico,root,AgroForestLand_MexGulf,relative-cost-logit
+Mexico,root,UrbanLand_MexInt,relative-cost-logit
+Mexico,root,AgroForestLand_MexInt,relative-cost-logit
+Mexico,root,UrbanLand_Papaloapan,relative-cost-logit
+Mexico,root,AgroForestLand_Papaloapan,relative-cost-logit
+Mexico,root,UrbanLand_RioBalsas,relative-cost-logit
+Mexico,root,Tundra_RioBalsas,relative-cost-logit
+Mexico,root,AgroForestLand_RioBalsas,relative-cost-logit
+Mexico,root,UrbanLand_RioGrande,relative-cost-logit
+Mexico,root,AgroForestLand_RioGrande,relative-cost-logit
+Mexico,root,UrbanLand_RioLerma,relative-cost-logit
+Mexico,root,AgroForestLand_RioLerma,relative-cost-logit
+Mexico,root,UrbanLand_RioVerde,relative-cost-logit
+Mexico,root,AgroForestLand_RioVerde,relative-cost-logit
+Mexico,root,UrbanLand_Tehuantpc,relative-cost-logit
+Mexico,root,AgroForestLand_Tehuantpc,relative-cost-logit
+Mexico,root,UrbanLand_UsaColoRS,relative-cost-logit
+Mexico,root,RockIceDesert_UsaColoRS,relative-cost-logit
+Mexico,root,AgroForestLand_UsaColoRS,relative-cost-logit
+Mexico,root,UrbanLand_YucatanP,relative-cost-logit
+Mexico,root,Tundra_YucatanP,relative-cost-logit
+Mexico,root,AgroForestLand_YucatanP,relative-cost-logit
+Middle East,root,UrbanLand_AfrCstNE,relative-cost-logit
+Middle East,root,AgroForestLand_AfrCstNE,relative-cost-logit
+Middle East,root,UrbanLand_ArabianP,relative-cost-logit
+Middle East,root,RockIceDesert_ArabianP,relative-cost-logit
+Middle East,root,AgroForestLand_ArabianP,relative-cost-logit
+Middle East,root,UrbanLand_ArabianSea,relative-cost-logit
+Middle East,root,RockIceDesert_ArabianSea,relative-cost-logit
+Middle East,root,AgroForestLand_ArabianSea,relative-cost-logit
+Middle East,root,UrbanLand_CaspianE,relative-cost-logit
+Middle East,root,RockIceDesert_CaspianE,relative-cost-logit
+Middle East,root,AgroForestLand_CaspianE,relative-cost-logit
+Middle East,root,UrbanLand_CaspianSW,relative-cost-logit
+Middle East,root,Tundra_CaspianSW,relative-cost-logit
+Middle East,root,RockIceDesert_CaspianSW,relative-cost-logit
+Middle East,root,AgroForestLand_CaspianSW,relative-cost-logit
+Middle East,root,UrbanLand_DeadSea,relative-cost-logit
+Middle East,root,RockIceDesert_DeadSea,relative-cost-logit
+Middle East,root,AgroForestLand_DeadSea,relative-cost-logit
+Middle East,root,UrbanLand_EJrdnSyr,relative-cost-logit
+Middle East,root,RockIceDesert_EJrdnSyr,relative-cost-logit
+Middle East,root,AgroForestLand_EJrdnSyr,relative-cost-logit
+Middle East,root,UrbanLand_FarahrudR,relative-cost-logit
+Middle East,root,RockIceDesert_FarahrudR,relative-cost-logit
+Middle East,root,AgroForestLand_FarahrudR,relative-cost-logit
+Middle East,root,UrbanLand_HamuMashR,relative-cost-logit
+Middle East,root,RockIceDesert_HamuMashR,relative-cost-logit
+Middle East,root,AgroForestLand_HamuMashR,relative-cost-logit
+Middle East,root,UrbanLand_Helmand,relative-cost-logit
+Middle East,root,RockIceDesert_Helmand,relative-cost-logit
+Middle East,root,AgroForestLand_Helmand,relative-cost-logit
+Middle East,root,UrbanLand_Iran,relative-cost-logit
+Middle East,root,RockIceDesert_Iran,relative-cost-logit
+Middle East,root,AgroForestLand_Iran,relative-cost-logit
+Middle East,root,UrbanLand_MeditE,relative-cost-logit
+Middle East,root,RockIceDesert_MeditE,relative-cost-logit
+Middle East,root,AgroForestLand_MeditE,relative-cost-logit
+Middle East,root,UrbanLand_PersianGulf,relative-cost-logit
+Middle East,root,RockIceDesert_PersianGulf,relative-cost-logit
+Middle East,root,AgroForestLand_PersianGulf,relative-cost-logit
+Middle East,root,UrbanLand_RedSeaE,relative-cost-logit
+Middle East,root,RockIceDesert_RedSeaE,relative-cost-logit
+Middle East,root,AgroForestLand_RedSeaE,relative-cost-logit
+Middle East,root,UrbanLand_SinaiP,relative-cost-logit
+Middle East,root,RockIceDesert_SinaiP,relative-cost-logit
+Middle East,root,AgroForestLand_SinaiP,relative-cost-logit
+Middle East,root,UrbanLand_TigrEuphR,relative-cost-logit
+Middle East,root,RockIceDesert_TigrEuphR,relative-cost-logit
+Middle East,root,AgroForestLand_TigrEuphR,relative-cost-logit
+Pakistan,root,RockIceDesert_AmuDaryaR,relative-cost-logit
+Pakistan,root,AgroForestLand_AmuDaryaR,relative-cost-logit
+Pakistan,root,UrbanLand_ArabianSea,relative-cost-logit
+Pakistan,root,RockIceDesert_ArabianSea,relative-cost-logit
+Pakistan,root,AgroForestLand_ArabianSea,relative-cost-logit
+Pakistan,root,UrbanLand_HamuMashR,relative-cost-logit
+Pakistan,root,RockIceDesert_HamuMashR,relative-cost-logit
+Pakistan,root,AgroForestLand_HamuMashR,relative-cost-logit
+Pakistan,root,UrbanLand_Helmand,relative-cost-logit
+Pakistan,root,RockIceDesert_Helmand,relative-cost-logit
+Pakistan,root,AgroForestLand_Helmand,relative-cost-logit
+Pakistan,root,UrbanLand_IndusR,relative-cost-logit
+Pakistan,root,Tundra_IndusR,relative-cost-logit
+Pakistan,root,RockIceDesert_IndusR,relative-cost-logit
+Pakistan,root,AgroForestLand_IndusR,relative-cost-logit
+Pakistan,root,UrbanLand_SabarmatiR,relative-cost-logit
+Pakistan,root,RockIceDesert_SabarmatiR,relative-cost-logit
+Pakistan,root,AgroForestLand_SabarmatiR,relative-cost-logit
+Pakistan,root,UrbanLand_Tarim,relative-cost-logit
+Pakistan,root,RockIceDesert_Tarim,relative-cost-logit
+Pakistan,root,AgroForestLand_Tarim,relative-cost-logit
+Russia,root,UrbanLand_AmurR,relative-cost-logit
+Russia,root,Tundra_AmurR,relative-cost-logit
+Russia,root,AgroForestLand_AmurR,relative-cost-logit
+Russia,root,UrbanLand_ArcticIsl,relative-cost-logit
+Russia,root,Tundra_ArcticIsl,relative-cost-logit
+Russia,root,RockIceDesert_ArcticIsl,relative-cost-logit
+Russia,root,AgroForestLand_ArcticIsl,relative-cost-logit
+Russia,root,UrbanLand_BalticSea,relative-cost-logit
+Russia,root,Tundra_BalticSea,relative-cost-logit
+Russia,root,AgroForestLand_BalticSea,relative-cost-logit
+Russia,root,UrbanLand_BarentsSea,relative-cost-logit
+Russia,root,Tundra_BarentsSea,relative-cost-logit
+Russia,root,RockIceDesert_BarentsSea,relative-cost-logit
+Russia,root,AgroForestLand_BarentsSea,relative-cost-logit
+Russia,root,UrbanLand_BlackSeaN,relative-cost-logit
+Russia,root,Tundra_BlackSeaN,relative-cost-logit
+Russia,root,RockIceDesert_BlackSeaN,relative-cost-logit
+Russia,root,AgroForestLand_BlackSeaN,relative-cost-logit
+Russia,root,Tundra_BlackSeaS,relative-cost-logit
+Russia,root,RockIceDesert_BlackSeaS,relative-cost-logit
+Russia,root,AgroForestLand_BlackSeaS,relative-cost-logit
+Russia,root,UrbanLand_CaspianNE,relative-cost-logit
+Russia,root,Tundra_CaspianNE,relative-cost-logit
+Russia,root,RockIceDesert_CaspianNE,relative-cost-logit
+Russia,root,AgroForestLand_CaspianNE,relative-cost-logit
+Russia,root,UrbanLand_CaspianSW,relative-cost-logit
+Russia,root,Tundra_CaspianSW,relative-cost-logit
+Russia,root,AgroForestLand_CaspianSW,relative-cost-logit
+Russia,root,UrbanLand_DaugavaR,relative-cost-logit
+Russia,root,AgroForestLand_DaugavaR,relative-cost-logit
+Russia,root,UrbanLand_DnieperR,relative-cost-logit
+Russia,root,AgroForestLand_DnieperR,relative-cost-logit
+Russia,root,UrbanLand_DonR,relative-cost-logit
+Russia,root,AgroForestLand_DonR,relative-cost-logit
+Russia,root,UrbanLand_DvinaRN,relative-cost-logit
+Russia,root,AgroForestLand_DvinaRN,relative-cost-logit
+Russia,root,UrbanLand_Finland,relative-cost-logit
+Russia,root,AgroForestLand_Finland,relative-cost-logit
+Russia,root,UrbanLand_Gobi,relative-cost-logit
+Russia,root,Tundra_Gobi,relative-cost-logit
+Russia,root,RockIceDesert_Gobi,relative-cost-logit
+Russia,root,AgroForestLand_Gobi,relative-cost-logit
+Russia,root,UrbanLand_KaraSea,relative-cost-logit
+Russia,root,Tundra_KaraSea,relative-cost-logit
+Russia,root,RockIceDesert_KaraSea,relative-cost-logit
+Russia,root,AgroForestLand_KaraSea,relative-cost-logit
+Russia,root,UrbanLand_LenaR,relative-cost-logit
+Russia,root,Tundra_LenaR,relative-cost-logit
+Russia,root,RockIceDesert_LenaR,relative-cost-logit
+Russia,root,AgroForestLand_LenaR,relative-cost-logit
+Russia,root,UrbanLand_NarvaR,relative-cost-logit
+Russia,root,AgroForestLand_NarvaR,relative-cost-logit
+Russia,root,UrbanLand_NemanR,relative-cost-logit
+Russia,root,Tundra_NemanR,relative-cost-logit
+Russia,root,AgroForestLand_NemanR,relative-cost-logit
+Russia,root,UrbanLand_NevaR,relative-cost-logit
+Russia,root,Tundra_NevaR,relative-cost-logit
+Russia,root,AgroForestLand_NevaR,relative-cost-logit
+Russia,root,UrbanLand_ObR,relative-cost-logit
+Russia,root,Tundra_ObR,relative-cost-logit
+Russia,root,RockIceDesert_ObR,relative-cost-logit
+Russia,root,AgroForestLand_ObR,relative-cost-logit
+Russia,root,UrbanLand_PolandCst,relative-cost-logit
+Russia,root,AgroForestLand_PolandCst,relative-cost-logit
+Russia,root,UrbanLand_RusCstSE,relative-cost-logit
+Russia,root,AgroForestLand_RusCstSE,relative-cost-logit
+Russia,root,UrbanLand_ScndnvN,relative-cost-logit
+Russia,root,Tundra_ScndnvN,relative-cost-logit
+Russia,root,AgroForestLand_ScndnvN,relative-cost-logit
+Russia,root,UrbanLand_SiberiaN,relative-cost-logit
+Russia,root,Tundra_SiberiaN,relative-cost-logit
+Russia,root,RockIceDesert_SiberiaN,relative-cost-logit
+Russia,root,AgroForestLand_SiberiaN,relative-cost-logit
+Russia,root,UrbanLand_SiberiaW,relative-cost-logit
+Russia,root,Tundra_SiberiaW,relative-cost-logit
+Russia,root,RockIceDesert_SiberiaW,relative-cost-logit
+Russia,root,AgroForestLand_SiberiaW,relative-cost-logit
+Russia,root,UrbanLand_SyrDaryaR,relative-cost-logit
+Russia,root,AgroForestLand_SyrDaryaR,relative-cost-logit
+Russia,root,UrbanLand_UralR,relative-cost-logit
+Russia,root,AgroForestLand_UralR,relative-cost-logit
+Russia,root,UrbanLand_VolgaR,relative-cost-logit
+Russia,root,Tundra_VolgaR,relative-cost-logit
+Russia,root,AgroForestLand_VolgaR,relative-cost-logit
+Russia,root,UrbanLand_YeniseiR,relative-cost-logit
+Russia,root,Tundra_YeniseiR,relative-cost-logit
+Russia,root,RockIceDesert_YeniseiR,relative-cost-logit
+Russia,root,AgroForestLand_YeniseiR,relative-cost-logit
+South Africa,root,UrbanLand_AfrCstS,relative-cost-logit
+South Africa,root,RockIceDesert_AfrCstS,relative-cost-logit
+South Africa,root,AgroForestLand_AfrCstS,relative-cost-logit
+South Africa,root,UrbanLand_AfrCstSSW,relative-cost-logit
+South Africa,root,RockIceDesert_AfrCstSSW,relative-cost-logit
+South Africa,root,AgroForestLand_AfrCstSSW,relative-cost-logit
+South Africa,root,UrbanLand_AfrCstSW,relative-cost-logit
+South Africa,root,RockIceDesert_AfrCstSW,relative-cost-logit
+South Africa,root,AgroForestLand_AfrCstSW,relative-cost-logit
+South Africa,root,UrbanLand_LimpopoR,relative-cost-logit
+South Africa,root,AgroForestLand_LimpopoR,relative-cost-logit
+South Africa,root,UrbanLand_OrangeR,relative-cost-logit
+South Africa,root,RockIceDesert_OrangeR,relative-cost-logit
+South Africa,root,AgroForestLand_OrangeR,relative-cost-logit
+South America_Northern,root,UrbanLand_AmazonR,relative-cost-logit
+South America_Northern,root,AgroForestLand_AmazonR,relative-cost-logit
+South America_Northern,root,AgroForestLand_MagdalenaR,relative-cost-logit
+South America_Northern,root,UrbanLand_OrinocoR,relative-cost-logit
+South America_Northern,root,Tundra_OrinocoR,relative-cost-logit
+South America_Northern,root,RockIceDesert_OrinocoR,relative-cost-logit
+South America_Northern,root,AgroForestLand_OrinocoR,relative-cost-logit
+South America_Northern,root,UrbanLand_SAmerCstN,relative-cost-logit
+South America_Northern,root,Tundra_SAmerCstN,relative-cost-logit
+South America_Northern,root,RockIceDesert_SAmerCstN,relative-cost-logit
+South America_Northern,root,AgroForestLand_SAmerCstN,relative-cost-logit
+South America_Northern,root,UrbanLand_SAmerCstNE,relative-cost-logit
+South America_Northern,root,RockIceDesert_SAmerCstNE,relative-cost-logit
+South America_Northern,root,AgroForestLand_SAmerCstNE,relative-cost-logit
+South America_Southern,root,UrbanLand_AmazonR,relative-cost-logit
+South America_Southern,root,Tundra_AmazonR,relative-cost-logit
+South America_Southern,root,RockIceDesert_AmazonR,relative-cost-logit
+South America_Southern,root,AgroForestLand_AmazonR,relative-cost-logit
+South America_Southern,root,RockIceDesert_ArgColoR,relative-cost-logit
+South America_Southern,root,AgroForestLand_ArgColoR,relative-cost-logit
+South America_Southern,root,UrbanLand_ArgCstS,relative-cost-logit
+South America_Southern,root,RockIceDesert_ArgCstS,relative-cost-logit
+South America_Southern,root,AgroForestLand_ArgCstS,relative-cost-logit
+South America_Southern,root,UrbanLand_BrzCstS,relative-cost-logit
+South America_Southern,root,AgroForestLand_BrzCstS,relative-cost-logit
+South America_Southern,root,UrbanLand_ChileCstN,relative-cost-logit
+South America_Southern,root,Tundra_ChileCstN,relative-cost-logit
+South America_Southern,root,RockIceDesert_ChileCstN,relative-cost-logit
+South America_Southern,root,AgroForestLand_ChileCstN,relative-cost-logit
+South America_Southern,root,UrbanLand_ChileCstS,relative-cost-logit
+South America_Southern,root,Tundra_ChileCstS,relative-cost-logit
+South America_Southern,root,RockIceDesert_ChileCstS,relative-cost-logit
+South America_Southern,root,AgroForestLand_ChileCstS,relative-cost-logit
+South America_Southern,root,UrbanLand_ColEcuaCst,relative-cost-logit
+South America_Southern,root,Tundra_ColEcuaCst,relative-cost-logit
+South America_Southern,root,RockIceDesert_ColEcuaCst,relative-cost-logit
+South America_Southern,root,AgroForestLand_ColEcuaCst,relative-cost-logit
+South America_Southern,root,UrbanLand_LaPuna,relative-cost-logit
+South America_Southern,root,Tundra_LaPuna,relative-cost-logit
+South America_Southern,root,RockIceDesert_LaPuna,relative-cost-logit
+South America_Southern,root,AgroForestLand_LaPuna,relative-cost-logit
+South America_Southern,root,Tundra_NegroR,relative-cost-logit
+South America_Southern,root,AgroForestLand_NegroR,relative-cost-logit
+South America_Southern,root,UrbanLand_PeruCst,relative-cost-logit
+South America_Southern,root,Tundra_PeruCst,relative-cost-logit
+South America_Southern,root,RockIceDesert_PeruCst,relative-cost-logit
+South America_Southern,root,AgroForestLand_PeruCst,relative-cost-logit
+South America_Southern,root,UrbanLand_RioLaPlata,relative-cost-logit
+South America_Southern,root,Tundra_RioLaPlata,relative-cost-logit
+South America_Southern,root,RockIceDesert_RioLaPlata,relative-cost-logit
+South America_Southern,root,AgroForestLand_RioLaPlata,relative-cost-logit
+South America_Southern,root,RockIceDesert_Salinas,relative-cost-logit
+South Asia,root,UrbanLand_AmuDaryaR,relative-cost-logit
+South Asia,root,Tundra_AmuDaryaR,relative-cost-logit
+South Asia,root,RockIceDesert_AmuDaryaR,relative-cost-logit
+South Asia,root,AgroForestLand_AmuDaryaR,relative-cost-logit
+South Asia,root,UrbanLand_BengalBay,relative-cost-logit
+South Asia,root,AgroForestLand_BengalBay,relative-cost-logit
+South Asia,root,UrbanLand_CaspianE,relative-cost-logit
+South Asia,root,RockIceDesert_CaspianE,relative-cost-logit
+South Asia,root,AgroForestLand_CaspianE,relative-cost-logit
+South Asia,root,UrbanLand_FarahrudR,relative-cost-logit
+South Asia,root,RockIceDesert_FarahrudR,relative-cost-logit
+South Asia,root,AgroForestLand_FarahrudR,relative-cost-logit
+South Asia,root,UrbanLand_GangesR,relative-cost-logit
+South Asia,root,Tundra_GangesR,relative-cost-logit
+South Asia,root,RockIceDesert_GangesR,relative-cost-logit
+South Asia,root,AgroForestLand_GangesR,relative-cost-logit
+South Asia,root,RockIceDesert_HamuMashR,relative-cost-logit
+South Asia,root,AgroForestLand_HamuMashR,relative-cost-logit
+South Asia,root,UrbanLand_Helmand,relative-cost-logit
+South Asia,root,RockIceDesert_Helmand,relative-cost-logit
+South Asia,root,AgroForestLand_Helmand,relative-cost-logit
+South Asia,root,UrbanLand_IndusR,relative-cost-logit
+South Asia,root,Tundra_IndusR,relative-cost-logit
+South Asia,root,RockIceDesert_IndusR,relative-cost-logit
+South Asia,root,AgroForestLand_IndusR,relative-cost-logit
+South Asia,root,UrbanLand_SriLanka,relative-cost-logit
+South Asia,root,AgroForestLand_SriLanka,relative-cost-logit
+South Korea,root,UrbanLand_Korea,relative-cost-logit
+South Korea,root,AgroForestLand_Korea,relative-cost-logit
+Southeast Asia,root,UrbanLand_BengalBay,relative-cost-logit
+Southeast Asia,root,AgroForestLand_BengalBay,relative-cost-logit
+Southeast Asia,root,UrbanLand_BoHai,relative-cost-logit
+Southeast Asia,root,AgroForestLand_BoHai,relative-cost-logit
+Southeast Asia,root,UrbanLand_BorneoCstN,relative-cost-logit
+Southeast Asia,root,AgroForestLand_BorneoCstN,relative-cost-logit
+Southeast Asia,root,UrbanLand_ChaoPhrR,relative-cost-logit
+Southeast Asia,root,RockIceDesert_ChaoPhrR,relative-cost-logit
+Southeast Asia,root,AgroForestLand_ChaoPhrR,relative-cost-logit
+Southeast Asia,root,UrbanLand_FlyR,relative-cost-logit
+Southeast Asia,root,AgroForestLand_FlyR,relative-cost-logit
+Southeast Asia,root,Tundra_GangesR,relative-cost-logit
+Southeast Asia,root,RockIceDesert_GangesR,relative-cost-logit
+Southeast Asia,root,AgroForestLand_GangesR,relative-cost-logit
+Southeast Asia,root,UrbanLand_Hong,relative-cost-logit
+Southeast Asia,root,AgroForestLand_Hong,relative-cost-logit
+Southeast Asia,root,AgroForestLand_IdnE,relative-cost-logit
+Southeast Asia,root,UrbanLand_IrianJaya,relative-cost-logit
+Southeast Asia,root,AgroForestLand_IrianJaya,relative-cost-logit
+Southeast Asia,root,UrbanLand_IrrawaddyR,relative-cost-logit
+Southeast Asia,root,Tundra_IrrawaddyR,relative-cost-logit
+Southeast Asia,root,AgroForestLand_IrrawaddyR,relative-cost-logit
+Southeast Asia,root,UrbanLand_JavaTimor,relative-cost-logit
+Southeast Asia,root,AgroForestLand_JavaTimor,relative-cost-logit
+Southeast Asia,root,UrbanLand_Kalimantan,relative-cost-logit
+Southeast Asia,root,AgroForestLand_Kalimantan,relative-cost-logit
+Southeast Asia,root,UrbanLand_Korea,relative-cost-logit
+Southeast Asia,root,AgroForestLand_Korea,relative-cost-logit
+Southeast Asia,root,UrbanLand_MalaysiaP,relative-cost-logit
+Southeast Asia,root,RockIceDesert_MalaysiaP,relative-cost-logit
+Southeast Asia,root,AgroForestLand_MalaysiaP,relative-cost-logit
+Southeast Asia,root,UrbanLand_Mekong,relative-cost-logit
+Southeast Asia,root,RockIceDesert_Mekong,relative-cost-logit
+Southeast Asia,root,AgroForestLand_Mekong,relative-cost-logit
+Southeast Asia,root,AgroForestLand_NewCaledn,relative-cost-logit
+Southeast Asia,root,UrbanLand_PapuaCst,relative-cost-logit
+Southeast Asia,root,AgroForestLand_PapuaCst,relative-cost-logit
+Southeast Asia,root,UrbanLand_Phlppns,relative-cost-logit
+Southeast Asia,root,AgroForestLand_Phlppns,relative-cost-logit
+Southeast Asia,root,UrbanLand_RusCstSE,relative-cost-logit
+Southeast Asia,root,AgroForestLand_RusCstSE,relative-cost-logit
+Southeast Asia,root,UrbanLand_Salween,relative-cost-logit
+Southeast Asia,root,AgroForestLand_Salween,relative-cost-logit
+Southeast Asia,root,UrbanLand_SChinaSea,relative-cost-logit
+Southeast Asia,root,AgroForestLand_SChinaSea,relative-cost-logit
+Southeast Asia,root,UrbanLand_SepikR,relative-cost-logit
+Southeast Asia,root,AgroForestLand_SepikR,relative-cost-logit
+Southeast Asia,root,UrbanLand_SittaungR,relative-cost-logit
+Southeast Asia,root,RockIceDesert_SittaungR,relative-cost-logit
+Southeast Asia,root,AgroForestLand_SittaungR,relative-cost-logit
+Southeast Asia,root,UrbanLand_ThaiGulf,relative-cost-logit
+Southeast Asia,root,AgroForestLand_ThaiGulf,relative-cost-logit
+Southeast Asia,root,UrbanLand_VietnamCst,relative-cost-logit
+Southeast Asia,root,RockIceDesert_VietnamCst,relative-cost-logit
+Southeast Asia,root,AgroForestLand_VietnamCst,relative-cost-logit
+Southeast Asia,root,UrbanLand_XunJiang,relative-cost-logit
+Southeast Asia,root,AgroForestLand_XunJiang,relative-cost-logit
+Argentina,root,UrbanLand_ArgColoR,relative-cost-logit
+Argentina,root,Tundra_ArgColoR,relative-cost-logit
+Argentina,root,RockIceDesert_ArgColoR,relative-cost-logit
+Argentina,root,AgroForestLand_ArgColoR,relative-cost-logit
+Argentina,root,UrbanLand_ArgCstN,relative-cost-logit
+Argentina,root,Tundra_ArgCstN,relative-cost-logit
+Argentina,root,AgroForestLand_ArgCstN,relative-cost-logit
+Argentina,root,UrbanLand_ArgCstS,relative-cost-logit
+Argentina,root,Tundra_ArgCstS,relative-cost-logit
+Argentina,root,RockIceDesert_ArgCstS,relative-cost-logit
+Argentina,root,AgroForestLand_ArgCstS,relative-cost-logit
+Argentina,root,RockIceDesert_ChileCstN,relative-cost-logit
+Argentina,root,AgroForestLand_ChileCstN,relative-cost-logit
+Argentina,root,UrbanLand_ChileCstS,relative-cost-logit
+Argentina,root,Tundra_ChileCstS,relative-cost-logit
+Argentina,root,RockIceDesert_ChileCstS,relative-cost-logit
+Argentina,root,AgroForestLand_ChileCstS,relative-cost-logit
+Argentina,root,UrbanLand_LaPuna,relative-cost-logit
+Argentina,root,Tundra_LaPuna,relative-cost-logit
+Argentina,root,RockIceDesert_LaPuna,relative-cost-logit
+Argentina,root,AgroForestLand_LaPuna,relative-cost-logit
+Argentina,root,UrbanLand_MarChiq,relative-cost-logit
+Argentina,root,Tundra_MarChiq,relative-cost-logit
+Argentina,root,RockIceDesert_MarChiq,relative-cost-logit
+Argentina,root,AgroForestLand_MarChiq,relative-cost-logit
+Argentina,root,UrbanLand_NegroR,relative-cost-logit
+Argentina,root,Tundra_NegroR,relative-cost-logit
+Argentina,root,RockIceDesert_NegroR,relative-cost-logit
+Argentina,root,AgroForestLand_NegroR,relative-cost-logit
+Argentina,root,UrbanLand_Pampas,relative-cost-logit
+Argentina,root,RockIceDesert_Pampas,relative-cost-logit
+Argentina,root,AgroForestLand_Pampas,relative-cost-logit
+Argentina,root,UrbanLand_Patagonia,relative-cost-logit
+Argentina,root,RockIceDesert_Patagonia,relative-cost-logit
+Argentina,root,AgroForestLand_Patagonia,relative-cost-logit
+Argentina,root,UrbanLand_RioLaPlata,relative-cost-logit
+Argentina,root,Tundra_RioLaPlata,relative-cost-logit
+Argentina,root,RockIceDesert_RioLaPlata,relative-cost-logit
+Argentina,root,AgroForestLand_RioLaPlata,relative-cost-logit
+Argentina,root,UrbanLand_Salinas,relative-cost-logit
+Argentina,root,RockIceDesert_Salinas,relative-cost-logit
+Argentina,root,AgroForestLand_Salinas,relative-cost-logit
+Colombia,root,UrbanLand_AmazonR,relative-cost-logit
+Colombia,root,Tundra_AmazonR,relative-cost-logit
+Colombia,root,AgroForestLand_AmazonR,relative-cost-logit
+Colombia,root,UrbanLand_ColEcuaCst,relative-cost-logit
+Colombia,root,Tundra_ColEcuaCst,relative-cost-logit
+Colombia,root,AgroForestLand_ColEcuaCst,relative-cost-logit
+Colombia,root,UrbanLand_MagdalenaR,relative-cost-logit
+Colombia,root,Tundra_MagdalenaR,relative-cost-logit
+Colombia,root,RockIceDesert_MagdalenaR,relative-cost-logit
+Colombia,root,AgroForestLand_MagdalenaR,relative-cost-logit
+Colombia,root,UrbanLand_OrinocoR,relative-cost-logit
+Colombia,root,Tundra_OrinocoR,relative-cost-logit
+Colombia,root,AgroForestLand_OrinocoR,relative-cost-logit
+Colombia,root,UrbanLand_SAmerCstN,relative-cost-logit
+Colombia,root,Tundra_SAmerCstN,relative-cost-logit
+Colombia,root,RockIceDesert_SAmerCstN,relative-cost-logit
+Colombia,root,AgroForestLand_SAmerCstN,relative-cost-logit

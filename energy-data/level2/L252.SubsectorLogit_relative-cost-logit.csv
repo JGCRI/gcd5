@@ -1,0 +1,165 @@
+INPUT_TABLE
+Variable ID
+SubsectorLogit_relative-cost-logit
+
+region,supplysector,subsector,logit.type
+USA,transportation,coal,relative-cost-logit
+USA,transportation,electricity,relative-cost-logit
+USA,transportation,hydrogen,relative-cost-logit
+USA,transportation,gas,relative-cost-logit
+USA,transportation,refined liquids,relative-cost-logit
+Africa_Eastern,transportation,coal,relative-cost-logit
+Africa_Eastern,transportation,electricity,relative-cost-logit
+Africa_Eastern,transportation,hydrogen,relative-cost-logit
+Africa_Eastern,transportation,gas,relative-cost-logit
+Africa_Eastern,transportation,refined liquids,relative-cost-logit
+Africa_Northern,transportation,coal,relative-cost-logit
+Africa_Northern,transportation,electricity,relative-cost-logit
+Africa_Northern,transportation,hydrogen,relative-cost-logit
+Africa_Northern,transportation,gas,relative-cost-logit
+Africa_Northern,transportation,refined liquids,relative-cost-logit
+Africa_Southern,transportation,coal,relative-cost-logit
+Africa_Southern,transportation,electricity,relative-cost-logit
+Africa_Southern,transportation,hydrogen,relative-cost-logit
+Africa_Southern,transportation,gas,relative-cost-logit
+Africa_Southern,transportation,refined liquids,relative-cost-logit
+Africa_Western,transportation,coal,relative-cost-logit
+Africa_Western,transportation,electricity,relative-cost-logit
+Africa_Western,transportation,hydrogen,relative-cost-logit
+Africa_Western,transportation,gas,relative-cost-logit
+Africa_Western,transportation,refined liquids,relative-cost-logit
+Australia_NZ,transportation,coal,relative-cost-logit
+Australia_NZ,transportation,electricity,relative-cost-logit
+Australia_NZ,transportation,hydrogen,relative-cost-logit
+Australia_NZ,transportation,gas,relative-cost-logit
+Australia_NZ,transportation,refined liquids,relative-cost-logit
+Brazil,transportation,coal,relative-cost-logit
+Brazil,transportation,electricity,relative-cost-logit
+Brazil,transportation,hydrogen,relative-cost-logit
+Brazil,transportation,gas,relative-cost-logit
+Brazil,transportation,refined liquids,relative-cost-logit
+Canada,transportation,coal,relative-cost-logit
+Canada,transportation,electricity,relative-cost-logit
+Canada,transportation,hydrogen,relative-cost-logit
+Canada,transportation,gas,relative-cost-logit
+Canada,transportation,refined liquids,relative-cost-logit
+Central America and Caribbean,transportation,coal,relative-cost-logit
+Central America and Caribbean,transportation,electricity,relative-cost-logit
+Central America and Caribbean,transportation,hydrogen,relative-cost-logit
+Central America and Caribbean,transportation,gas,relative-cost-logit
+Central America and Caribbean,transportation,refined liquids,relative-cost-logit
+Central Asia,transportation,coal,relative-cost-logit
+Central Asia,transportation,electricity,relative-cost-logit
+Central Asia,transportation,hydrogen,relative-cost-logit
+Central Asia,transportation,gas,relative-cost-logit
+Central Asia,transportation,refined liquids,relative-cost-logit
+China,transportation,coal,relative-cost-logit
+China,transportation,electricity,relative-cost-logit
+China,transportation,hydrogen,relative-cost-logit
+China,transportation,gas,relative-cost-logit
+China,transportation,refined liquids,relative-cost-logit
+EU-12,transportation,coal,relative-cost-logit
+EU-12,transportation,electricity,relative-cost-logit
+EU-12,transportation,hydrogen,relative-cost-logit
+EU-12,transportation,gas,relative-cost-logit
+EU-12,transportation,refined liquids,relative-cost-logit
+EU-15,transportation,coal,relative-cost-logit
+EU-15,transportation,electricity,relative-cost-logit
+EU-15,transportation,hydrogen,relative-cost-logit
+EU-15,transportation,gas,relative-cost-logit
+EU-15,transportation,refined liquids,relative-cost-logit
+Europe_Eastern,transportation,coal,relative-cost-logit
+Europe_Eastern,transportation,electricity,relative-cost-logit
+Europe_Eastern,transportation,hydrogen,relative-cost-logit
+Europe_Eastern,transportation,gas,relative-cost-logit
+Europe_Eastern,transportation,refined liquids,relative-cost-logit
+Europe_Non_EU,transportation,coal,relative-cost-logit
+Europe_Non_EU,transportation,electricity,relative-cost-logit
+Europe_Non_EU,transportation,hydrogen,relative-cost-logit
+Europe_Non_EU,transportation,gas,relative-cost-logit
+Europe_Non_EU,transportation,refined liquids,relative-cost-logit
+European Free Trade Association,transportation,coal,relative-cost-logit
+European Free Trade Association,transportation,electricity,relative-cost-logit
+European Free Trade Association,transportation,hydrogen,relative-cost-logit
+European Free Trade Association,transportation,gas,relative-cost-logit
+European Free Trade Association,transportation,refined liquids,relative-cost-logit
+India,transportation,coal,relative-cost-logit
+India,transportation,electricity,relative-cost-logit
+India,transportation,hydrogen,relative-cost-logit
+India,transportation,gas,relative-cost-logit
+India,transportation,refined liquids,relative-cost-logit
+Indonesia,transportation,coal,relative-cost-logit
+Indonesia,transportation,electricity,relative-cost-logit
+Indonesia,transportation,hydrogen,relative-cost-logit
+Indonesia,transportation,gas,relative-cost-logit
+Indonesia,transportation,refined liquids,relative-cost-logit
+Japan,transportation,coal,relative-cost-logit
+Japan,transportation,electricity,relative-cost-logit
+Japan,transportation,hydrogen,relative-cost-logit
+Japan,transportation,gas,relative-cost-logit
+Japan,transportation,refined liquids,relative-cost-logit
+Mexico,transportation,coal,relative-cost-logit
+Mexico,transportation,electricity,relative-cost-logit
+Mexico,transportation,hydrogen,relative-cost-logit
+Mexico,transportation,gas,relative-cost-logit
+Mexico,transportation,refined liquids,relative-cost-logit
+Middle East,transportation,coal,relative-cost-logit
+Middle East,transportation,electricity,relative-cost-logit
+Middle East,transportation,hydrogen,relative-cost-logit
+Middle East,transportation,gas,relative-cost-logit
+Middle East,transportation,refined liquids,relative-cost-logit
+Pakistan,transportation,coal,relative-cost-logit
+Pakistan,transportation,electricity,relative-cost-logit
+Pakistan,transportation,hydrogen,relative-cost-logit
+Pakistan,transportation,gas,relative-cost-logit
+Pakistan,transportation,refined liquids,relative-cost-logit
+Russia,transportation,coal,relative-cost-logit
+Russia,transportation,electricity,relative-cost-logit
+Russia,transportation,hydrogen,relative-cost-logit
+Russia,transportation,gas,relative-cost-logit
+Russia,transportation,refined liquids,relative-cost-logit
+South Africa,transportation,coal,relative-cost-logit
+South Africa,transportation,electricity,relative-cost-logit
+South Africa,transportation,hydrogen,relative-cost-logit
+South Africa,transportation,gas,relative-cost-logit
+South Africa,transportation,refined liquids,relative-cost-logit
+South America_Northern,transportation,coal,relative-cost-logit
+South America_Northern,transportation,electricity,relative-cost-logit
+South America_Northern,transportation,hydrogen,relative-cost-logit
+South America_Northern,transportation,gas,relative-cost-logit
+South America_Northern,transportation,refined liquids,relative-cost-logit
+South America_Southern,transportation,coal,relative-cost-logit
+South America_Southern,transportation,electricity,relative-cost-logit
+South America_Southern,transportation,hydrogen,relative-cost-logit
+South America_Southern,transportation,gas,relative-cost-logit
+South America_Southern,transportation,refined liquids,relative-cost-logit
+South Asia,transportation,coal,relative-cost-logit
+South Asia,transportation,electricity,relative-cost-logit
+South Asia,transportation,hydrogen,relative-cost-logit
+South Asia,transportation,gas,relative-cost-logit
+South Asia,transportation,refined liquids,relative-cost-logit
+South Korea,transportation,coal,relative-cost-logit
+South Korea,transportation,electricity,relative-cost-logit
+South Korea,transportation,hydrogen,relative-cost-logit
+South Korea,transportation,gas,relative-cost-logit
+South Korea,transportation,refined liquids,relative-cost-logit
+Southeast Asia,transportation,coal,relative-cost-logit
+Southeast Asia,transportation,electricity,relative-cost-logit
+Southeast Asia,transportation,hydrogen,relative-cost-logit
+Southeast Asia,transportation,gas,relative-cost-logit
+Southeast Asia,transportation,refined liquids,relative-cost-logit
+Taiwan,transportation,coal,relative-cost-logit
+Taiwan,transportation,electricity,relative-cost-logit
+Taiwan,transportation,hydrogen,relative-cost-logit
+Taiwan,transportation,gas,relative-cost-logit
+Taiwan,transportation,refined liquids,relative-cost-logit
+Argentina,transportation,coal,relative-cost-logit
+Argentina,transportation,electricity,relative-cost-logit
+Argentina,transportation,hydrogen,relative-cost-logit
+Argentina,transportation,gas,relative-cost-logit
+Argentina,transportation,refined liquids,relative-cost-logit
+Colombia,transportation,coal,relative-cost-logit
+Colombia,transportation,electricity,relative-cost-logit
+Colombia,transportation,hydrogen,relative-cost-logit
+Colombia,transportation,gas,relative-cost-logit
+Colombia,transportation,refined liquids,relative-cost-logit

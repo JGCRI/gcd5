@@ -1,0 +1,5 @@
+INPUT_TABLE
+Variable ID
+LN2_Logit_absolute-cost-logit
+
+region,LandAllocatorRoot,LandNode1,LandNode2,logit.type

@@ -1,0 +1,421 @@
+INPUT_TABLE
+Variable ID
+Supplysector_relative-cost-logit
+
+region,supplysector,logit.type
+USA,backup_electricity,relative-cost-logit
+USA,csp_backup,relative-cost-logit
+USA,delivered biomass,relative-cost-logit
+USA,delivered coal,relative-cost-logit
+USA,electricity_net_ownuse,relative-cost-logit
+USA,elect_td_bld,relative-cost-logit
+USA,elect_td_ind,relative-cost-logit
+USA,elect_td_trn,relative-cost-logit
+USA,gas pipeline,relative-cost-logit
+USA,wholesale gas,relative-cost-logit
+USA,delivered gas,relative-cost-logit
+USA,refined liquids enduse,relative-cost-logit
+USA,refined liquids industrial,relative-cost-logit
+Africa_Eastern,backup_electricity,relative-cost-logit
+Africa_Eastern,csp_backup,relative-cost-logit
+Africa_Eastern,delivered biomass,relative-cost-logit
+Africa_Eastern,delivered coal,relative-cost-logit
+Africa_Eastern,electricity_net_ownuse,relative-cost-logit
+Africa_Eastern,elect_td_bld,relative-cost-logit
+Africa_Eastern,elect_td_ind,relative-cost-logit
+Africa_Eastern,elect_td_trn,relative-cost-logit
+Africa_Eastern,gas pipeline,relative-cost-logit
+Africa_Eastern,wholesale gas,relative-cost-logit
+Africa_Eastern,delivered gas,relative-cost-logit
+Africa_Eastern,refined liquids enduse,relative-cost-logit
+Africa_Eastern,refined liquids industrial,relative-cost-logit
+Africa_Northern,backup_electricity,relative-cost-logit
+Africa_Northern,csp_backup,relative-cost-logit
+Africa_Northern,delivered biomass,relative-cost-logit
+Africa_Northern,delivered coal,relative-cost-logit
+Africa_Northern,electricity_net_ownuse,relative-cost-logit
+Africa_Northern,elect_td_bld,relative-cost-logit
+Africa_Northern,elect_td_ind,relative-cost-logit
+Africa_Northern,elect_td_trn,relative-cost-logit
+Africa_Northern,gas pipeline,relative-cost-logit
+Africa_Northern,wholesale gas,relative-cost-logit
+Africa_Northern,delivered gas,relative-cost-logit
+Africa_Northern,refined liquids enduse,relative-cost-logit
+Africa_Northern,refined liquids industrial,relative-cost-logit
+Africa_Southern,backup_electricity,relative-cost-logit
+Africa_Southern,csp_backup,relative-cost-logit
+Africa_Southern,delivered biomass,relative-cost-logit
+Africa_Southern,delivered coal,relative-cost-logit
+Africa_Southern,electricity_net_ownuse,relative-cost-logit
+Africa_Southern,elect_td_bld,relative-cost-logit
+Africa_Southern,elect_td_ind,relative-cost-logit
+Africa_Southern,elect_td_trn,relative-cost-logit
+Africa_Southern,gas pipeline,relative-cost-logit
+Africa_Southern,wholesale gas,relative-cost-logit
+Africa_Southern,delivered gas,relative-cost-logit
+Africa_Southern,refined liquids enduse,relative-cost-logit
+Africa_Southern,refined liquids industrial,relative-cost-logit
+Africa_Western,backup_electricity,relative-cost-logit
+Africa_Western,csp_backup,relative-cost-logit
+Africa_Western,delivered biomass,relative-cost-logit
+Africa_Western,delivered coal,relative-cost-logit
+Africa_Western,electricity_net_ownuse,relative-cost-logit
+Africa_Western,elect_td_bld,relative-cost-logit
+Africa_Western,elect_td_ind,relative-cost-logit
+Africa_Western,elect_td_trn,relative-cost-logit
+Africa_Western,gas pipeline,relative-cost-logit
+Africa_Western,wholesale gas,relative-cost-logit
+Africa_Western,delivered gas,relative-cost-logit
+Africa_Western,refined liquids enduse,relative-cost-logit
+Africa_Western,refined liquids industrial,relative-cost-logit
+Australia_NZ,backup_electricity,relative-cost-logit
+Australia_NZ,csp_backup,relative-cost-logit
+Australia_NZ,delivered biomass,relative-cost-logit
+Australia_NZ,delivered coal,relative-cost-logit
+Australia_NZ,electricity_net_ownuse,relative-cost-logit
+Australia_NZ,elect_td_bld,relative-cost-logit
+Australia_NZ,elect_td_ind,relative-cost-logit
+Australia_NZ,elect_td_trn,relative-cost-logit
+Australia_NZ,gas pipeline,relative-cost-logit
+Australia_NZ,wholesale gas,relative-cost-logit
+Australia_NZ,delivered gas,relative-cost-logit
+Australia_NZ,refined liquids enduse,relative-cost-logit
+Australia_NZ,refined liquids industrial,relative-cost-logit
+Brazil,backup_electricity,relative-cost-logit
+Brazil,csp_backup,relative-cost-logit
+Brazil,delivered biomass,relative-cost-logit
+Brazil,delivered coal,relative-cost-logit
+Brazil,electricity_net_ownuse,relative-cost-logit
+Brazil,elect_td_bld,relative-cost-logit
+Brazil,elect_td_ind,relative-cost-logit
+Brazil,elect_td_trn,relative-cost-logit
+Brazil,gas pipeline,relative-cost-logit
+Brazil,wholesale gas,relative-cost-logit
+Brazil,delivered gas,relative-cost-logit
+Brazil,refined liquids enduse,relative-cost-logit
+Brazil,refined liquids industrial,relative-cost-logit
+Canada,backup_electricity,relative-cost-logit
+Canada,csp_backup,relative-cost-logit
+Canada,delivered biomass,relative-cost-logit
+Canada,delivered coal,relative-cost-logit
+Canada,electricity_net_ownuse,relative-cost-logit
+Canada,elect_td_bld,relative-cost-logit
+Canada,elect_td_ind,relative-cost-logit
+Canada,elect_td_trn,relative-cost-logit
+Canada,gas pipeline,relative-cost-logit
+Canada,wholesale gas,relative-cost-logit
+Canada,delivered gas,relative-cost-logit
+Canada,refined liquids enduse,relative-cost-logit
+Canada,refined liquids industrial,relative-cost-logit
+Central America and Caribbean,backup_electricity,relative-cost-logit
+Central America and Caribbean,csp_backup,relative-cost-logit
+Central America and Caribbean,delivered biomass,relative-cost-logit
+Central America and Caribbean,delivered coal,relative-cost-logit
+Central America and Caribbean,electricity_net_ownuse,relative-cost-logit
+Central America and Caribbean,elect_td_bld,relative-cost-logit
+Central America and Caribbean,elect_td_ind,relative-cost-logit
+Central America and Caribbean,elect_td_trn,relative-cost-logit
+Central America and Caribbean,gas pipeline,relative-cost-logit
+Central America and Caribbean,wholesale gas,relative-cost-logit
+Central America and Caribbean,delivered gas,relative-cost-logit
+Central America and Caribbean,refined liquids enduse,relative-cost-logit
+Central America and Caribbean,refined liquids industrial,relative-cost-logit
+Central Asia,backup_electricity,relative-cost-logit
+Central Asia,csp_backup,relative-cost-logit
+Central Asia,delivered biomass,relative-cost-logit
+Central Asia,delivered coal,relative-cost-logit
+Central Asia,electricity_net_ownuse,relative-cost-logit
+Central Asia,elect_td_bld,relative-cost-logit
+Central Asia,elect_td_ind,relative-cost-logit
+Central Asia,elect_td_trn,relative-cost-logit
+Central Asia,gas pipeline,relative-cost-logit
+Central Asia,wholesale gas,relative-cost-logit
+Central Asia,delivered gas,relative-cost-logit
+Central Asia,refined liquids enduse,relative-cost-logit
+Central Asia,refined liquids industrial,relative-cost-logit
+China,backup_electricity,relative-cost-logit
+China,csp_backup,relative-cost-logit
+China,delivered biomass,relative-cost-logit
+China,delivered coal,relative-cost-logit
+China,electricity_net_ownuse,relative-cost-logit
+China,elect_td_bld,relative-cost-logit
+China,elect_td_ind,relative-cost-logit
+China,elect_td_trn,relative-cost-logit
+China,gas pipeline,relative-cost-logit
+China,wholesale gas,relative-cost-logit
+China,delivered gas,relative-cost-logit
+China,refined liquids enduse,relative-cost-logit
+China,refined liquids industrial,relative-cost-logit
+EU-12,backup_electricity,relative-cost-logit
+EU-12,csp_backup,relative-cost-logit
+EU-12,delivered biomass,relative-cost-logit
+EU-12,delivered coal,relative-cost-logit
+EU-12,electricity_net_ownuse,relative-cost-logit
+EU-12,elect_td_bld,relative-cost-logit
+EU-12,elect_td_ind,relative-cost-logit
+EU-12,elect_td_trn,relative-cost-logit
+EU-12,gas pipeline,relative-cost-logit
+EU-12,wholesale gas,relative-cost-logit
+EU-12,delivered gas,relative-cost-logit
+EU-12,refined liquids enduse,relative-cost-logit
+EU-12,refined liquids industrial,relative-cost-logit
+EU-15,backup_electricity,relative-cost-logit
+EU-15,csp_backup,relative-cost-logit
+EU-15,delivered biomass,relative-cost-logit
+EU-15,delivered coal,relative-cost-logit
+EU-15,electricity_net_ownuse,relative-cost-logit
+EU-15,elect_td_bld,relative-cost-logit
+EU-15,elect_td_ind,relative-cost-logit
+EU-15,elect_td_trn,relative-cost-logit
+EU-15,gas pipeline,relative-cost-logit
+EU-15,wholesale gas,relative-cost-logit
+EU-15,delivered gas,relative-cost-logit
+EU-15,refined liquids enduse,relative-cost-logit
+EU-15,refined liquids industrial,relative-cost-logit
+Europe_Eastern,backup_electricity,relative-cost-logit
+Europe_Eastern,csp_backup,relative-cost-logit
+Europe_Eastern,delivered biomass,relative-cost-logit
+Europe_Eastern,delivered coal,relative-cost-logit
+Europe_Eastern,electricity_net_ownuse,relative-cost-logit
+Europe_Eastern,elect_td_bld,relative-cost-logit
+Europe_Eastern,elect_td_ind,relative-cost-logit
+Europe_Eastern,elect_td_trn,relative-cost-logit
+Europe_Eastern,gas pipeline,relative-cost-logit
+Europe_Eastern,wholesale gas,relative-cost-logit
+Europe_Eastern,delivered gas,relative-cost-logit
+Europe_Eastern,refined liquids enduse,relative-cost-logit
+Europe_Eastern,refined liquids industrial,relative-cost-logit
+Europe_Non_EU,backup_electricity,relative-cost-logit
+Europe_Non_EU,csp_backup,relative-cost-logit
+Europe_Non_EU,delivered biomass,relative-cost-logit
+Europe_Non_EU,delivered coal,relative-cost-logit
+Europe_Non_EU,electricity_net_ownuse,relative-cost-logit
+Europe_Non_EU,elect_td_bld,relative-cost-logit
+Europe_Non_EU,elect_td_ind,relative-cost-logit
+Europe_Non_EU,elect_td_trn,relative-cost-logit
+Europe_Non_EU,gas pipeline,relative-cost-logit
+Europe_Non_EU,wholesale gas,relative-cost-logit
+Europe_Non_EU,delivered gas,relative-cost-logit
+Europe_Non_EU,refined liquids enduse,relative-cost-logit
+Europe_Non_EU,refined liquids industrial,relative-cost-logit
+European Free Trade Association,backup_electricity,relative-cost-logit
+European Free Trade Association,csp_backup,relative-cost-logit
+European Free Trade Association,delivered biomass,relative-cost-logit
+European Free Trade Association,delivered coal,relative-cost-logit
+European Free Trade Association,electricity_net_ownuse,relative-cost-logit
+European Free Trade Association,elect_td_bld,relative-cost-logit
+European Free Trade Association,elect_td_ind,relative-cost-logit
+European Free Trade Association,elect_td_trn,relative-cost-logit
+European Free Trade Association,gas pipeline,relative-cost-logit
+European Free Trade Association,wholesale gas,relative-cost-logit
+European Free Trade Association,delivered gas,relative-cost-logit
+European Free Trade Association,refined liquids enduse,relative-cost-logit
+European Free Trade Association,refined liquids industrial,relative-cost-logit
+India,backup_electricity,relative-cost-logit
+India,csp_backup,relative-cost-logit
+India,delivered biomass,relative-cost-logit
+India,delivered coal,relative-cost-logit
+India,electricity_net_ownuse,relative-cost-logit
+India,elect_td_bld,relative-cost-logit
+India,elect_td_ind,relative-cost-logit
+India,elect_td_trn,relative-cost-logit
+India,gas pipeline,relative-cost-logit
+India,wholesale gas,relative-cost-logit
+India,delivered gas,relative-cost-logit
+India,refined liquids enduse,relative-cost-logit
+India,refined liquids industrial,relative-cost-logit
+Indonesia,backup_electricity,relative-cost-logit
+Indonesia,csp_backup,relative-cost-logit
+Indonesia,delivered biomass,relative-cost-logit
+Indonesia,delivered coal,relative-cost-logit
+Indonesia,electricity_net_ownuse,relative-cost-logit
+Indonesia,elect_td_bld,relative-cost-logit
+Indonesia,elect_td_ind,relative-cost-logit
+Indonesia,elect_td_trn,relative-cost-logit
+Indonesia,gas pipeline,relative-cost-logit
+Indonesia,wholesale gas,relative-cost-logit
+Indonesia,delivered gas,relative-cost-logit
+Indonesia,refined liquids enduse,relative-cost-logit
+Indonesia,refined liquids industrial,relative-cost-logit
+Japan,backup_electricity,relative-cost-logit
+Japan,csp_backup,relative-cost-logit
+Japan,delivered biomass,relative-cost-logit
+Japan,delivered coal,relative-cost-logit
+Japan,electricity_net_ownuse,relative-cost-logit
+Japan,elect_td_bld,relative-cost-logit
+Japan,elect_td_ind,relative-cost-logit
+Japan,elect_td_trn,relative-cost-logit
+Japan,gas pipeline,relative-cost-logit
+Japan,wholesale gas,relative-cost-logit
+Japan,delivered gas,relative-cost-logit
+Japan,refined liquids enduse,relative-cost-logit
+Japan,refined liquids industrial,relative-cost-logit
+Mexico,backup_electricity,relative-cost-logit
+Mexico,csp_backup,relative-cost-logit
+Mexico,delivered biomass,relative-cost-logit
+Mexico,delivered coal,relative-cost-logit
+Mexico,electricity_net_ownuse,relative-cost-logit
+Mexico,elect_td_bld,relative-cost-logit
+Mexico,elect_td_ind,relative-cost-logit
+Mexico,elect_td_trn,relative-cost-logit
+Mexico,gas pipeline,relative-cost-logit
+Mexico,wholesale gas,relative-cost-logit
+Mexico,delivered gas,relative-cost-logit
+Mexico,refined liquids enduse,relative-cost-logit
+Mexico,refined liquids industrial,relative-cost-logit
+Middle East,backup_electricity,relative-cost-logit
+Middle East,csp_backup,relative-cost-logit
+Middle East,delivered biomass,relative-cost-logit
+Middle East,delivered coal,relative-cost-logit
+Middle East,electricity_net_ownuse,relative-cost-logit
+Middle East,elect_td_bld,relative-cost-logit
+Middle East,elect_td_ind,relative-cost-logit
+Middle East,elect_td_trn,relative-cost-logit
+Middle East,gas pipeline,relative-cost-logit
+Middle East,wholesale gas,relative-cost-logit
+Middle East,delivered gas,relative-cost-logit
+Middle East,refined liquids enduse,relative-cost-logit
+Middle East,refined liquids industrial,relative-cost-logit
+Pakistan,backup_electricity,relative-cost-logit
+Pakistan,csp_backup,relative-cost-logit
+Pakistan,delivered biomass,relative-cost-logit
+Pakistan,delivered coal,relative-cost-logit
+Pakistan,electricity_net_ownuse,relative-cost-logit
+Pakistan,elect_td_bld,relative-cost-logit
+Pakistan,elect_td_ind,relative-cost-logit
+Pakistan,elect_td_trn,relative-cost-logit
+Pakistan,gas pipeline,relative-cost-logit
+Pakistan,wholesale gas,relative-cost-logit
+Pakistan,delivered gas,relative-cost-logit
+Pakistan,refined liquids enduse,relative-cost-logit
+Pakistan,refined liquids industrial,relative-cost-logit
+Russia,backup_electricity,relative-cost-logit
+Russia,csp_backup,relative-cost-logit
+Russia,delivered biomass,relative-cost-logit
+Russia,delivered coal,relative-cost-logit
+Russia,electricity_net_ownuse,relative-cost-logit
+Russia,elect_td_bld,relative-cost-logit
+Russia,elect_td_ind,relative-cost-logit
+Russia,elect_td_trn,relative-cost-logit
+Russia,gas pipeline,relative-cost-logit
+Russia,wholesale gas,relative-cost-logit
+Russia,delivered gas,relative-cost-logit
+Russia,refined liquids enduse,relative-cost-logit
+Russia,refined liquids industrial,relative-cost-logit
+South Africa,backup_electricity,relative-cost-logit
+South Africa,csp_backup,relative-cost-logit
+South Africa,delivered biomass,relative-cost-logit
+South Africa,delivered coal,relative-cost-logit
+South Africa,electricity_net_ownuse,relative-cost-logit
+South Africa,elect_td_bld,relative-cost-logit
+South Africa,elect_td_ind,relative-cost-logit
+South Africa,elect_td_trn,relative-cost-logit
+South Africa,gas pipeline,relative-cost-logit
+South Africa,wholesale gas,relative-cost-logit
+South Africa,delivered gas,relative-cost-logit
+South Africa,refined liquids enduse,relative-cost-logit
+South Africa,refined liquids industrial,relative-cost-logit
+South America_Northern,backup_electricity,relative-cost-logit
+South America_Northern,csp_backup,relative-cost-logit
+South America_Northern,delivered biomass,relative-cost-logit
+South America_Northern,delivered coal,relative-cost-logit
+South America_Northern,electricity_net_ownuse,relative-cost-logit
+South America_Northern,elect_td_bld,relative-cost-logit
+South America_Northern,elect_td_ind,relative-cost-logit
+South America_Northern,elect_td_trn,relative-cost-logit
+South America_Northern,gas pipeline,relative-cost-logit
+South America_Northern,wholesale gas,relative-cost-logit
+South America_Northern,delivered gas,relative-cost-logit
+South America_Northern,refined liquids enduse,relative-cost-logit
+South America_Northern,refined liquids industrial,relative-cost-logit
+South America_Southern,backup_electricity,relative-cost-logit
+South America_Southern,csp_backup,relative-cost-logit
+South America_Southern,delivered biomass,relative-cost-logit
+South America_Southern,delivered coal,relative-cost-logit
+South America_Southern,electricity_net_ownuse,relative-cost-logit
+South America_Southern,elect_td_bld,relative-cost-logit
+South America_Southern,elect_td_ind,relative-cost-logit
+South America_Southern,elect_td_trn,relative-cost-logit
+South America_Southern,gas pipeline,relative-cost-logit
+South America_Southern,wholesale gas,relative-cost-logit
+South America_Southern,delivered gas,relative-cost-logit
+South America_Southern,refined liquids enduse,relative-cost-logit
+South America_Southern,refined liquids industrial,relative-cost-logit
+South Asia,backup_electricity,relative-cost-logit
+South Asia,csp_backup,relative-cost-logit
+South Asia,delivered biomass,relative-cost-logit
+South Asia,delivered coal,relative-cost-logit
+South Asia,electricity_net_ownuse,relative-cost-logit
+South Asia,elect_td_bld,relative-cost-logit
+South Asia,elect_td_ind,relative-cost-logit
+South Asia,elect_td_trn,relative-cost-logit
+South Asia,gas pipeline,relative-cost-logit
+South Asia,wholesale gas,relative-cost-logit
+South Asia,delivered gas,relative-cost-logit
+South Asia,refined liquids enduse,relative-cost-logit
+South Asia,refined liquids industrial,relative-cost-logit
+South Korea,backup_electricity,relative-cost-logit
+South Korea,csp_backup,relative-cost-logit
+South Korea,delivered biomass,relative-cost-logit
+South Korea,delivered coal,relative-cost-logit
+South Korea,electricity_net_ownuse,relative-cost-logit
+South Korea,elect_td_bld,relative-cost-logit
+South Korea,elect_td_ind,relative-cost-logit
+South Korea,elect_td_trn,relative-cost-logit
+South Korea,gas pipeline,relative-cost-logit
+South Korea,wholesale gas,relative-cost-logit
+South Korea,delivered gas,relative-cost-logit
+South Korea,refined liquids enduse,relative-cost-logit
+South Korea,refined liquids industrial,relative-cost-logit
+Southeast Asia,backup_electricity,relative-cost-logit
+Southeast Asia,csp_backup,relative-cost-logit
+Southeast Asia,delivered biomass,relative-cost-logit
+Southeast Asia,delivered coal,relative-cost-logit
+Southeast Asia,electricity_net_ownuse,relative-cost-logit
+Southeast Asia,elect_td_bld,relative-cost-logit
+Southeast Asia,elect_td_ind,relative-cost-logit
+Southeast Asia,elect_td_trn,relative-cost-logit
+Southeast Asia,gas pipeline,relative-cost-logit
+Southeast Asia,wholesale gas,relative-cost-logit
+Southeast Asia,delivered gas,relative-cost-logit
+Southeast Asia,refined liquids enduse,relative-cost-logit
+Southeast Asia,refined liquids industrial,relative-cost-logit
+Taiwan,backup_electricity,relative-cost-logit
+Taiwan,csp_backup,relative-cost-logit
+Taiwan,delivered biomass,relative-cost-logit
+Taiwan,delivered coal,relative-cost-logit
+Taiwan,electricity_net_ownuse,relative-cost-logit
+Taiwan,elect_td_bld,relative-cost-logit
+Taiwan,elect_td_ind,relative-cost-logit
+Taiwan,elect_td_trn,relative-cost-logit
+Taiwan,gas pipeline,relative-cost-logit
+Taiwan,wholesale gas,relative-cost-logit
+Taiwan,delivered gas,relative-cost-logit
+Taiwan,refined liquids enduse,relative-cost-logit
+Taiwan,refined liquids industrial,relative-cost-logit
+Argentina,backup_electricity,relative-cost-logit
+Argentina,csp_backup,relative-cost-logit
+Argentina,delivered biomass,relative-cost-logit
+Argentina,delivered coal,relative-cost-logit
+Argentina,electricity_net_ownuse,relative-cost-logit
+Argentina,elect_td_bld,relative-cost-logit
+Argentina,elect_td_ind,relative-cost-logit
+Argentina,elect_td_trn,relative-cost-logit
+Argentina,gas pipeline,relative-cost-logit
+Argentina,wholesale gas,relative-cost-logit
+Argentina,delivered gas,relative-cost-logit
+Argentina,refined liquids enduse,relative-cost-logit
+Argentina,refined liquids industrial,relative-cost-logit
+Colombia,backup_electricity,relative-cost-logit
+Colombia,csp_backup,relative-cost-logit
+Colombia,delivered biomass,relative-cost-logit
+Colombia,delivered coal,relative-cost-logit
+Colombia,electricity_net_ownuse,relative-cost-logit
+Colombia,elect_td_bld,relative-cost-logit
+Colombia,elect_td_ind,relative-cost-logit
+Colombia,elect_td_trn,relative-cost-logit
+Colombia,gas pipeline,relative-cost-logit
+Colombia,wholesale gas,relative-cost-logit
+Colombia,delivered gas,relative-cost-logit
+Colombia,refined liquids enduse,relative-cost-logit
+Colombia,refined liquids industrial,relative-cost-logit

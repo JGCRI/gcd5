@@ -1,0 +1,101 @@
+INPUT_TABLE
+Variable ID
+Supplysector_relative-cost-logit
+
+region,supplysector,logit.type
+USA,industrial energy use,relative-cost-logit
+USA,industrial feedstocks,relative-cost-logit
+USA,industry,relative-cost-logit
+Africa_Eastern,industrial energy use,relative-cost-logit
+Africa_Eastern,industrial feedstocks,relative-cost-logit
+Africa_Eastern,industry,relative-cost-logit
+Africa_Northern,industrial energy use,relative-cost-logit
+Africa_Northern,industrial feedstocks,relative-cost-logit
+Africa_Northern,industry,relative-cost-logit
+Africa_Southern,industrial energy use,relative-cost-logit
+Africa_Southern,industrial feedstocks,relative-cost-logit
+Africa_Southern,industry,relative-cost-logit
+Africa_Western,industrial energy use,relative-cost-logit
+Africa_Western,industrial feedstocks,relative-cost-logit
+Africa_Western,industry,relative-cost-logit
+Australia_NZ,industrial energy use,relative-cost-logit
+Australia_NZ,industrial feedstocks,relative-cost-logit
+Australia_NZ,industry,relative-cost-logit
+Brazil,industrial energy use,relative-cost-logit
+Brazil,industrial feedstocks,relative-cost-logit
+Brazil,industry,relative-cost-logit
+Canada,industrial energy use,relative-cost-logit
+Canada,industrial feedstocks,relative-cost-logit
+Canada,industry,relative-cost-logit
+Central America and Caribbean,industrial energy use,relative-cost-logit
+Central America and Caribbean,industrial feedstocks,relative-cost-logit
+Central America and Caribbean,industry,relative-cost-logit
+Central Asia,industrial energy use,relative-cost-logit
+Central Asia,industrial feedstocks,relative-cost-logit
+Central Asia,industry,relative-cost-logit
+China,industrial energy use,relative-cost-logit
+China,industrial feedstocks,relative-cost-logit
+China,industry,relative-cost-logit
+EU-12,industrial energy use,relative-cost-logit
+EU-12,industrial feedstocks,relative-cost-logit
+EU-12,industry,relative-cost-logit
+EU-15,industrial energy use,relative-cost-logit
+EU-15,industrial feedstocks,relative-cost-logit
+EU-15,industry,relative-cost-logit
+Europe_Eastern,industrial energy use,relative-cost-logit
+Europe_Eastern,industrial feedstocks,relative-cost-logit
+Europe_Eastern,industry,relative-cost-logit
+Europe_Non_EU,industrial energy use,relative-cost-logit
+Europe_Non_EU,industrial feedstocks,relative-cost-logit
+Europe_Non_EU,industry,relative-cost-logit
+European Free Trade Association,industrial energy use,relative-cost-logit
+European Free Trade Association,industrial feedstocks,relative-cost-logit
+European Free Trade Association,industry,relative-cost-logit
+India,industrial energy use,relative-cost-logit
+India,industrial feedstocks,relative-cost-logit
+India,industry,relative-cost-logit
+Indonesia,industrial energy use,relative-cost-logit
+Indonesia,industrial feedstocks,relative-cost-logit
+Indonesia,industry,relative-cost-logit
+Japan,industrial energy use,relative-cost-logit
+Japan,industrial feedstocks,relative-cost-logit
+Japan,industry,relative-cost-logit
+Mexico,industrial energy use,relative-cost-logit
+Mexico,industrial feedstocks,relative-cost-logit
+Mexico,industry,relative-cost-logit
+Middle East,industrial energy use,relative-cost-logit
+Middle East,industrial feedstocks,relative-cost-logit
+Middle East,industry,relative-cost-logit
+Pakistan,industrial energy use,relative-cost-logit
+Pakistan,industrial feedstocks,relative-cost-logit
+Pakistan,industry,relative-cost-logit
+Russia,industrial energy use,relative-cost-logit
+Russia,industrial feedstocks,relative-cost-logit
+Russia,industry,relative-cost-logit
+South Africa,industrial energy use,relative-cost-logit
+South Africa,industrial feedstocks,relative-cost-logit
+South Africa,industry,relative-cost-logit
+South America_Northern,industrial energy use,relative-cost-logit
+South America_Northern,industrial feedstocks,relative-cost-logit
+South America_Northern,industry,relative-cost-logit
+South America_Southern,industrial energy use,relative-cost-logit
+South America_Southern,industrial feedstocks,relative-cost-logit
+South America_Southern,industry,relative-cost-logit
+South Asia,industrial energy use,relative-cost-logit
+South Asia,industrial feedstocks,relative-cost-logit
+South Asia,industry,relative-cost-logit
+South Korea,industrial energy use,relative-cost-logit
+South Korea,industrial feedstocks,relative-cost-logit
+South Korea,industry,relative-cost-logit
+Southeast Asia,industrial energy use,relative-cost-logit
+Southeast Asia,industrial feedstocks,relative-cost-logit
+Southeast Asia,industry,relative-cost-logit
+Taiwan,industrial energy use,relative-cost-logit
+Taiwan,industrial feedstocks,relative-cost-logit
+Taiwan,industry,relative-cost-logit
+Argentina,industrial energy use,relative-cost-logit
+Argentina,industrial feedstocks,relative-cost-logit
+Argentina,industry,relative-cost-logit
+Colombia,industrial energy use,relative-cost-logit
+Colombia,industrial feedstocks,relative-cost-logit
+Colombia,industry,relative-cost-logit

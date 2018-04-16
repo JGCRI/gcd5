@@ -1,0 +1,69 @@
+INPUT_TABLE
+Variable ID
+SubsectorLogit_relative-cost-logit
+
+region,supplysector,subsector,logit.type
+USA,carbon-storage,onshore carbon-storage,relative-cost-logit
+USA,carbon-storage,offshore carbon-storage,relative-cost-logit
+Africa_Eastern,carbon-storage,onshore carbon-storage,relative-cost-logit
+Africa_Eastern,carbon-storage,offshore carbon-storage,relative-cost-logit
+Africa_Northern,carbon-storage,onshore carbon-storage,relative-cost-logit
+Africa_Northern,carbon-storage,offshore carbon-storage,relative-cost-logit
+Africa_Southern,carbon-storage,onshore carbon-storage,relative-cost-logit
+Africa_Southern,carbon-storage,offshore carbon-storage,relative-cost-logit
+Africa_Western,carbon-storage,onshore carbon-storage,relative-cost-logit
+Africa_Western,carbon-storage,offshore carbon-storage,relative-cost-logit
+Australia_NZ,carbon-storage,onshore carbon-storage,relative-cost-logit
+Australia_NZ,carbon-storage,offshore carbon-storage,relative-cost-logit
+Brazil,carbon-storage,onshore carbon-storage,relative-cost-logit
+Brazil,carbon-storage,offshore carbon-storage,relative-cost-logit
+Canada,carbon-storage,onshore carbon-storage,relative-cost-logit
+Canada,carbon-storage,offshore carbon-storage,relative-cost-logit
+Central America and Caribbean,carbon-storage,onshore carbon-storage,relative-cost-logit
+Central America and Caribbean,carbon-storage,offshore carbon-storage,relative-cost-logit
+Central Asia,carbon-storage,onshore carbon-storage,relative-cost-logit
+Central Asia,carbon-storage,offshore carbon-storage,relative-cost-logit
+China,carbon-storage,onshore carbon-storage,relative-cost-logit
+China,carbon-storage,offshore carbon-storage,relative-cost-logit
+EU-12,carbon-storage,onshore carbon-storage,relative-cost-logit
+EU-12,carbon-storage,offshore carbon-storage,relative-cost-logit
+EU-15,carbon-storage,onshore carbon-storage,relative-cost-logit
+EU-15,carbon-storage,offshore carbon-storage,relative-cost-logit
+Europe_Eastern,carbon-storage,onshore carbon-storage,relative-cost-logit
+Europe_Eastern,carbon-storage,offshore carbon-storage,relative-cost-logit
+Europe_Non_EU,carbon-storage,onshore carbon-storage,relative-cost-logit
+Europe_Non_EU,carbon-storage,offshore carbon-storage,relative-cost-logit
+European Free Trade Association,carbon-storage,onshore carbon-storage,relative-cost-logit
+European Free Trade Association,carbon-storage,offshore carbon-storage,relative-cost-logit
+India,carbon-storage,onshore carbon-storage,relative-cost-logit
+India,carbon-storage,offshore carbon-storage,relative-cost-logit
+Indonesia,carbon-storage,onshore carbon-storage,relative-cost-logit
+Indonesia,carbon-storage,offshore carbon-storage,relative-cost-logit
+Japan,carbon-storage,onshore carbon-storage,relative-cost-logit
+Japan,carbon-storage,offshore carbon-storage,relative-cost-logit
+Mexico,carbon-storage,onshore carbon-storage,relative-cost-logit
+Mexico,carbon-storage,offshore carbon-storage,relative-cost-logit
+Middle East,carbon-storage,onshore carbon-storage,relative-cost-logit
+Middle East,carbon-storage,offshore carbon-storage,relative-cost-logit
+Pakistan,carbon-storage,onshore carbon-storage,relative-cost-logit
+Pakistan,carbon-storage,offshore carbon-storage,relative-cost-logit
+Russia,carbon-storage,onshore carbon-storage,relative-cost-logit
+Russia,carbon-storage,offshore carbon-storage,relative-cost-logit
+South Africa,carbon-storage,onshore carbon-storage,relative-cost-logit
+South Africa,carbon-storage,offshore carbon-storage,relative-cost-logit
+South America_Northern,carbon-storage,onshore carbon-storage,relative-cost-logit
+South America_Northern,carbon-storage,offshore carbon-storage,relative-cost-logit
+South America_Southern,carbon-storage,onshore carbon-storage,relative-cost-logit
+South America_Southern,carbon-storage,offshore carbon-storage,relative-cost-logit
+South Asia,carbon-storage,onshore carbon-storage,relative-cost-logit
+South Asia,carbon-storage,offshore carbon-storage,relative-cost-logit
+South Korea,carbon-storage,onshore carbon-storage,relative-cost-logit
+South Korea,carbon-storage,offshore carbon-storage,relative-cost-logit
+Southeast Asia,carbon-storage,onshore carbon-storage,relative-cost-logit
+Southeast Asia,carbon-storage,offshore carbon-storage,relative-cost-logit
+Taiwan,carbon-storage,onshore carbon-storage,relative-cost-logit
+Taiwan,carbon-storage,offshore carbon-storage,relative-cost-logit
+Argentina,carbon-storage,onshore carbon-storage,relative-cost-logit
+Argentina,carbon-storage,offshore carbon-storage,relative-cost-logit
+Colombia,carbon-storage,onshore carbon-storage,relative-cost-logit
+Colombia,carbon-storage,offshore carbon-storage,relative-cost-logit

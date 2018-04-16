@@ -1,0 +1,264 @@
+INPUT_TABLE
+Variable ID
+Supplysector_relative-cost-logit
+
+region,supplysector,logit.type
+USA,trn_aviation_intl,relative-cost-logit
+USA,trn_freight,relative-cost-logit
+USA,trn_freight_road,relative-cost-logit
+USA,trn_pass,relative-cost-logit
+USA,trn_pass_road,relative-cost-logit
+USA,trn_pass_road_LDV,relative-cost-logit
+USA,trn_pass_road_LDV_2W,relative-cost-logit
+USA,trn_shipping_intl,relative-cost-logit
+Africa_Eastern,trn_aviation_intl,relative-cost-logit
+Africa_Eastern,trn_freight,relative-cost-logit
+Africa_Eastern,trn_freight_road,relative-cost-logit
+Africa_Eastern,trn_pass,relative-cost-logit
+Africa_Eastern,trn_pass_road,relative-cost-logit
+Africa_Eastern,trn_pass_road_LDV,relative-cost-logit
+Africa_Eastern,trn_pass_road_LDV_2W,relative-cost-logit
+Africa_Eastern,trn_shipping_intl,relative-cost-logit
+Africa_Northern,trn_aviation_intl,relative-cost-logit
+Africa_Northern,trn_freight,relative-cost-logit
+Africa_Northern,trn_freight_road,relative-cost-logit
+Africa_Northern,trn_pass,relative-cost-logit
+Africa_Northern,trn_pass_road,relative-cost-logit
+Africa_Northern,trn_pass_road_LDV,relative-cost-logit
+Africa_Northern,trn_pass_road_LDV_2W,relative-cost-logit
+Africa_Northern,trn_shipping_intl,relative-cost-logit
+Africa_Southern,trn_aviation_intl,relative-cost-logit
+Africa_Southern,trn_freight,relative-cost-logit
+Africa_Southern,trn_freight_road,relative-cost-logit
+Africa_Southern,trn_pass,relative-cost-logit
+Africa_Southern,trn_pass_road,relative-cost-logit
+Africa_Southern,trn_pass_road_LDV,relative-cost-logit
+Africa_Southern,trn_pass_road_LDV_2W,relative-cost-logit
+Africa_Southern,trn_shipping_intl,relative-cost-logit
+Africa_Western,trn_aviation_intl,relative-cost-logit
+Africa_Western,trn_freight,relative-cost-logit
+Africa_Western,trn_freight_road,relative-cost-logit
+Africa_Western,trn_pass,relative-cost-logit
+Africa_Western,trn_pass_road,relative-cost-logit
+Africa_Western,trn_pass_road_LDV,relative-cost-logit
+Africa_Western,trn_pass_road_LDV_2W,relative-cost-logit
+Africa_Western,trn_shipping_intl,relative-cost-logit
+Australia_NZ,trn_aviation_intl,relative-cost-logit
+Australia_NZ,trn_freight,relative-cost-logit
+Australia_NZ,trn_freight_road,relative-cost-logit
+Australia_NZ,trn_pass,relative-cost-logit
+Australia_NZ,trn_pass_road,relative-cost-logit
+Australia_NZ,trn_pass_road_LDV,relative-cost-logit
+Australia_NZ,trn_pass_road_LDV_2W,relative-cost-logit
+Australia_NZ,trn_shipping_intl,relative-cost-logit
+Brazil,trn_aviation_intl,relative-cost-logit
+Brazil,trn_freight,relative-cost-logit
+Brazil,trn_freight_road,relative-cost-logit
+Brazil,trn_pass,relative-cost-logit
+Brazil,trn_pass_road,relative-cost-logit
+Brazil,trn_pass_road_LDV,relative-cost-logit
+Brazil,trn_pass_road_LDV_2W,relative-cost-logit
+Brazil,trn_shipping_intl,relative-cost-logit
+Canada,trn_aviation_intl,relative-cost-logit
+Canada,trn_freight,relative-cost-logit
+Canada,trn_freight_road,relative-cost-logit
+Canada,trn_pass,relative-cost-logit
+Canada,trn_pass_road,relative-cost-logit
+Canada,trn_pass_road_LDV,relative-cost-logit
+Canada,trn_pass_road_LDV_2W,relative-cost-logit
+Canada,trn_shipping_intl,relative-cost-logit
+Central America and Caribbean,trn_aviation_intl,relative-cost-logit
+Central America and Caribbean,trn_freight,relative-cost-logit
+Central America and Caribbean,trn_freight_road,relative-cost-logit
+Central America and Caribbean,trn_pass,relative-cost-logit
+Central America and Caribbean,trn_pass_road,relative-cost-logit
+Central America and Caribbean,trn_pass_road_LDV,relative-cost-logit
+Central America and Caribbean,trn_pass_road_LDV_2W,relative-cost-logit
+Central America and Caribbean,trn_shipping_intl,relative-cost-logit
+Central Asia,trn_aviation_intl,relative-cost-logit
+Central Asia,trn_freight,relative-cost-logit
+Central Asia,trn_freight_road,relative-cost-logit
+Central Asia,trn_pass,relative-cost-logit
+Central Asia,trn_pass_road,relative-cost-logit
+Central Asia,trn_pass_road_bus,relative-cost-logit
+Central Asia,trn_pass_road_LDV,relative-cost-logit
+Central Asia,trn_pass_road_LDV_2W,relative-cost-logit
+Central Asia,trn_shipping_intl,relative-cost-logit
+China,trn_aviation_intl,relative-cost-logit
+China,trn_freight,relative-cost-logit
+China,trn_freight_road,relative-cost-logit
+China,trn_pass,relative-cost-logit
+China,trn_pass_road,relative-cost-logit
+China,trn_pass_road_bus,relative-cost-logit
+China,trn_pass_road_LDV,relative-cost-logit
+China,trn_pass_road_LDV_2W,relative-cost-logit
+China,trn_shipping_intl,relative-cost-logit
+EU-12,trn_aviation_intl,relative-cost-logit
+EU-12,trn_freight,relative-cost-logit
+EU-12,trn_freight_road,relative-cost-logit
+EU-12,trn_pass,relative-cost-logit
+EU-12,trn_pass_road,relative-cost-logit
+EU-12,trn_pass_road_LDV,relative-cost-logit
+EU-12,trn_pass_road_LDV_2W,relative-cost-logit
+EU-12,trn_shipping_intl,relative-cost-logit
+EU-15,trn_aviation_intl,relative-cost-logit
+EU-15,trn_freight,relative-cost-logit
+EU-15,trn_freight_road,relative-cost-logit
+EU-15,trn_pass,relative-cost-logit
+EU-15,trn_pass_road,relative-cost-logit
+EU-15,trn_pass_road_LDV,relative-cost-logit
+EU-15,trn_pass_road_LDV_2W,relative-cost-logit
+EU-15,trn_shipping_intl,relative-cost-logit
+Europe_Eastern,trn_aviation_intl,relative-cost-logit
+Europe_Eastern,trn_freight,relative-cost-logit
+Europe_Eastern,trn_freight_road,relative-cost-logit
+Europe_Eastern,trn_pass,relative-cost-logit
+Europe_Eastern,trn_pass_road,relative-cost-logit
+Europe_Eastern,trn_pass_road_LDV,relative-cost-logit
+Europe_Eastern,trn_pass_road_LDV_2W,relative-cost-logit
+Europe_Eastern,trn_shipping_intl,relative-cost-logit
+Europe_Non_EU,trn_aviation_intl,relative-cost-logit
+Europe_Non_EU,trn_freight,relative-cost-logit
+Europe_Non_EU,trn_freight_road,relative-cost-logit
+Europe_Non_EU,trn_pass,relative-cost-logit
+Europe_Non_EU,trn_pass_road,relative-cost-logit
+Europe_Non_EU,trn_pass_road_LDV,relative-cost-logit
+Europe_Non_EU,trn_pass_road_LDV_2W,relative-cost-logit
+Europe_Non_EU,trn_shipping_intl,relative-cost-logit
+European Free Trade Association,trn_aviation_intl,relative-cost-logit
+European Free Trade Association,trn_freight,relative-cost-logit
+European Free Trade Association,trn_freight_road,relative-cost-logit
+European Free Trade Association,trn_pass,relative-cost-logit
+European Free Trade Association,trn_pass_road,relative-cost-logit
+European Free Trade Association,trn_pass_road_LDV,relative-cost-logit
+European Free Trade Association,trn_pass_road_LDV_2W,relative-cost-logit
+European Free Trade Association,trn_shipping_intl,relative-cost-logit
+India,trn_aviation_intl,relative-cost-logit
+India,trn_freight,relative-cost-logit
+India,trn_freight_road,relative-cost-logit
+India,trn_pass,relative-cost-logit
+India,trn_pass_road,relative-cost-logit
+India,trn_pass_road_LDV,relative-cost-logit
+India,trn_pass_road_LDV_2W,relative-cost-logit
+India,trn_shipping_intl,relative-cost-logit
+Indonesia,trn_aviation_intl,relative-cost-logit
+Indonesia,trn_freight,relative-cost-logit
+Indonesia,trn_freight_road,relative-cost-logit
+Indonesia,trn_pass,relative-cost-logit
+Indonesia,trn_pass_road,relative-cost-logit
+Indonesia,trn_pass_road_LDV,relative-cost-logit
+Indonesia,trn_pass_road_LDV_2W,relative-cost-logit
+Indonesia,trn_shipping_intl,relative-cost-logit
+Japan,trn_aviation_intl,relative-cost-logit
+Japan,trn_freight,relative-cost-logit
+Japan,trn_freight_road,relative-cost-logit
+Japan,trn_pass,relative-cost-logit
+Japan,trn_pass_road,relative-cost-logit
+Japan,trn_pass_road_LDV,relative-cost-logit
+Japan,trn_pass_road_LDV_2W,relative-cost-logit
+Japan,trn_shipping_intl,relative-cost-logit
+Mexico,trn_aviation_intl,relative-cost-logit
+Mexico,trn_freight,relative-cost-logit
+Mexico,trn_freight_road,relative-cost-logit
+Mexico,trn_pass,relative-cost-logit
+Mexico,trn_pass_road,relative-cost-logit
+Mexico,trn_pass_road_LDV,relative-cost-logit
+Mexico,trn_pass_road_LDV_2W,relative-cost-logit
+Mexico,trn_shipping_intl,relative-cost-logit
+Middle East,trn_aviation_intl,relative-cost-logit
+Middle East,trn_freight,relative-cost-logit
+Middle East,trn_freight_road,relative-cost-logit
+Middle East,trn_pass,relative-cost-logit
+Middle East,trn_pass_road,relative-cost-logit
+Middle East,trn_pass_road_LDV,relative-cost-logit
+Middle East,trn_pass_road_LDV_2W,relative-cost-logit
+Middle East,trn_shipping_intl,relative-cost-logit
+Pakistan,trn_aviation_intl,relative-cost-logit
+Pakistan,trn_freight,relative-cost-logit
+Pakistan,trn_freight_road,relative-cost-logit
+Pakistan,trn_pass,relative-cost-logit
+Pakistan,trn_pass_road,relative-cost-logit
+Pakistan,trn_pass_road_LDV,relative-cost-logit
+Pakistan,trn_pass_road_LDV_2W,relative-cost-logit
+Pakistan,trn_shipping_intl,relative-cost-logit
+Russia,trn_aviation_intl,relative-cost-logit
+Russia,trn_freight,relative-cost-logit
+Russia,trn_freight_road,relative-cost-logit
+Russia,trn_pass,relative-cost-logit
+Russia,trn_pass_road,relative-cost-logit
+Russia,trn_pass_road_LDV,relative-cost-logit
+Russia,trn_pass_road_LDV_2W,relative-cost-logit
+Russia,trn_shipping_intl,relative-cost-logit
+South Africa,trn_aviation_intl,relative-cost-logit
+South Africa,trn_freight,relative-cost-logit
+South Africa,trn_freight_road,relative-cost-logit
+South Africa,trn_pass,relative-cost-logit
+South Africa,trn_pass_road,relative-cost-logit
+South Africa,trn_pass_road_LDV,relative-cost-logit
+South Africa,trn_pass_road_LDV_2W,relative-cost-logit
+South Africa,trn_shipping_intl,relative-cost-logit
+South America_Northern,trn_aviation_intl,relative-cost-logit
+South America_Northern,trn_freight,relative-cost-logit
+South America_Northern,trn_freight_road,relative-cost-logit
+South America_Northern,trn_pass,relative-cost-logit
+South America_Northern,trn_pass_road,relative-cost-logit
+South America_Northern,trn_pass_road_LDV,relative-cost-logit
+South America_Northern,trn_pass_road_LDV_2W,relative-cost-logit
+South America_Northern,trn_shipping_intl,relative-cost-logit
+South America_Southern,trn_aviation_intl,relative-cost-logit
+South America_Southern,trn_freight,relative-cost-logit
+South America_Southern,trn_freight_road,relative-cost-logit
+South America_Southern,trn_pass,relative-cost-logit
+South America_Southern,trn_pass_road,relative-cost-logit
+South America_Southern,trn_pass_road_LDV,relative-cost-logit
+South America_Southern,trn_pass_road_LDV_2W,relative-cost-logit
+South America_Southern,trn_shipping_intl,relative-cost-logit
+South Asia,trn_aviation_intl,relative-cost-logit
+South Asia,trn_freight,relative-cost-logit
+South Asia,trn_freight_road,relative-cost-logit
+South Asia,trn_pass,relative-cost-logit
+South Asia,trn_pass_road,relative-cost-logit
+South Asia,trn_pass_road_LDV,relative-cost-logit
+South Asia,trn_pass_road_LDV_2W,relative-cost-logit
+South Asia,trn_shipping_intl,relative-cost-logit
+South Korea,trn_aviation_intl,relative-cost-logit
+South Korea,trn_freight,relative-cost-logit
+South Korea,trn_freight_road,relative-cost-logit
+South Korea,trn_pass,relative-cost-logit
+South Korea,trn_pass_road,relative-cost-logit
+South Korea,trn_pass_road_LDV,relative-cost-logit
+South Korea,trn_pass_road_LDV_2W,relative-cost-logit
+South Korea,trn_shipping_intl,relative-cost-logit
+Southeast Asia,trn_aviation_intl,relative-cost-logit
+Southeast Asia,trn_freight,relative-cost-logit
+Southeast Asia,trn_freight_road,relative-cost-logit
+Southeast Asia,trn_pass,relative-cost-logit
+Southeast Asia,trn_pass_road,relative-cost-logit
+Southeast Asia,trn_pass_road_bus,relative-cost-logit
+Southeast Asia,trn_pass_road_LDV,relative-cost-logit
+Southeast Asia,trn_pass_road_LDV_2W,relative-cost-logit
+Southeast Asia,trn_shipping_intl,relative-cost-logit
+Taiwan,trn_aviation_intl,relative-cost-logit
+Taiwan,trn_freight,relative-cost-logit
+Taiwan,trn_freight_road,relative-cost-logit
+Taiwan,trn_pass,relative-cost-logit
+Taiwan,trn_pass_road,relative-cost-logit
+Taiwan,trn_pass_road_LDV,relative-cost-logit
+Taiwan,trn_pass_road_LDV_2W,relative-cost-logit
+Taiwan,trn_shipping_intl,relative-cost-logit
+Argentina,trn_aviation_intl,relative-cost-logit
+Argentina,trn_freight,relative-cost-logit
+Argentina,trn_freight_road,relative-cost-logit
+Argentina,trn_pass,relative-cost-logit
+Argentina,trn_pass_road,relative-cost-logit
+Argentina,trn_pass_road_LDV,relative-cost-logit
+Argentina,trn_pass_road_LDV_2W,relative-cost-logit
+Argentina,trn_shipping_intl,relative-cost-logit
+Colombia,trn_aviation_intl,relative-cost-logit
+Colombia,trn_freight,relative-cost-logit
+Colombia,trn_freight_road,relative-cost-logit
+Colombia,trn_pass,relative-cost-logit
+Colombia,trn_pass_road,relative-cost-logit
+Colombia,trn_pass_road_LDV,relative-cost-logit
+Colombia,trn_pass_road_LDV_2W,relative-cost-logit
+Colombia,trn_shipping_intl,relative-cost-logit

@@ -1,0 +1,5 @@
+INPUT_TABLE
+Variable ID
+tranSubsector_relative-cost-logit
+
+region,supplysector,tranSubsector,logit.type

@@ -1,0 +1,330 @@
+INPUT_TABLE
+Variable ID
+SubsectorLogit_relative-cost-logit
+
+region,supplysector,subsector,logit.type
+USA,industrial energy use,biomass,relative-cost-logit
+USA,industrial energy use,coal,relative-cost-logit
+USA,industrial energy use,electricity,relative-cost-logit
+USA,industrial energy use,gas,relative-cost-logit
+USA,industrial energy use,hydrogen,relative-cost-logit
+USA,industrial energy use,refined liquids,relative-cost-logit
+USA,industrial feedstocks,coal,relative-cost-logit
+USA,industrial feedstocks,gas,relative-cost-logit
+USA,industrial feedstocks,refined liquids,relative-cost-logit
+USA,industry,industry,relative-cost-logit
+Africa_Eastern,industrial energy use,biomass,relative-cost-logit
+Africa_Eastern,industrial energy use,coal,relative-cost-logit
+Africa_Eastern,industrial energy use,electricity,relative-cost-logit
+Africa_Eastern,industrial energy use,gas,relative-cost-logit
+Africa_Eastern,industrial energy use,hydrogen,relative-cost-logit
+Africa_Eastern,industrial energy use,refined liquids,relative-cost-logit
+Africa_Eastern,industrial feedstocks,coal,relative-cost-logit
+Africa_Eastern,industrial feedstocks,gas,relative-cost-logit
+Africa_Eastern,industrial feedstocks,refined liquids,relative-cost-logit
+Africa_Eastern,industry,industry,relative-cost-logit
+Africa_Northern,industrial energy use,biomass,relative-cost-logit
+Africa_Northern,industrial energy use,coal,relative-cost-logit
+Africa_Northern,industrial energy use,electricity,relative-cost-logit
+Africa_Northern,industrial energy use,gas,relative-cost-logit
+Africa_Northern,industrial energy use,hydrogen,relative-cost-logit
+Africa_Northern,industrial energy use,refined liquids,relative-cost-logit
+Africa_Northern,industrial feedstocks,coal,relative-cost-logit
+Africa_Northern,industrial feedstocks,gas,relative-cost-logit
+Africa_Northern,industrial feedstocks,refined liquids,relative-cost-logit
+Africa_Northern,industry,industry,relative-cost-logit
+Africa_Southern,industrial energy use,biomass,relative-cost-logit
+Africa_Southern,industrial energy use,coal,relative-cost-logit
+Africa_Southern,industrial energy use,electricity,relative-cost-logit
+Africa_Southern,industrial energy use,gas,relative-cost-logit
+Africa_Southern,industrial energy use,hydrogen,relative-cost-logit
+Africa_Southern,industrial energy use,refined liquids,relative-cost-logit
+Africa_Southern,industrial feedstocks,coal,relative-cost-logit
+Africa_Southern,industrial feedstocks,gas,relative-cost-logit
+Africa_Southern,industrial feedstocks,refined liquids,relative-cost-logit
+Africa_Southern,industry,industry,relative-cost-logit
+Africa_Western,industrial energy use,biomass,relative-cost-logit
+Africa_Western,industrial energy use,coal,relative-cost-logit
+Africa_Western,industrial energy use,electricity,relative-cost-logit
+Africa_Western,industrial energy use,gas,relative-cost-logit
+Africa_Western,industrial energy use,hydrogen,relative-cost-logit
+Africa_Western,industrial energy use,refined liquids,relative-cost-logit
+Africa_Western,industrial feedstocks,coal,relative-cost-logit
+Africa_Western,industrial feedstocks,gas,relative-cost-logit
+Africa_Western,industrial feedstocks,refined liquids,relative-cost-logit
+Africa_Western,industry,industry,relative-cost-logit
+Australia_NZ,industrial energy use,biomass,relative-cost-logit
+Australia_NZ,industrial energy use,coal,relative-cost-logit
+Australia_NZ,industrial energy use,electricity,relative-cost-logit
+Australia_NZ,industrial energy use,gas,relative-cost-logit
+Australia_NZ,industrial energy use,hydrogen,relative-cost-logit
+Australia_NZ,industrial energy use,refined liquids,relative-cost-logit
+Australia_NZ,industrial feedstocks,coal,relative-cost-logit
+Australia_NZ,industrial feedstocks,gas,relative-cost-logit
+Australia_NZ,industrial feedstocks,refined liquids,relative-cost-logit
+Australia_NZ,industry,industry,relative-cost-logit
+Brazil,industrial energy use,biomass,relative-cost-logit
+Brazil,industrial energy use,coal,relative-cost-logit
+Brazil,industrial energy use,electricity,relative-cost-logit
+Brazil,industrial energy use,gas,relative-cost-logit
+Brazil,industrial energy use,hydrogen,relative-cost-logit
+Brazil,industrial energy use,refined liquids,relative-cost-logit
+Brazil,industrial feedstocks,coal,relative-cost-logit
+Brazil,industrial feedstocks,gas,relative-cost-logit
+Brazil,industrial feedstocks,refined liquids,relative-cost-logit
+Brazil,industry,industry,relative-cost-logit
+Canada,industrial energy use,biomass,relative-cost-logit
+Canada,industrial energy use,coal,relative-cost-logit
+Canada,industrial energy use,electricity,relative-cost-logit
+Canada,industrial energy use,gas,relative-cost-logit
+Canada,industrial energy use,hydrogen,relative-cost-logit
+Canada,industrial energy use,refined liquids,relative-cost-logit
+Canada,industrial feedstocks,coal,relative-cost-logit
+Canada,industrial feedstocks,gas,relative-cost-logit
+Canada,industrial feedstocks,refined liquids,relative-cost-logit
+Canada,industry,industry,relative-cost-logit
+Central America and Caribbean,industrial energy use,biomass,relative-cost-logit
+Central America and Caribbean,industrial energy use,coal,relative-cost-logit
+Central America and Caribbean,industrial energy use,electricity,relative-cost-logit
+Central America and Caribbean,industrial energy use,gas,relative-cost-logit
+Central America and Caribbean,industrial energy use,hydrogen,relative-cost-logit
+Central America and Caribbean,industrial energy use,refined liquids,relative-cost-logit
+Central America and Caribbean,industrial feedstocks,coal,relative-cost-logit
+Central America and Caribbean,industrial feedstocks,gas,relative-cost-logit
+Central America and Caribbean,industrial feedstocks,refined liquids,relative-cost-logit
+Central America and Caribbean,industry,industry,relative-cost-logit
+Central Asia,industrial energy use,biomass,relative-cost-logit
+Central Asia,industrial energy use,coal,relative-cost-logit
+Central Asia,industrial energy use,electricity,relative-cost-logit
+Central Asia,industrial energy use,gas,relative-cost-logit
+Central Asia,industrial energy use,hydrogen,relative-cost-logit
+Central Asia,industrial energy use,refined liquids,relative-cost-logit
+Central Asia,industrial feedstocks,coal,relative-cost-logit
+Central Asia,industrial feedstocks,gas,relative-cost-logit
+Central Asia,industrial feedstocks,refined liquids,relative-cost-logit
+Central Asia,industry,industry,relative-cost-logit
+China,industrial energy use,biomass,relative-cost-logit
+China,industrial energy use,coal,relative-cost-logit
+China,industrial energy use,district heat,relative-cost-logit
+China,industrial energy use,electricity,relative-cost-logit
+China,industrial energy use,gas,relative-cost-logit
+China,industrial energy use,hydrogen,relative-cost-logit
+China,industrial energy use,refined liquids,relative-cost-logit
+China,industrial feedstocks,coal,relative-cost-logit
+China,industrial feedstocks,gas,relative-cost-logit
+China,industrial feedstocks,refined liquids,relative-cost-logit
+China,industry,industry,relative-cost-logit
+EU-12,industrial energy use,biomass,relative-cost-logit
+EU-12,industrial energy use,coal,relative-cost-logit
+EU-12,industrial energy use,district heat,relative-cost-logit
+EU-12,industrial energy use,electricity,relative-cost-logit
+EU-12,industrial energy use,gas,relative-cost-logit
+EU-12,industrial energy use,hydrogen,relative-cost-logit
+EU-12,industrial energy use,refined liquids,relative-cost-logit
+EU-12,industrial feedstocks,coal,relative-cost-logit
+EU-12,industrial feedstocks,gas,relative-cost-logit
+EU-12,industrial feedstocks,refined liquids,relative-cost-logit
+EU-12,industry,industry,relative-cost-logit
+EU-15,industrial energy use,biomass,relative-cost-logit
+EU-15,industrial energy use,coal,relative-cost-logit
+EU-15,industrial energy use,electricity,relative-cost-logit
+EU-15,industrial energy use,gas,relative-cost-logit
+EU-15,industrial energy use,hydrogen,relative-cost-logit
+EU-15,industrial energy use,refined liquids,relative-cost-logit
+EU-15,industrial feedstocks,coal,relative-cost-logit
+EU-15,industrial feedstocks,gas,relative-cost-logit
+EU-15,industrial feedstocks,refined liquids,relative-cost-logit
+EU-15,industry,industry,relative-cost-logit
+Europe_Eastern,industrial energy use,biomass,relative-cost-logit
+Europe_Eastern,industrial energy use,coal,relative-cost-logit
+Europe_Eastern,industrial energy use,district heat,relative-cost-logit
+Europe_Eastern,industrial energy use,electricity,relative-cost-logit
+Europe_Eastern,industrial energy use,gas,relative-cost-logit
+Europe_Eastern,industrial energy use,hydrogen,relative-cost-logit
+Europe_Eastern,industrial energy use,refined liquids,relative-cost-logit
+Europe_Eastern,industrial feedstocks,coal,relative-cost-logit
+Europe_Eastern,industrial feedstocks,gas,relative-cost-logit
+Europe_Eastern,industrial feedstocks,refined liquids,relative-cost-logit
+Europe_Eastern,industry,industry,relative-cost-logit
+Europe_Non_EU,industrial energy use,biomass,relative-cost-logit
+Europe_Non_EU,industrial energy use,coal,relative-cost-logit
+Europe_Non_EU,industrial energy use,district heat,relative-cost-logit
+Europe_Non_EU,industrial energy use,electricity,relative-cost-logit
+Europe_Non_EU,industrial energy use,gas,relative-cost-logit
+Europe_Non_EU,industrial energy use,hydrogen,relative-cost-logit
+Europe_Non_EU,industrial energy use,refined liquids,relative-cost-logit
+Europe_Non_EU,industrial feedstocks,coal,relative-cost-logit
+Europe_Non_EU,industrial feedstocks,gas,relative-cost-logit
+Europe_Non_EU,industrial feedstocks,refined liquids,relative-cost-logit
+Europe_Non_EU,industry,industry,relative-cost-logit
+European Free Trade Association,industrial energy use,biomass,relative-cost-logit
+European Free Trade Association,industrial energy use,coal,relative-cost-logit
+European Free Trade Association,industrial energy use,electricity,relative-cost-logit
+European Free Trade Association,industrial energy use,gas,relative-cost-logit
+European Free Trade Association,industrial energy use,hydrogen,relative-cost-logit
+European Free Trade Association,industrial energy use,refined liquids,relative-cost-logit
+European Free Trade Association,industrial feedstocks,coal,relative-cost-logit
+European Free Trade Association,industrial feedstocks,gas,relative-cost-logit
+European Free Trade Association,industrial feedstocks,refined liquids,relative-cost-logit
+European Free Trade Association,industry,industry,relative-cost-logit
+India,industrial energy use,biomass,relative-cost-logit
+India,industrial energy use,coal,relative-cost-logit
+India,industrial energy use,electricity,relative-cost-logit
+India,industrial energy use,gas,relative-cost-logit
+India,industrial energy use,hydrogen,relative-cost-logit
+India,industrial energy use,refined liquids,relative-cost-logit
+India,industrial feedstocks,coal,relative-cost-logit
+India,industrial feedstocks,gas,relative-cost-logit
+India,industrial feedstocks,refined liquids,relative-cost-logit
+India,industry,industry,relative-cost-logit
+Indonesia,industrial energy use,biomass,relative-cost-logit
+Indonesia,industrial energy use,coal,relative-cost-logit
+Indonesia,industrial energy use,electricity,relative-cost-logit
+Indonesia,industrial energy use,gas,relative-cost-logit
+Indonesia,industrial energy use,hydrogen,relative-cost-logit
+Indonesia,industrial energy use,refined liquids,relative-cost-logit
+Indonesia,industrial feedstocks,coal,relative-cost-logit
+Indonesia,industrial feedstocks,gas,relative-cost-logit
+Indonesia,industrial feedstocks,refined liquids,relative-cost-logit
+Indonesia,industry,industry,relative-cost-logit
+Japan,industrial energy use,biomass,relative-cost-logit
+Japan,industrial energy use,coal,relative-cost-logit
+Japan,industrial energy use,electricity,relative-cost-logit
+Japan,industrial energy use,gas,relative-cost-logit
+Japan,industrial energy use,hydrogen,relative-cost-logit
+Japan,industrial energy use,refined liquids,relative-cost-logit
+Japan,industrial feedstocks,coal,relative-cost-logit
+Japan,industrial feedstocks,gas,relative-cost-logit
+Japan,industrial feedstocks,refined liquids,relative-cost-logit
+Japan,industry,industry,relative-cost-logit
+Mexico,industrial energy use,biomass,relative-cost-logit
+Mexico,industrial energy use,coal,relative-cost-logit
+Mexico,industrial energy use,electricity,relative-cost-logit
+Mexico,industrial energy use,gas,relative-cost-logit
+Mexico,industrial energy use,hydrogen,relative-cost-logit
+Mexico,industrial energy use,refined liquids,relative-cost-logit
+Mexico,industrial feedstocks,coal,relative-cost-logit
+Mexico,industrial feedstocks,gas,relative-cost-logit
+Mexico,industrial feedstocks,refined liquids,relative-cost-logit
+Mexico,industry,industry,relative-cost-logit
+Middle East,industrial energy use,biomass,relative-cost-logit
+Middle East,industrial energy use,coal,relative-cost-logit
+Middle East,industrial energy use,electricity,relative-cost-logit
+Middle East,industrial energy use,gas,relative-cost-logit
+Middle East,industrial energy use,hydrogen,relative-cost-logit
+Middle East,industrial energy use,refined liquids,relative-cost-logit
+Middle East,industrial feedstocks,coal,relative-cost-logit
+Middle East,industrial feedstocks,gas,relative-cost-logit
+Middle East,industrial feedstocks,refined liquids,relative-cost-logit
+Middle East,industry,industry,relative-cost-logit
+Pakistan,industrial energy use,biomass,relative-cost-logit
+Pakistan,industrial energy use,coal,relative-cost-logit
+Pakistan,industrial energy use,electricity,relative-cost-logit
+Pakistan,industrial energy use,gas,relative-cost-logit
+Pakistan,industrial energy use,hydrogen,relative-cost-logit
+Pakistan,industrial energy use,refined liquids,relative-cost-logit
+Pakistan,industrial feedstocks,coal,relative-cost-logit
+Pakistan,industrial feedstocks,gas,relative-cost-logit
+Pakistan,industrial feedstocks,refined liquids,relative-cost-logit
+Pakistan,industry,industry,relative-cost-logit
+Russia,industrial energy use,biomass,relative-cost-logit
+Russia,industrial energy use,coal,relative-cost-logit
+Russia,industrial energy use,district heat,relative-cost-logit
+Russia,industrial energy use,electricity,relative-cost-logit
+Russia,industrial energy use,gas,relative-cost-logit
+Russia,industrial energy use,hydrogen,relative-cost-logit
+Russia,industrial energy use,refined liquids,relative-cost-logit
+Russia,industrial feedstocks,coal,relative-cost-logit
+Russia,industrial feedstocks,gas,relative-cost-logit
+Russia,industrial feedstocks,refined liquids,relative-cost-logit
+Russia,industry,industry,relative-cost-logit
+South Africa,industrial energy use,biomass,relative-cost-logit
+South Africa,industrial energy use,coal,relative-cost-logit
+South Africa,industrial energy use,electricity,relative-cost-logit
+South Africa,industrial energy use,gas,relative-cost-logit
+South Africa,industrial energy use,hydrogen,relative-cost-logit
+South Africa,industrial energy use,refined liquids,relative-cost-logit
+South Africa,industrial feedstocks,coal,relative-cost-logit
+South Africa,industrial feedstocks,gas,relative-cost-logit
+South Africa,industrial feedstocks,refined liquids,relative-cost-logit
+South Africa,industry,industry,relative-cost-logit
+South America_Northern,industrial energy use,biomass,relative-cost-logit
+South America_Northern,industrial energy use,coal,relative-cost-logit
+South America_Northern,industrial energy use,electricity,relative-cost-logit
+South America_Northern,industrial energy use,gas,relative-cost-logit
+South America_Northern,industrial energy use,hydrogen,relative-cost-logit
+South America_Northern,industrial energy use,refined liquids,relative-cost-logit
+South America_Northern,industrial feedstocks,coal,relative-cost-logit
+South America_Northern,industrial feedstocks,gas,relative-cost-logit
+South America_Northern,industrial feedstocks,refined liquids,relative-cost-logit
+South America_Northern,industry,industry,relative-cost-logit
+South America_Southern,industrial energy use,biomass,relative-cost-logit
+South America_Southern,industrial energy use,coal,relative-cost-logit
+South America_Southern,industrial energy use,electricity,relative-cost-logit
+South America_Southern,industrial energy use,gas,relative-cost-logit
+South America_Southern,industrial energy use,hydrogen,relative-cost-logit
+South America_Southern,industrial energy use,refined liquids,relative-cost-logit
+South America_Southern,industrial feedstocks,coal,relative-cost-logit
+South America_Southern,industrial feedstocks,gas,relative-cost-logit
+South America_Southern,industrial feedstocks,refined liquids,relative-cost-logit
+South America_Southern,industry,industry,relative-cost-logit
+South Asia,industrial energy use,biomass,relative-cost-logit
+South Asia,industrial energy use,coal,relative-cost-logit
+South Asia,industrial energy use,electricity,relative-cost-logit
+South Asia,industrial energy use,gas,relative-cost-logit
+South Asia,industrial energy use,hydrogen,relative-cost-logit
+South Asia,industrial energy use,refined liquids,relative-cost-logit
+South Asia,industrial feedstocks,coal,relative-cost-logit
+South Asia,industrial feedstocks,gas,relative-cost-logit
+South Asia,industrial feedstocks,refined liquids,relative-cost-logit
+South Asia,industry,industry,relative-cost-logit
+South Korea,industrial energy use,biomass,relative-cost-logit
+South Korea,industrial energy use,coal,relative-cost-logit
+South Korea,industrial energy use,electricity,relative-cost-logit
+South Korea,industrial energy use,gas,relative-cost-logit
+South Korea,industrial energy use,hydrogen,relative-cost-logit
+South Korea,industrial energy use,refined liquids,relative-cost-logit
+South Korea,industrial feedstocks,coal,relative-cost-logit
+South Korea,industrial feedstocks,gas,relative-cost-logit
+South Korea,industrial feedstocks,refined liquids,relative-cost-logit
+South Korea,industry,industry,relative-cost-logit
+Southeast Asia,industrial energy use,biomass,relative-cost-logit
+Southeast Asia,industrial energy use,coal,relative-cost-logit
+Southeast Asia,industrial energy use,electricity,relative-cost-logit
+Southeast Asia,industrial energy use,gas,relative-cost-logit
+Southeast Asia,industrial energy use,hydrogen,relative-cost-logit
+Southeast Asia,industrial energy use,refined liquids,relative-cost-logit
+Southeast Asia,industrial feedstocks,coal,relative-cost-logit
+Southeast Asia,industrial feedstocks,gas,relative-cost-logit
+Southeast Asia,industrial feedstocks,refined liquids,relative-cost-logit
+Southeast Asia,industry,industry,relative-cost-logit
+Taiwan,industrial energy use,biomass,relative-cost-logit
+Taiwan,industrial energy use,coal,relative-cost-logit
+Taiwan,industrial energy use,electricity,relative-cost-logit
+Taiwan,industrial energy use,gas,relative-cost-logit
+Taiwan,industrial energy use,hydrogen,relative-cost-logit
+Taiwan,industrial energy use,refined liquids,relative-cost-logit
+Taiwan,industrial feedstocks,coal,relative-cost-logit
+Taiwan,industrial feedstocks,gas,relative-cost-logit
+Taiwan,industrial feedstocks,refined liquids,relative-cost-logit
+Taiwan,industry,industry,relative-cost-logit
+Argentina,industrial energy use,biomass,relative-cost-logit
+Argentina,industrial energy use,coal,relative-cost-logit
+Argentina,industrial energy use,electricity,relative-cost-logit
+Argentina,industrial energy use,gas,relative-cost-logit
+Argentina,industrial energy use,hydrogen,relative-cost-logit
+Argentina,industrial energy use,refined liquids,relative-cost-logit
+Argentina,industrial feedstocks,coal,relative-cost-logit
+Argentina,industrial feedstocks,gas,relative-cost-logit
+Argentina,industrial feedstocks,refined liquids,relative-cost-logit
+Argentina,industry,industry,relative-cost-logit
+Colombia,industrial energy use,biomass,relative-cost-logit
+Colombia,industrial energy use,coal,relative-cost-logit
+Colombia,industrial energy use,electricity,relative-cost-logit
+Colombia,industrial energy use,gas,relative-cost-logit
+Colombia,industrial energy use,hydrogen,relative-cost-logit
+Colombia,industrial energy use,refined liquids,relative-cost-logit
+Colombia,industrial feedstocks,coal,relative-cost-logit
+Colombia,industrial feedstocks,gas,relative-cost-logit
+Colombia,industrial feedstocks,refined liquids,relative-cost-logit
+Colombia,industry,industry,relative-cost-logit

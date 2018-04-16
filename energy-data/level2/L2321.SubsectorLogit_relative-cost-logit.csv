@@ -1,0 +1,165 @@
+INPUT_TABLE
+Variable ID
+SubsectorLogit_relative-cost-logit
+
+region,supplysector,subsector,logit.type
+USA,cement,cement,relative-cost-logit
+USA,process heat cement,biomass,relative-cost-logit
+USA,process heat cement,coal,relative-cost-logit
+USA,process heat cement,gas,relative-cost-logit
+USA,process heat cement,refined liquids,relative-cost-logit
+Africa_Eastern,cement,cement,relative-cost-logit
+Africa_Eastern,process heat cement,biomass,relative-cost-logit
+Africa_Eastern,process heat cement,coal,relative-cost-logit
+Africa_Eastern,process heat cement,gas,relative-cost-logit
+Africa_Eastern,process heat cement,refined liquids,relative-cost-logit
+Africa_Northern,cement,cement,relative-cost-logit
+Africa_Northern,process heat cement,biomass,relative-cost-logit
+Africa_Northern,process heat cement,coal,relative-cost-logit
+Africa_Northern,process heat cement,gas,relative-cost-logit
+Africa_Northern,process heat cement,refined liquids,relative-cost-logit
+Africa_Southern,cement,cement,relative-cost-logit
+Africa_Southern,process heat cement,biomass,relative-cost-logit
+Africa_Southern,process heat cement,coal,relative-cost-logit
+Africa_Southern,process heat cement,gas,relative-cost-logit
+Africa_Southern,process heat cement,refined liquids,relative-cost-logit
+Africa_Western,cement,cement,relative-cost-logit
+Africa_Western,process heat cement,biomass,relative-cost-logit
+Africa_Western,process heat cement,coal,relative-cost-logit
+Africa_Western,process heat cement,gas,relative-cost-logit
+Africa_Western,process heat cement,refined liquids,relative-cost-logit
+Australia_NZ,cement,cement,relative-cost-logit
+Australia_NZ,process heat cement,biomass,relative-cost-logit
+Australia_NZ,process heat cement,coal,relative-cost-logit
+Australia_NZ,process heat cement,gas,relative-cost-logit
+Australia_NZ,process heat cement,refined liquids,relative-cost-logit
+Brazil,cement,cement,relative-cost-logit
+Brazil,process heat cement,biomass,relative-cost-logit
+Brazil,process heat cement,coal,relative-cost-logit
+Brazil,process heat cement,gas,relative-cost-logit
+Brazil,process heat cement,refined liquids,relative-cost-logit
+Canada,cement,cement,relative-cost-logit
+Canada,process heat cement,biomass,relative-cost-logit
+Canada,process heat cement,coal,relative-cost-logit
+Canada,process heat cement,gas,relative-cost-logit
+Canada,process heat cement,refined liquids,relative-cost-logit
+Central America and Caribbean,cement,cement,relative-cost-logit
+Central America and Caribbean,process heat cement,biomass,relative-cost-logit
+Central America and Caribbean,process heat cement,coal,relative-cost-logit
+Central America and Caribbean,process heat cement,gas,relative-cost-logit
+Central America and Caribbean,process heat cement,refined liquids,relative-cost-logit
+Central Asia,cement,cement,relative-cost-logit
+Central Asia,process heat cement,biomass,relative-cost-logit
+Central Asia,process heat cement,coal,relative-cost-logit
+Central Asia,process heat cement,gas,relative-cost-logit
+Central Asia,process heat cement,refined liquids,relative-cost-logit
+China,cement,cement,relative-cost-logit
+China,process heat cement,biomass,relative-cost-logit
+China,process heat cement,coal,relative-cost-logit
+China,process heat cement,gas,relative-cost-logit
+China,process heat cement,refined liquids,relative-cost-logit
+EU-12,cement,cement,relative-cost-logit
+EU-12,process heat cement,biomass,relative-cost-logit
+EU-12,process heat cement,coal,relative-cost-logit
+EU-12,process heat cement,gas,relative-cost-logit
+EU-12,process heat cement,refined liquids,relative-cost-logit
+EU-15,cement,cement,relative-cost-logit
+EU-15,process heat cement,biomass,relative-cost-logit
+EU-15,process heat cement,coal,relative-cost-logit
+EU-15,process heat cement,gas,relative-cost-logit
+EU-15,process heat cement,refined liquids,relative-cost-logit
+Europe_Eastern,cement,cement,relative-cost-logit
+Europe_Eastern,process heat cement,biomass,relative-cost-logit
+Europe_Eastern,process heat cement,coal,relative-cost-logit
+Europe_Eastern,process heat cement,gas,relative-cost-logit
+Europe_Eastern,process heat cement,refined liquids,relative-cost-logit
+Europe_Non_EU,cement,cement,relative-cost-logit
+Europe_Non_EU,process heat cement,biomass,relative-cost-logit
+Europe_Non_EU,process heat cement,coal,relative-cost-logit
+Europe_Non_EU,process heat cement,gas,relative-cost-logit
+Europe_Non_EU,process heat cement,refined liquids,relative-cost-logit
+European Free Trade Association,cement,cement,relative-cost-logit
+European Free Trade Association,process heat cement,biomass,relative-cost-logit
+European Free Trade Association,process heat cement,coal,relative-cost-logit
+European Free Trade Association,process heat cement,gas,relative-cost-logit
+European Free Trade Association,process heat cement,refined liquids,relative-cost-logit
+India,cement,cement,relative-cost-logit
+India,process heat cement,biomass,relative-cost-logit
+India,process heat cement,coal,relative-cost-logit
+India,process heat cement,gas,relative-cost-logit
+India,process heat cement,refined liquids,relative-cost-logit
+Indonesia,cement,cement,relative-cost-logit
+Indonesia,process heat cement,biomass,relative-cost-logit
+Indonesia,process heat cement,coal,relative-cost-logit
+Indonesia,process heat cement,gas,relative-cost-logit
+Indonesia,process heat cement,refined liquids,relative-cost-logit
+Japan,cement,cement,relative-cost-logit
+Japan,process heat cement,biomass,relative-cost-logit
+Japan,process heat cement,coal,relative-cost-logit
+Japan,process heat cement,gas,relative-cost-logit
+Japan,process heat cement,refined liquids,relative-cost-logit
+Mexico,cement,cement,relative-cost-logit
+Mexico,process heat cement,biomass,relative-cost-logit
+Mexico,process heat cement,coal,relative-cost-logit
+Mexico,process heat cement,gas,relative-cost-logit
+Mexico,process heat cement,refined liquids,relative-cost-logit
+Middle East,cement,cement,relative-cost-logit
+Middle East,process heat cement,biomass,relative-cost-logit
+Middle East,process heat cement,coal,relative-cost-logit
+Middle East,process heat cement,gas,relative-cost-logit
+Middle East,process heat cement,refined liquids,relative-cost-logit
+Pakistan,cement,cement,relative-cost-logit
+Pakistan,process heat cement,biomass,relative-cost-logit
+Pakistan,process heat cement,coal,relative-cost-logit
+Pakistan,process heat cement,gas,relative-cost-logit
+Pakistan,process heat cement,refined liquids,relative-cost-logit
+Russia,cement,cement,relative-cost-logit
+Russia,process heat cement,biomass,relative-cost-logit
+Russia,process heat cement,coal,relative-cost-logit
+Russia,process heat cement,gas,relative-cost-logit
+Russia,process heat cement,refined liquids,relative-cost-logit
+South Africa,cement,cement,relative-cost-logit
+South Africa,process heat cement,biomass,relative-cost-logit
+South Africa,process heat cement,coal,relative-cost-logit
+South Africa,process heat cement,gas,relative-cost-logit
+South Africa,process heat cement,refined liquids,relative-cost-logit
+South America_Northern,cement,cement,relative-cost-logit
+South America_Northern,process heat cement,biomass,relative-cost-logit
+South America_Northern,process heat cement,coal,relative-cost-logit
+South America_Northern,process heat cement,gas,relative-cost-logit
+South America_Northern,process heat cement,refined liquids,relative-cost-logit
+South America_Southern,cement,cement,relative-cost-logit
+South America_Southern,process heat cement,biomass,relative-cost-logit
+South America_Southern,process heat cement,coal,relative-cost-logit
+South America_Southern,process heat cement,gas,relative-cost-logit
+South America_Southern,process heat cement,refined liquids,relative-cost-logit
+South Asia,cement,cement,relative-cost-logit
+South Asia,process heat cement,biomass,relative-cost-logit
+South Asia,process heat cement,coal,relative-cost-logit
+South Asia,process heat cement,gas,relative-cost-logit
+South Asia,process heat cement,refined liquids,relative-cost-logit
+South Korea,cement,cement,relative-cost-logit
+South Korea,process heat cement,biomass,relative-cost-logit
+South Korea,process heat cement,coal,relative-cost-logit
+South Korea,process heat cement,gas,relative-cost-logit
+South Korea,process heat cement,refined liquids,relative-cost-logit
+Southeast Asia,cement,cement,relative-cost-logit
+Southeast Asia,process heat cement,biomass,relative-cost-logit
+Southeast Asia,process heat cement,coal,relative-cost-logit
+Southeast Asia,process heat cement,gas,relative-cost-logit
+Southeast Asia,process heat cement,refined liquids,relative-cost-logit
+Taiwan,cement,cement,relative-cost-logit
+Taiwan,process heat cement,biomass,relative-cost-logit
+Taiwan,process heat cement,coal,relative-cost-logit
+Taiwan,process heat cement,gas,relative-cost-logit
+Taiwan,process heat cement,refined liquids,relative-cost-logit
+Argentina,cement,cement,relative-cost-logit
+Argentina,process heat cement,biomass,relative-cost-logit
+Argentina,process heat cement,coal,relative-cost-logit
+Argentina,process heat cement,gas,relative-cost-logit
+Argentina,process heat cement,refined liquids,relative-cost-logit
+Colombia,cement,cement,relative-cost-logit
+Colombia,process heat cement,biomass,relative-cost-logit
+Colombia,process heat cement,coal,relative-cost-logit
+Colombia,process heat cement,gas,relative-cost-logit
+Colombia,process heat cement,refined liquids,relative-cost-logit

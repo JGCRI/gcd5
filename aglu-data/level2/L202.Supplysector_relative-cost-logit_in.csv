@@ -1,0 +1,129 @@
+INPUT_TABLE
+Variable ID
+Supplysector_relative-cost-logit
+
+region,supplysector,logit.type
+USA,FodderHerb_Residue,relative-cost-logit
+USA,Pasture_FodderGrass,relative-cost-logit
+USA,FeedCrops,relative-cost-logit
+USA,Scavenging_Other,relative-cost-logit
+Africa_Eastern,FodderHerb_Residue,relative-cost-logit
+Africa_Eastern,Pasture_FodderGrass,relative-cost-logit
+Africa_Eastern,FeedCrops,relative-cost-logit
+Africa_Eastern,Scavenging_Other,relative-cost-logit
+Africa_Northern,FodderHerb_Residue,relative-cost-logit
+Africa_Northern,Pasture_FodderGrass,relative-cost-logit
+Africa_Northern,FeedCrops,relative-cost-logit
+Africa_Northern,Scavenging_Other,relative-cost-logit
+Africa_Southern,FodderHerb_Residue,relative-cost-logit
+Africa_Southern,Pasture_FodderGrass,relative-cost-logit
+Africa_Southern,FeedCrops,relative-cost-logit
+Africa_Southern,Scavenging_Other,relative-cost-logit
+Africa_Western,FodderHerb_Residue,relative-cost-logit
+Africa_Western,Pasture_FodderGrass,relative-cost-logit
+Africa_Western,FeedCrops,relative-cost-logit
+Africa_Western,Scavenging_Other,relative-cost-logit
+Australia_NZ,FodderHerb_Residue,relative-cost-logit
+Australia_NZ,Pasture_FodderGrass,relative-cost-logit
+Australia_NZ,FeedCrops,relative-cost-logit
+Australia_NZ,Scavenging_Other,relative-cost-logit
+Brazil,FodderHerb_Residue,relative-cost-logit
+Brazil,Pasture_FodderGrass,relative-cost-logit
+Brazil,FeedCrops,relative-cost-logit
+Brazil,Scavenging_Other,relative-cost-logit
+Canada,FodderHerb_Residue,relative-cost-logit
+Canada,Pasture_FodderGrass,relative-cost-logit
+Canada,FeedCrops,relative-cost-logit
+Canada,Scavenging_Other,relative-cost-logit
+Central America and Caribbean,FodderHerb_Residue,relative-cost-logit
+Central America and Caribbean,Pasture_FodderGrass,relative-cost-logit
+Central America and Caribbean,FeedCrops,relative-cost-logit
+Central America and Caribbean,Scavenging_Other,relative-cost-logit
+Central Asia,FodderHerb_Residue,relative-cost-logit
+Central Asia,Pasture_FodderGrass,relative-cost-logit
+Central Asia,FeedCrops,relative-cost-logit
+Central Asia,Scavenging_Other,relative-cost-logit
+China,FodderHerb_Residue,relative-cost-logit
+China,Pasture_FodderGrass,relative-cost-logit
+China,FeedCrops,relative-cost-logit
+China,Scavenging_Other,relative-cost-logit
+EU-12,FodderHerb_Residue,relative-cost-logit
+EU-12,Pasture_FodderGrass,relative-cost-logit
+EU-12,FeedCrops,relative-cost-logit
+EU-12,Scavenging_Other,relative-cost-logit
+EU-15,FodderHerb_Residue,relative-cost-logit
+EU-15,Pasture_FodderGrass,relative-cost-logit
+EU-15,FeedCrops,relative-cost-logit
+EU-15,Scavenging_Other,relative-cost-logit
+Europe_Eastern,FodderHerb_Residue,relative-cost-logit
+Europe_Eastern,Pasture_FodderGrass,relative-cost-logit
+Europe_Eastern,FeedCrops,relative-cost-logit
+Europe_Eastern,Scavenging_Other,relative-cost-logit
+Europe_Non_EU,FodderHerb_Residue,relative-cost-logit
+Europe_Non_EU,Pasture_FodderGrass,relative-cost-logit
+Europe_Non_EU,FeedCrops,relative-cost-logit
+Europe_Non_EU,Scavenging_Other,relative-cost-logit
+European Free Trade Association,FodderHerb_Residue,relative-cost-logit
+European Free Trade Association,Pasture_FodderGrass,relative-cost-logit
+European Free Trade Association,FeedCrops,relative-cost-logit
+European Free Trade Association,Scavenging_Other,relative-cost-logit
+India,FodderHerb_Residue,relative-cost-logit
+India,Pasture_FodderGrass,relative-cost-logit
+India,FeedCrops,relative-cost-logit
+India,Scavenging_Other,relative-cost-logit
+Indonesia,FodderHerb_Residue,relative-cost-logit
+Indonesia,Pasture_FodderGrass,relative-cost-logit
+Indonesia,FeedCrops,relative-cost-logit
+Indonesia,Scavenging_Other,relative-cost-logit
+Japan,FodderHerb_Residue,relative-cost-logit
+Japan,Pasture_FodderGrass,relative-cost-logit
+Japan,FeedCrops,relative-cost-logit
+Japan,Scavenging_Other,relative-cost-logit
+Mexico,FodderHerb_Residue,relative-cost-logit
+Mexico,Pasture_FodderGrass,relative-cost-logit
+Mexico,FeedCrops,relative-cost-logit
+Mexico,Scavenging_Other,relative-cost-logit
+Middle East,FodderHerb_Residue,relative-cost-logit
+Middle East,Pasture_FodderGrass,relative-cost-logit
+Middle East,FeedCrops,relative-cost-logit
+Middle East,Scavenging_Other,relative-cost-logit
+Pakistan,FodderHerb_Residue,relative-cost-logit
+Pakistan,Pasture_FodderGrass,relative-cost-logit
+Pakistan,FeedCrops,relative-cost-logit
+Pakistan,Scavenging_Other,relative-cost-logit
+Russia,FodderHerb_Residue,relative-cost-logit
+Russia,Pasture_FodderGrass,relative-cost-logit
+Russia,FeedCrops,relative-cost-logit
+Russia,Scavenging_Other,relative-cost-logit
+South Africa,FodderHerb_Residue,relative-cost-logit
+South Africa,Pasture_FodderGrass,relative-cost-logit
+South Africa,FeedCrops,relative-cost-logit
+South Africa,Scavenging_Other,relative-cost-logit
+South America_Northern,FodderHerb_Residue,relative-cost-logit
+South America_Northern,Pasture_FodderGrass,relative-cost-logit
+South America_Northern,FeedCrops,relative-cost-logit
+South America_Northern,Scavenging_Other,relative-cost-logit
+South America_Southern,FodderHerb_Residue,relative-cost-logit
+South America_Southern,Pasture_FodderGrass,relative-cost-logit
+South America_Southern,FeedCrops,relative-cost-logit
+South America_Southern,Scavenging_Other,relative-cost-logit
+South Asia,FodderHerb_Residue,relative-cost-logit
+South Asia,Pasture_FodderGrass,relative-cost-logit
+South Asia,FeedCrops,relative-cost-logit
+South Asia,Scavenging_Other,relative-cost-logit
+South Korea,FodderHerb_Residue,relative-cost-logit
+South Korea,Pasture_FodderGrass,relative-cost-logit
+South Korea,FeedCrops,relative-cost-logit
+South Korea,Scavenging_Other,relative-cost-logit
+Southeast Asia,FodderHerb_Residue,relative-cost-logit
+Southeast Asia,Pasture_FodderGrass,relative-cost-logit
+Southeast Asia,FeedCrops,relative-cost-logit
+Southeast Asia,Scavenging_Other,relative-cost-logit
+Argentina,FodderHerb_Residue,relative-cost-logit
+Argentina,Pasture_FodderGrass,relative-cost-logit
+Argentina,FeedCrops,relative-cost-logit
+Argentina,Scavenging_Other,relative-cost-logit
+Colombia,FodderHerb_Residue,relative-cost-logit
+Colombia,Pasture_FodderGrass,relative-cost-logit
+Colombia,FeedCrops,relative-cost-logit
+Colombia,Scavenging_Other,relative-cost-logit

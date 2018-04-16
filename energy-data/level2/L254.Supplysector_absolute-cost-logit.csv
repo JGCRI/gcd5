@@ -1,0 +1,37 @@
+INPUT_TABLE
+Variable ID
+Supplysector_absolute-cost-logit
+
+region,supplysector,logit.type
+USA,trn_pass_road_LDV_4W,absolute-cost-logit
+Africa_Eastern,trn_pass_road_LDV_4W,absolute-cost-logit
+Africa_Northern,trn_pass_road_LDV_4W,absolute-cost-logit
+Africa_Southern,trn_pass_road_LDV_4W,absolute-cost-logit
+Africa_Western,trn_pass_road_LDV_4W,absolute-cost-logit
+Australia_NZ,trn_pass_road_LDV_4W,absolute-cost-logit
+Brazil,trn_pass_road_LDV_4W,absolute-cost-logit
+Canada,trn_pass_road_LDV_4W,absolute-cost-logit
+Central America and Caribbean,trn_pass_road_LDV_4W,absolute-cost-logit
+Central Asia,trn_pass_road_LDV_4W,absolute-cost-logit
+China,trn_pass_road_LDV_4W,absolute-cost-logit
+EU-12,trn_pass_road_LDV_4W,absolute-cost-logit
+EU-15,trn_pass_road_LDV_4W,absolute-cost-logit
+Europe_Eastern,trn_pass_road_LDV_4W,absolute-cost-logit
+Europe_Non_EU,trn_pass_road_LDV_4W,absolute-cost-logit
+European Free Trade Association,trn_pass_road_LDV_4W,absolute-cost-logit
+India,trn_pass_road_LDV_4W,absolute-cost-logit
+Indonesia,trn_pass_road_LDV_4W,absolute-cost-logit
+Japan,trn_pass_road_LDV_4W,absolute-cost-logit
+Mexico,trn_pass_road_LDV_4W,absolute-cost-logit
+Middle East,trn_pass_road_LDV_4W,absolute-cost-logit
+Pakistan,trn_pass_road_LDV_4W,absolute-cost-logit
+Russia,trn_pass_road_LDV_4W,absolute-cost-logit
+South Africa,trn_pass_road_LDV_4W,absolute-cost-logit
+South America_Northern,trn_pass_road_LDV_4W,absolute-cost-logit
+South America_Southern,trn_pass_road_LDV_4W,absolute-cost-logit
+South Asia,trn_pass_road_LDV_4W,absolute-cost-logit
+South Korea,trn_pass_road_LDV_4W,absolute-cost-logit
+Southeast Asia,trn_pass_road_LDV_4W,absolute-cost-logit
+Taiwan,trn_pass_road_LDV_4W,absolute-cost-logit
+Argentina,trn_pass_road_LDV_4W,absolute-cost-logit
+Colombia,trn_pass_road_LDV_4W,absolute-cost-logit

@@ -1,0 +1,69 @@
+INPUT_TABLE
+Variable ID
+Supplysector_relative-cost-logit
+
+region,supplysector,logit.type
+USA,N fertilizer,relative-cost-logit
+USA,Exports_fertilizer,relative-cost-logit
+Africa_Eastern,N fertilizer,relative-cost-logit
+Africa_Eastern,Exports_fertilizer,relative-cost-logit
+Africa_Northern,N fertilizer,relative-cost-logit
+Africa_Northern,Exports_fertilizer,relative-cost-logit
+Africa_Southern,N fertilizer,relative-cost-logit
+Africa_Southern,Exports_fertilizer,relative-cost-logit
+Africa_Western,N fertilizer,relative-cost-logit
+Africa_Western,Exports_fertilizer,relative-cost-logit
+Australia_NZ,N fertilizer,relative-cost-logit
+Australia_NZ,Exports_fertilizer,relative-cost-logit
+Brazil,N fertilizer,relative-cost-logit
+Brazil,Exports_fertilizer,relative-cost-logit
+Canada,N fertilizer,relative-cost-logit
+Canada,Exports_fertilizer,relative-cost-logit
+Central America and Caribbean,N fertilizer,relative-cost-logit
+Central America and Caribbean,Exports_fertilizer,relative-cost-logit
+Central Asia,N fertilizer,relative-cost-logit
+Central Asia,Exports_fertilizer,relative-cost-logit
+China,N fertilizer,relative-cost-logit
+China,Exports_fertilizer,relative-cost-logit
+EU-12,N fertilizer,relative-cost-logit
+EU-12,Exports_fertilizer,relative-cost-logit
+EU-15,N fertilizer,relative-cost-logit
+EU-15,Exports_fertilizer,relative-cost-logit
+Europe_Eastern,N fertilizer,relative-cost-logit
+Europe_Eastern,Exports_fertilizer,relative-cost-logit
+Europe_Non_EU,N fertilizer,relative-cost-logit
+Europe_Non_EU,Exports_fertilizer,relative-cost-logit
+European Free Trade Association,N fertilizer,relative-cost-logit
+European Free Trade Association,Exports_fertilizer,relative-cost-logit
+India,N fertilizer,relative-cost-logit
+India,Exports_fertilizer,relative-cost-logit
+Indonesia,N fertilizer,relative-cost-logit
+Indonesia,Exports_fertilizer,relative-cost-logit
+Japan,N fertilizer,relative-cost-logit
+Japan,Exports_fertilizer,relative-cost-logit
+Mexico,N fertilizer,relative-cost-logit
+Mexico,Exports_fertilizer,relative-cost-logit
+Middle East,N fertilizer,relative-cost-logit
+Middle East,Exports_fertilizer,relative-cost-logit
+Pakistan,N fertilizer,relative-cost-logit
+Pakistan,Exports_fertilizer,relative-cost-logit
+Russia,N fertilizer,relative-cost-logit
+Russia,Exports_fertilizer,relative-cost-logit
+South Africa,N fertilizer,relative-cost-logit
+South Africa,Exports_fertilizer,relative-cost-logit
+South America_Northern,N fertilizer,relative-cost-logit
+South America_Northern,Exports_fertilizer,relative-cost-logit
+South America_Southern,N fertilizer,relative-cost-logit
+South America_Southern,Exports_fertilizer,relative-cost-logit
+South Asia,N fertilizer,relative-cost-logit
+South Asia,Exports_fertilizer,relative-cost-logit
+South Korea,N fertilizer,relative-cost-logit
+South Korea,Exports_fertilizer,relative-cost-logit
+Southeast Asia,N fertilizer,relative-cost-logit
+Southeast Asia,Exports_fertilizer,relative-cost-logit
+Taiwan,N fertilizer,relative-cost-logit
+Taiwan,Exports_fertilizer,relative-cost-logit
+Argentina,N fertilizer,relative-cost-logit
+Argentina,Exports_fertilizer,relative-cost-logit
+Colombia,N fertilizer,relative-cost-logit
+Colombia,Exports_fertilizer,relative-cost-logit

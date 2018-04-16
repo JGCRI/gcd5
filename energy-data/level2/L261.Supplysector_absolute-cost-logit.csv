@@ -1,0 +1,37 @@
+INPUT_TABLE
+Variable ID
+Supplysector_absolute-cost-logit
+
+region,supplysector,logit.type
+USA,carbon-storage,absolute-cost-logit
+Africa_Eastern,carbon-storage,absolute-cost-logit
+Africa_Northern,carbon-storage,absolute-cost-logit
+Africa_Southern,carbon-storage,absolute-cost-logit
+Africa_Western,carbon-storage,absolute-cost-logit
+Australia_NZ,carbon-storage,absolute-cost-logit
+Brazil,carbon-storage,absolute-cost-logit
+Canada,carbon-storage,absolute-cost-logit
+Central America and Caribbean,carbon-storage,absolute-cost-logit
+Central Asia,carbon-storage,absolute-cost-logit
+China,carbon-storage,absolute-cost-logit
+EU-12,carbon-storage,absolute-cost-logit
+EU-15,carbon-storage,absolute-cost-logit
+Europe_Eastern,carbon-storage,absolute-cost-logit
+Europe_Non_EU,carbon-storage,absolute-cost-logit
+European Free Trade Association,carbon-storage,absolute-cost-logit
+India,carbon-storage,absolute-cost-logit
+Indonesia,carbon-storage,absolute-cost-logit
+Japan,carbon-storage,absolute-cost-logit
+Mexico,carbon-storage,absolute-cost-logit
+Middle East,carbon-storage,absolute-cost-logit
+Pakistan,carbon-storage,absolute-cost-logit
+Russia,carbon-storage,absolute-cost-logit
+South Africa,carbon-storage,absolute-cost-logit
+South America_Northern,carbon-storage,absolute-cost-logit
+South America_Southern,carbon-storage,absolute-cost-logit
+South Asia,carbon-storage,absolute-cost-logit
+South Korea,carbon-storage,absolute-cost-logit
+Southeast Asia,carbon-storage,absolute-cost-logit
+Taiwan,carbon-storage,absolute-cost-logit
+Argentina,carbon-storage,absolute-cost-logit
+Colombia,carbon-storage,absolute-cost-logit

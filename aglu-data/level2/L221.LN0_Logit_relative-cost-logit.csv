@@ -1,0 +1,36 @@
+INPUT_TABLE
+Variable ID
+LN0_Logit_relative-cost-logit
+
+region,LandAllocatorRoot,logit.type
+USA,root,relative-cost-logit
+Africa_Eastern,root,relative-cost-logit
+Africa_Northern,root,relative-cost-logit
+Africa_Southern,root,relative-cost-logit
+Africa_Western,root,relative-cost-logit
+Australia_NZ,root,relative-cost-logit
+Brazil,root,relative-cost-logit
+Canada,root,relative-cost-logit
+Central America and Caribbean,root,relative-cost-logit
+Central Asia,root,relative-cost-logit
+China,root,relative-cost-logit
+EU-12,root,relative-cost-logit
+EU-15,root,relative-cost-logit
+Europe_Eastern,root,relative-cost-logit
+Europe_Non_EU,root,relative-cost-logit
+European Free Trade Association,root,relative-cost-logit
+India,root,relative-cost-logit
+Indonesia,root,relative-cost-logit
+Japan,root,relative-cost-logit
+Mexico,root,relative-cost-logit
+Middle East,root,relative-cost-logit
+Pakistan,root,relative-cost-logit
+Russia,root,relative-cost-logit
+South Africa,root,relative-cost-logit
+South America_Northern,root,relative-cost-logit
+South America_Southern,root,relative-cost-logit
+South Asia,root,relative-cost-logit
+South Korea,root,relative-cost-logit
+Southeast Asia,root,relative-cost-logit
+Argentina,root,relative-cost-logit
+Colombia,root,relative-cost-logit

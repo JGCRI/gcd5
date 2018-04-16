@@ -1,0 +1,191 @@
+INPUT_TABLE
+Variable ID
+Supplysector_relative-cost-logit
+
+region,supplysector,logit.type
+USA,FoodDemand_Crops,relative-cost-logit
+USA,FoodDemand_Meat,relative-cost-logit
+USA,NonFoodDemand_Crops,relative-cost-logit
+USA,NonFoodDemand_Meat,relative-cost-logit
+USA,NonFoodDemand_Forest,relative-cost-logit
+USA,Exports_Meat,relative-cost-logit
+Africa_Eastern,FoodDemand_Crops,relative-cost-logit
+Africa_Eastern,FoodDemand_Meat,relative-cost-logit
+Africa_Eastern,NonFoodDemand_Crops,relative-cost-logit
+Africa_Eastern,NonFoodDemand_Meat,relative-cost-logit
+Africa_Eastern,NonFoodDemand_Forest,relative-cost-logit
+Africa_Eastern,Exports_Meat,relative-cost-logit
+Africa_Northern,FoodDemand_Crops,relative-cost-logit
+Africa_Northern,FoodDemand_Meat,relative-cost-logit
+Africa_Northern,NonFoodDemand_Crops,relative-cost-logit
+Africa_Northern,NonFoodDemand_Meat,relative-cost-logit
+Africa_Northern,NonFoodDemand_Forest,relative-cost-logit
+Africa_Northern,Exports_Meat,relative-cost-logit
+Africa_Southern,FoodDemand_Crops,relative-cost-logit
+Africa_Southern,FoodDemand_Meat,relative-cost-logit
+Africa_Southern,NonFoodDemand_Crops,relative-cost-logit
+Africa_Southern,NonFoodDemand_Meat,relative-cost-logit
+Africa_Southern,NonFoodDemand_Forest,relative-cost-logit
+Africa_Southern,Exports_Meat,relative-cost-logit
+Africa_Western,FoodDemand_Crops,relative-cost-logit
+Africa_Western,FoodDemand_Meat,relative-cost-logit
+Africa_Western,NonFoodDemand_Crops,relative-cost-logit
+Africa_Western,NonFoodDemand_Meat,relative-cost-logit
+Africa_Western,NonFoodDemand_Forest,relative-cost-logit
+Africa_Western,Exports_Meat,relative-cost-logit
+Australia_NZ,FoodDemand_Crops,relative-cost-logit
+Australia_NZ,FoodDemand_Meat,relative-cost-logit
+Australia_NZ,NonFoodDemand_Crops,relative-cost-logit
+Australia_NZ,NonFoodDemand_Meat,relative-cost-logit
+Australia_NZ,NonFoodDemand_Forest,relative-cost-logit
+Australia_NZ,Exports_Meat,relative-cost-logit
+Brazil,FoodDemand_Crops,relative-cost-logit
+Brazil,FoodDemand_Meat,relative-cost-logit
+Brazil,NonFoodDemand_Crops,relative-cost-logit
+Brazil,NonFoodDemand_Meat,relative-cost-logit
+Brazil,NonFoodDemand_Forest,relative-cost-logit
+Brazil,Exports_Meat,relative-cost-logit
+Canada,FoodDemand_Crops,relative-cost-logit
+Canada,FoodDemand_Meat,relative-cost-logit
+Canada,NonFoodDemand_Crops,relative-cost-logit
+Canada,NonFoodDemand_Meat,relative-cost-logit
+Canada,NonFoodDemand_Forest,relative-cost-logit
+Canada,Exports_Meat,relative-cost-logit
+Central America and Caribbean,FoodDemand_Crops,relative-cost-logit
+Central America and Caribbean,FoodDemand_Meat,relative-cost-logit
+Central America and Caribbean,NonFoodDemand_Crops,relative-cost-logit
+Central America and Caribbean,NonFoodDemand_Meat,relative-cost-logit
+Central America and Caribbean,NonFoodDemand_Forest,relative-cost-logit
+Central America and Caribbean,Exports_Meat,relative-cost-logit
+Central Asia,FoodDemand_Crops,relative-cost-logit
+Central Asia,FoodDemand_Meat,relative-cost-logit
+Central Asia,NonFoodDemand_Crops,relative-cost-logit
+Central Asia,NonFoodDemand_Meat,relative-cost-logit
+Central Asia,NonFoodDemand_Forest,relative-cost-logit
+Central Asia,Exports_Meat,relative-cost-logit
+China,FoodDemand_Crops,relative-cost-logit
+China,FoodDemand_Meat,relative-cost-logit
+China,NonFoodDemand_Crops,relative-cost-logit
+China,NonFoodDemand_Meat,relative-cost-logit
+China,NonFoodDemand_Forest,relative-cost-logit
+China,Exports_Meat,relative-cost-logit
+EU-12,FoodDemand_Crops,relative-cost-logit
+EU-12,FoodDemand_Meat,relative-cost-logit
+EU-12,NonFoodDemand_Crops,relative-cost-logit
+EU-12,NonFoodDemand_Meat,relative-cost-logit
+EU-12,NonFoodDemand_Forest,relative-cost-logit
+EU-12,Exports_Meat,relative-cost-logit
+EU-15,FoodDemand_Crops,relative-cost-logit
+EU-15,FoodDemand_Meat,relative-cost-logit
+EU-15,NonFoodDemand_Crops,relative-cost-logit
+EU-15,NonFoodDemand_Meat,relative-cost-logit
+EU-15,NonFoodDemand_Forest,relative-cost-logit
+EU-15,Exports_Meat,relative-cost-logit
+Europe_Eastern,FoodDemand_Crops,relative-cost-logit
+Europe_Eastern,FoodDemand_Meat,relative-cost-logit
+Europe_Eastern,NonFoodDemand_Crops,relative-cost-logit
+Europe_Eastern,NonFoodDemand_Meat,relative-cost-logit
+Europe_Eastern,NonFoodDemand_Forest,relative-cost-logit
+Europe_Eastern,Exports_Meat,relative-cost-logit
+Europe_Non_EU,FoodDemand_Crops,relative-cost-logit
+Europe_Non_EU,FoodDemand_Meat,relative-cost-logit
+Europe_Non_EU,NonFoodDemand_Crops,relative-cost-logit
+Europe_Non_EU,NonFoodDemand_Meat,relative-cost-logit
+Europe_Non_EU,NonFoodDemand_Forest,relative-cost-logit
+Europe_Non_EU,Exports_Meat,relative-cost-logit
+European Free Trade Association,FoodDemand_Crops,relative-cost-logit
+European Free Trade Association,FoodDemand_Meat,relative-cost-logit
+European Free Trade Association,NonFoodDemand_Crops,relative-cost-logit
+European Free Trade Association,NonFoodDemand_Meat,relative-cost-logit
+European Free Trade Association,NonFoodDemand_Forest,relative-cost-logit
+European Free Trade Association,Exports_Meat,relative-cost-logit
+India,FoodDemand_Crops,relative-cost-logit
+India,FoodDemand_Meat,relative-cost-logit
+India,NonFoodDemand_Crops,relative-cost-logit
+India,NonFoodDemand_Meat,relative-cost-logit
+India,NonFoodDemand_Forest,relative-cost-logit
+India,Exports_Meat,relative-cost-logit
+Indonesia,FoodDemand_Crops,relative-cost-logit
+Indonesia,FoodDemand_Meat,relative-cost-logit
+Indonesia,NonFoodDemand_Crops,relative-cost-logit
+Indonesia,NonFoodDemand_Meat,relative-cost-logit
+Indonesia,NonFoodDemand_Forest,relative-cost-logit
+Indonesia,Exports_Meat,relative-cost-logit
+Japan,FoodDemand_Crops,relative-cost-logit
+Japan,FoodDemand_Meat,relative-cost-logit
+Japan,NonFoodDemand_Crops,relative-cost-logit
+Japan,NonFoodDemand_Meat,relative-cost-logit
+Japan,NonFoodDemand_Forest,relative-cost-logit
+Japan,Exports_Meat,relative-cost-logit
+Mexico,FoodDemand_Crops,relative-cost-logit
+Mexico,FoodDemand_Meat,relative-cost-logit
+Mexico,NonFoodDemand_Crops,relative-cost-logit
+Mexico,NonFoodDemand_Meat,relative-cost-logit
+Mexico,NonFoodDemand_Forest,relative-cost-logit
+Mexico,Exports_Meat,relative-cost-logit
+Middle East,FoodDemand_Crops,relative-cost-logit
+Middle East,FoodDemand_Meat,relative-cost-logit
+Middle East,NonFoodDemand_Crops,relative-cost-logit
+Middle East,NonFoodDemand_Meat,relative-cost-logit
+Middle East,NonFoodDemand_Forest,relative-cost-logit
+Middle East,Exports_Meat,relative-cost-logit
+Pakistan,FoodDemand_Crops,relative-cost-logit
+Pakistan,FoodDemand_Meat,relative-cost-logit
+Pakistan,NonFoodDemand_Crops,relative-cost-logit
+Pakistan,NonFoodDemand_Meat,relative-cost-logit
+Pakistan,NonFoodDemand_Forest,relative-cost-logit
+Pakistan,Exports_Meat,relative-cost-logit
+Russia,FoodDemand_Crops,relative-cost-logit
+Russia,FoodDemand_Meat,relative-cost-logit
+Russia,NonFoodDemand_Crops,relative-cost-logit
+Russia,NonFoodDemand_Meat,relative-cost-logit
+Russia,NonFoodDemand_Forest,relative-cost-logit
+Russia,Exports_Meat,relative-cost-logit
+South Africa,FoodDemand_Crops,relative-cost-logit
+South Africa,FoodDemand_Meat,relative-cost-logit
+South Africa,NonFoodDemand_Crops,relative-cost-logit
+South Africa,NonFoodDemand_Meat,relative-cost-logit
+South Africa,NonFoodDemand_Forest,relative-cost-logit
+South Africa,Exports_Meat,relative-cost-logit
+South America_Northern,FoodDemand_Crops,relative-cost-logit
+South America_Northern,FoodDemand_Meat,relative-cost-logit
+South America_Northern,NonFoodDemand_Crops,relative-cost-logit
+South America_Northern,NonFoodDemand_Meat,relative-cost-logit
+South America_Northern,NonFoodDemand_Forest,relative-cost-logit
+South America_Northern,Exports_Meat,relative-cost-logit
+South America_Southern,FoodDemand_Crops,relative-cost-logit
+South America_Southern,FoodDemand_Meat,relative-cost-logit
+South America_Southern,NonFoodDemand_Crops,relative-cost-logit
+South America_Southern,NonFoodDemand_Meat,relative-cost-logit
+South America_Southern,NonFoodDemand_Forest,relative-cost-logit
+South America_Southern,Exports_Meat,relative-cost-logit
+South Asia,FoodDemand_Crops,relative-cost-logit
+South Asia,FoodDemand_Meat,relative-cost-logit
+South Asia,NonFoodDemand_Crops,relative-cost-logit
+South Asia,NonFoodDemand_Meat,relative-cost-logit
+South Asia,NonFoodDemand_Forest,relative-cost-logit
+South Asia,Exports_Meat,relative-cost-logit
+South Korea,FoodDemand_Crops,relative-cost-logit
+South Korea,FoodDemand_Meat,relative-cost-logit
+South Korea,NonFoodDemand_Crops,relative-cost-logit
+South Korea,NonFoodDemand_Meat,relative-cost-logit
+South Korea,NonFoodDemand_Forest,relative-cost-logit
+South Korea,Exports_Meat,relative-cost-logit
+Southeast Asia,FoodDemand_Crops,relative-cost-logit
+Southeast Asia,FoodDemand_Meat,relative-cost-logit
+Southeast Asia,NonFoodDemand_Crops,relative-cost-logit
+Southeast Asia,NonFoodDemand_Meat,relative-cost-logit
+Southeast Asia,NonFoodDemand_Forest,relative-cost-logit
+Southeast Asia,Exports_Meat,relative-cost-logit
+Argentina,FoodDemand_Crops,relative-cost-logit
+Argentina,FoodDemand_Meat,relative-cost-logit
+Argentina,NonFoodDemand_Crops,relative-cost-logit
+Argentina,NonFoodDemand_Meat,relative-cost-logit
+Argentina,NonFoodDemand_Forest,relative-cost-logit
+Argentina,Exports_Meat,relative-cost-logit
+Colombia,FoodDemand_Crops,relative-cost-logit
+Colombia,FoodDemand_Meat,relative-cost-logit
+Colombia,NonFoodDemand_Crops,relative-cost-logit
+Colombia,NonFoodDemand_Meat,relative-cost-logit
+Colombia,NonFoodDemand_Forest,relative-cost-logit
+Colombia,Exports_Meat,relative-cost-logit

@@ -1,0 +1,188 @@
+INPUT_TABLE
+Variable ID
+SubsectorLogit_relative-cost-logit
+
+region,supplysector,subsector,logit.type
+USA,building,biomass,relative-cost-logit
+USA,building,coal,relative-cost-logit
+USA,building,electricity,relative-cost-logit
+USA,building,gas,relative-cost-logit
+USA,building,refined liquids,relative-cost-logit
+Africa_Eastern,building,biomass,relative-cost-logit
+Africa_Eastern,building,coal,relative-cost-logit
+Africa_Eastern,building,electricity,relative-cost-logit
+Africa_Eastern,building,gas,relative-cost-logit
+Africa_Eastern,building,refined liquids,relative-cost-logit
+Africa_Eastern,building,traditional biomass,relative-cost-logit
+Africa_Northern,building,biomass,relative-cost-logit
+Africa_Northern,building,coal,relative-cost-logit
+Africa_Northern,building,electricity,relative-cost-logit
+Africa_Northern,building,gas,relative-cost-logit
+Africa_Northern,building,refined liquids,relative-cost-logit
+Africa_Northern,building,traditional biomass,relative-cost-logit
+Africa_Southern,building,biomass,relative-cost-logit
+Africa_Southern,building,coal,relative-cost-logit
+Africa_Southern,building,electricity,relative-cost-logit
+Africa_Southern,building,gas,relative-cost-logit
+Africa_Southern,building,refined liquids,relative-cost-logit
+Africa_Southern,building,traditional biomass,relative-cost-logit
+Africa_Western,building,biomass,relative-cost-logit
+Africa_Western,building,coal,relative-cost-logit
+Africa_Western,building,electricity,relative-cost-logit
+Africa_Western,building,gas,relative-cost-logit
+Africa_Western,building,refined liquids,relative-cost-logit
+Africa_Western,building,traditional biomass,relative-cost-logit
+Australia_NZ,building,biomass,relative-cost-logit
+Australia_NZ,building,coal,relative-cost-logit
+Australia_NZ,building,electricity,relative-cost-logit
+Australia_NZ,building,gas,relative-cost-logit
+Australia_NZ,building,refined liquids,relative-cost-logit
+Brazil,building,biomass,relative-cost-logit
+Brazil,building,coal,relative-cost-logit
+Brazil,building,electricity,relative-cost-logit
+Brazil,building,gas,relative-cost-logit
+Brazil,building,refined liquids,relative-cost-logit
+Brazil,building,traditional biomass,relative-cost-logit
+Canada,building,biomass,relative-cost-logit
+Canada,building,coal,relative-cost-logit
+Canada,building,electricity,relative-cost-logit
+Canada,building,gas,relative-cost-logit
+Canada,building,refined liquids,relative-cost-logit
+Central America and Caribbean,building,biomass,relative-cost-logit
+Central America and Caribbean,building,coal,relative-cost-logit
+Central America and Caribbean,building,electricity,relative-cost-logit
+Central America and Caribbean,building,gas,relative-cost-logit
+Central America and Caribbean,building,refined liquids,relative-cost-logit
+Central America and Caribbean,building,traditional biomass,relative-cost-logit
+Central Asia,building,biomass,relative-cost-logit
+Central Asia,building,coal,relative-cost-logit
+Central Asia,building,electricity,relative-cost-logit
+Central Asia,building,gas,relative-cost-logit
+Central Asia,building,refined liquids,relative-cost-logit
+China,building,biomass,relative-cost-logit
+China,building,coal,relative-cost-logit
+China,building,district heat,relative-cost-logit
+China,building,electricity,relative-cost-logit
+China,building,gas,relative-cost-logit
+China,building,refined liquids,relative-cost-logit
+China,building,traditional biomass,relative-cost-logit
+EU-12,building,biomass,relative-cost-logit
+EU-12,building,coal,relative-cost-logit
+EU-12,building,district heat,relative-cost-logit
+EU-12,building,electricity,relative-cost-logit
+EU-12,building,gas,relative-cost-logit
+EU-12,building,refined liquids,relative-cost-logit
+EU-15,building,biomass,relative-cost-logit
+EU-15,building,coal,relative-cost-logit
+EU-15,building,electricity,relative-cost-logit
+EU-15,building,gas,relative-cost-logit
+EU-15,building,refined liquids,relative-cost-logit
+Europe_Eastern,building,biomass,relative-cost-logit
+Europe_Eastern,building,coal,relative-cost-logit
+Europe_Eastern,building,district heat,relative-cost-logit
+Europe_Eastern,building,electricity,relative-cost-logit
+Europe_Eastern,building,gas,relative-cost-logit
+Europe_Eastern,building,refined liquids,relative-cost-logit
+Europe_Non_EU,building,biomass,relative-cost-logit
+Europe_Non_EU,building,coal,relative-cost-logit
+Europe_Non_EU,building,district heat,relative-cost-logit
+Europe_Non_EU,building,electricity,relative-cost-logit
+Europe_Non_EU,building,gas,relative-cost-logit
+Europe_Non_EU,building,refined liquids,relative-cost-logit
+European Free Trade Association,building,biomass,relative-cost-logit
+European Free Trade Association,building,coal,relative-cost-logit
+European Free Trade Association,building,electricity,relative-cost-logit
+European Free Trade Association,building,gas,relative-cost-logit
+European Free Trade Association,building,refined liquids,relative-cost-logit
+India,building,biomass,relative-cost-logit
+India,building,coal,relative-cost-logit
+India,building,electricity,relative-cost-logit
+India,building,gas,relative-cost-logit
+India,building,refined liquids,relative-cost-logit
+India,building,traditional biomass,relative-cost-logit
+Indonesia,building,biomass,relative-cost-logit
+Indonesia,building,coal,relative-cost-logit
+Indonesia,building,electricity,relative-cost-logit
+Indonesia,building,gas,relative-cost-logit
+Indonesia,building,refined liquids,relative-cost-logit
+Indonesia,building,traditional biomass,relative-cost-logit
+Japan,building,biomass,relative-cost-logit
+Japan,building,coal,relative-cost-logit
+Japan,building,electricity,relative-cost-logit
+Japan,building,gas,relative-cost-logit
+Japan,building,refined liquids,relative-cost-logit
+Mexico,building,biomass,relative-cost-logit
+Mexico,building,coal,relative-cost-logit
+Mexico,building,electricity,relative-cost-logit
+Mexico,building,gas,relative-cost-logit
+Mexico,building,refined liquids,relative-cost-logit
+Mexico,building,traditional biomass,relative-cost-logit
+Middle East,building,biomass,relative-cost-logit
+Middle East,building,coal,relative-cost-logit
+Middle East,building,electricity,relative-cost-logit
+Middle East,building,gas,relative-cost-logit
+Middle East,building,refined liquids,relative-cost-logit
+Pakistan,building,biomass,relative-cost-logit
+Pakistan,building,coal,relative-cost-logit
+Pakistan,building,electricity,relative-cost-logit
+Pakistan,building,gas,relative-cost-logit
+Pakistan,building,refined liquids,relative-cost-logit
+Pakistan,building,traditional biomass,relative-cost-logit
+Russia,building,biomass,relative-cost-logit
+Russia,building,coal,relative-cost-logit
+Russia,building,district heat,relative-cost-logit
+Russia,building,electricity,relative-cost-logit
+Russia,building,gas,relative-cost-logit
+Russia,building,refined liquids,relative-cost-logit
+South Africa,building,biomass,relative-cost-logit
+South Africa,building,coal,relative-cost-logit
+South Africa,building,electricity,relative-cost-logit
+South Africa,building,gas,relative-cost-logit
+South Africa,building,refined liquids,relative-cost-logit
+South Africa,building,traditional biomass,relative-cost-logit
+South America_Northern,building,biomass,relative-cost-logit
+South America_Northern,building,coal,relative-cost-logit
+South America_Northern,building,electricity,relative-cost-logit
+South America_Northern,building,gas,relative-cost-logit
+South America_Northern,building,refined liquids,relative-cost-logit
+South America_Northern,building,traditional biomass,relative-cost-logit
+South America_Southern,building,biomass,relative-cost-logit
+South America_Southern,building,coal,relative-cost-logit
+South America_Southern,building,electricity,relative-cost-logit
+South America_Southern,building,gas,relative-cost-logit
+South America_Southern,building,refined liquids,relative-cost-logit
+South America_Southern,building,traditional biomass,relative-cost-logit
+South Asia,building,biomass,relative-cost-logit
+South Asia,building,coal,relative-cost-logit
+South Asia,building,electricity,relative-cost-logit
+South Asia,building,gas,relative-cost-logit
+South Asia,building,refined liquids,relative-cost-logit
+South Asia,building,traditional biomass,relative-cost-logit
+South Korea,building,biomass,relative-cost-logit
+South Korea,building,coal,relative-cost-logit
+South Korea,building,electricity,relative-cost-logit
+South Korea,building,gas,relative-cost-logit
+South Korea,building,refined liquids,relative-cost-logit
+Southeast Asia,building,biomass,relative-cost-logit
+Southeast Asia,building,coal,relative-cost-logit
+Southeast Asia,building,electricity,relative-cost-logit
+Southeast Asia,building,gas,relative-cost-logit
+Southeast Asia,building,refined liquids,relative-cost-logit
+Southeast Asia,building,traditional biomass,relative-cost-logit
+Taiwan,building,biomass,relative-cost-logit
+Taiwan,building,coal,relative-cost-logit
+Taiwan,building,electricity,relative-cost-logit
+Taiwan,building,gas,relative-cost-logit
+Taiwan,building,refined liquids,relative-cost-logit
+Argentina,building,biomass,relative-cost-logit
+Argentina,building,coal,relative-cost-logit
+Argentina,building,electricity,relative-cost-logit
+Argentina,building,gas,relative-cost-logit
+Argentina,building,refined liquids,relative-cost-logit
+Argentina,building,traditional biomass,relative-cost-logit
+Colombia,building,biomass,relative-cost-logit
+Colombia,building,coal,relative-cost-logit
+Colombia,building,electricity,relative-cost-logit
+Colombia,building,gas,relative-cost-logit
+Colombia,building,refined liquids,relative-cost-logit
+Colombia,building,traditional biomass,relative-cost-logit

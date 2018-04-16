@@ -1,0 +1,408 @@
+INPUT_TABLE
+Variable ID
+SubsectorLogit_relative-cost-logit
+
+region,supplysector,subsector,logit.type
+USA,Beef,Mixed,relative-cost-logit
+USA,Beef,Pastoral,relative-cost-logit
+USA,Dairy,Mixed,relative-cost-logit
+USA,Dairy,Pastoral,relative-cost-logit
+USA,Pork,Mixed,relative-cost-logit
+USA,Poultry,Mixed,relative-cost-logit
+USA,SheepGoat,Mixed,relative-cost-logit
+USA,SheepGoat,Pastoral,relative-cost-logit
+USA,Beef,Imports,relative-cost-logit
+USA,Dairy,Imports,relative-cost-logit
+USA,Pork,Imports,relative-cost-logit
+USA,Poultry,Imports,relative-cost-logit
+USA,SheepGoat,Imports,relative-cost-logit
+Africa_Eastern,Beef,Mixed,relative-cost-logit
+Africa_Eastern,Beef,Pastoral,relative-cost-logit
+Africa_Eastern,Dairy,Mixed,relative-cost-logit
+Africa_Eastern,Dairy,Pastoral,relative-cost-logit
+Africa_Eastern,Pork,Mixed,relative-cost-logit
+Africa_Eastern,Poultry,Mixed,relative-cost-logit
+Africa_Eastern,SheepGoat,Mixed,relative-cost-logit
+Africa_Eastern,SheepGoat,Pastoral,relative-cost-logit
+Africa_Eastern,Beef,Imports,relative-cost-logit
+Africa_Eastern,Dairy,Imports,relative-cost-logit
+Africa_Eastern,Pork,Imports,relative-cost-logit
+Africa_Eastern,Poultry,Imports,relative-cost-logit
+Africa_Eastern,SheepGoat,Imports,relative-cost-logit
+Africa_Northern,Beef,Mixed,relative-cost-logit
+Africa_Northern,Beef,Pastoral,relative-cost-logit
+Africa_Northern,Dairy,Mixed,relative-cost-logit
+Africa_Northern,Dairy,Pastoral,relative-cost-logit
+Africa_Northern,Pork,Mixed,relative-cost-logit
+Africa_Northern,Poultry,Mixed,relative-cost-logit
+Africa_Northern,SheepGoat,Mixed,relative-cost-logit
+Africa_Northern,SheepGoat,Pastoral,relative-cost-logit
+Africa_Northern,Beef,Imports,relative-cost-logit
+Africa_Northern,Dairy,Imports,relative-cost-logit
+Africa_Northern,Pork,Imports,relative-cost-logit
+Africa_Northern,Poultry,Imports,relative-cost-logit
+Africa_Northern,SheepGoat,Imports,relative-cost-logit
+Africa_Southern,Beef,Mixed,relative-cost-logit
+Africa_Southern,Beef,Pastoral,relative-cost-logit
+Africa_Southern,Dairy,Mixed,relative-cost-logit
+Africa_Southern,Dairy,Pastoral,relative-cost-logit
+Africa_Southern,Pork,Mixed,relative-cost-logit
+Africa_Southern,Poultry,Mixed,relative-cost-logit
+Africa_Southern,SheepGoat,Mixed,relative-cost-logit
+Africa_Southern,SheepGoat,Pastoral,relative-cost-logit
+Africa_Southern,Beef,Imports,relative-cost-logit
+Africa_Southern,Dairy,Imports,relative-cost-logit
+Africa_Southern,Pork,Imports,relative-cost-logit
+Africa_Southern,Poultry,Imports,relative-cost-logit
+Africa_Southern,SheepGoat,Imports,relative-cost-logit
+Africa_Western,Beef,Mixed,relative-cost-logit
+Africa_Western,Beef,Pastoral,relative-cost-logit
+Africa_Western,Dairy,Mixed,relative-cost-logit
+Africa_Western,Dairy,Pastoral,relative-cost-logit
+Africa_Western,Pork,Mixed,relative-cost-logit
+Africa_Western,Poultry,Mixed,relative-cost-logit
+Africa_Western,SheepGoat,Mixed,relative-cost-logit
+Africa_Western,SheepGoat,Pastoral,relative-cost-logit
+Africa_Western,Beef,Imports,relative-cost-logit
+Africa_Western,Dairy,Imports,relative-cost-logit
+Africa_Western,Pork,Imports,relative-cost-logit
+Africa_Western,Poultry,Imports,relative-cost-logit
+Africa_Western,SheepGoat,Imports,relative-cost-logit
+Australia_NZ,Beef,Mixed,relative-cost-logit
+Australia_NZ,Beef,Pastoral,relative-cost-logit
+Australia_NZ,Dairy,Mixed,relative-cost-logit
+Australia_NZ,Dairy,Pastoral,relative-cost-logit
+Australia_NZ,Pork,Mixed,relative-cost-logit
+Australia_NZ,Poultry,Mixed,relative-cost-logit
+Australia_NZ,SheepGoat,Mixed,relative-cost-logit
+Australia_NZ,SheepGoat,Pastoral,relative-cost-logit
+Australia_NZ,Beef,Imports,relative-cost-logit
+Australia_NZ,Dairy,Imports,relative-cost-logit
+Australia_NZ,Pork,Imports,relative-cost-logit
+Australia_NZ,Poultry,Imports,relative-cost-logit
+Australia_NZ,SheepGoat,Imports,relative-cost-logit
+Brazil,Beef,Mixed,relative-cost-logit
+Brazil,Beef,Pastoral,relative-cost-logit
+Brazil,Dairy,Mixed,relative-cost-logit
+Brazil,Dairy,Pastoral,relative-cost-logit
+Brazil,Pork,Mixed,relative-cost-logit
+Brazil,Poultry,Mixed,relative-cost-logit
+Brazil,SheepGoat,Mixed,relative-cost-logit
+Brazil,SheepGoat,Pastoral,relative-cost-logit
+Brazil,Beef,Imports,relative-cost-logit
+Brazil,Dairy,Imports,relative-cost-logit
+Brazil,Pork,Imports,relative-cost-logit
+Brazil,Poultry,Imports,relative-cost-logit
+Brazil,SheepGoat,Imports,relative-cost-logit
+Canada,Beef,Mixed,relative-cost-logit
+Canada,Beef,Pastoral,relative-cost-logit
+Canada,Dairy,Mixed,relative-cost-logit
+Canada,Dairy,Pastoral,relative-cost-logit
+Canada,Pork,Mixed,relative-cost-logit
+Canada,Poultry,Mixed,relative-cost-logit
+Canada,SheepGoat,Mixed,relative-cost-logit
+Canada,SheepGoat,Pastoral,relative-cost-logit
+Canada,Beef,Imports,relative-cost-logit
+Canada,Dairy,Imports,relative-cost-logit
+Canada,Pork,Imports,relative-cost-logit
+Canada,Poultry,Imports,relative-cost-logit
+Canada,SheepGoat,Imports,relative-cost-logit
+Central America and Caribbean,Beef,Mixed,relative-cost-logit
+Central America and Caribbean,Beef,Pastoral,relative-cost-logit
+Central America and Caribbean,Dairy,Mixed,relative-cost-logit
+Central America and Caribbean,Dairy,Pastoral,relative-cost-logit
+Central America and Caribbean,Pork,Mixed,relative-cost-logit
+Central America and Caribbean,Poultry,Mixed,relative-cost-logit
+Central America and Caribbean,SheepGoat,Mixed,relative-cost-logit
+Central America and Caribbean,SheepGoat,Pastoral,relative-cost-logit
+Central America and Caribbean,Beef,Imports,relative-cost-logit
+Central America and Caribbean,Dairy,Imports,relative-cost-logit
+Central America and Caribbean,Pork,Imports,relative-cost-logit
+Central America and Caribbean,Poultry,Imports,relative-cost-logit
+Central America and Caribbean,SheepGoat,Imports,relative-cost-logit
+Central Asia,Beef,Mixed,relative-cost-logit
+Central Asia,Beef,Pastoral,relative-cost-logit
+Central Asia,Dairy,Mixed,relative-cost-logit
+Central Asia,Dairy,Pastoral,relative-cost-logit
+Central Asia,Pork,Mixed,relative-cost-logit
+Central Asia,Poultry,Mixed,relative-cost-logit
+Central Asia,SheepGoat,Mixed,relative-cost-logit
+Central Asia,SheepGoat,Pastoral,relative-cost-logit
+Central Asia,Beef,Imports,relative-cost-logit
+Central Asia,Dairy,Imports,relative-cost-logit
+Central Asia,Pork,Imports,relative-cost-logit
+Central Asia,Poultry,Imports,relative-cost-logit
+Central Asia,SheepGoat,Imports,relative-cost-logit
+China,Beef,Mixed,relative-cost-logit
+China,Beef,Pastoral,relative-cost-logit
+China,Dairy,Mixed,relative-cost-logit
+China,Dairy,Pastoral,relative-cost-logit
+China,Pork,Mixed,relative-cost-logit
+China,Poultry,Mixed,relative-cost-logit
+China,SheepGoat,Mixed,relative-cost-logit
+China,SheepGoat,Pastoral,relative-cost-logit
+China,Beef,Imports,relative-cost-logit
+China,Dairy,Imports,relative-cost-logit
+China,Pork,Imports,relative-cost-logit
+China,Poultry,Imports,relative-cost-logit
+China,SheepGoat,Imports,relative-cost-logit
+EU-12,Beef,Mixed,relative-cost-logit
+EU-12,Beef,Pastoral,relative-cost-logit
+EU-12,Dairy,Mixed,relative-cost-logit
+EU-12,Dairy,Pastoral,relative-cost-logit
+EU-12,Pork,Mixed,relative-cost-logit
+EU-12,Poultry,Mixed,relative-cost-logit
+EU-12,SheepGoat,Mixed,relative-cost-logit
+EU-12,SheepGoat,Pastoral,relative-cost-logit
+EU-12,Beef,Imports,relative-cost-logit
+EU-12,Dairy,Imports,relative-cost-logit
+EU-12,Pork,Imports,relative-cost-logit
+EU-12,Poultry,Imports,relative-cost-logit
+EU-12,SheepGoat,Imports,relative-cost-logit
+EU-15,Beef,Mixed,relative-cost-logit
+EU-15,Beef,Pastoral,relative-cost-logit
+EU-15,Dairy,Mixed,relative-cost-logit
+EU-15,Dairy,Pastoral,relative-cost-logit
+EU-15,Pork,Mixed,relative-cost-logit
+EU-15,Poultry,Mixed,relative-cost-logit
+EU-15,SheepGoat,Mixed,relative-cost-logit
+EU-15,SheepGoat,Pastoral,relative-cost-logit
+EU-15,Beef,Imports,relative-cost-logit
+EU-15,Dairy,Imports,relative-cost-logit
+EU-15,Pork,Imports,relative-cost-logit
+EU-15,Poultry,Imports,relative-cost-logit
+EU-15,SheepGoat,Imports,relative-cost-logit
+Europe_Eastern,Beef,Mixed,relative-cost-logit
+Europe_Eastern,Beef,Pastoral,relative-cost-logit
+Europe_Eastern,Dairy,Mixed,relative-cost-logit
+Europe_Eastern,Dairy,Pastoral,relative-cost-logit
+Europe_Eastern,Pork,Mixed,relative-cost-logit
+Europe_Eastern,Poultry,Mixed,relative-cost-logit
+Europe_Eastern,SheepGoat,Mixed,relative-cost-logit
+Europe_Eastern,SheepGoat,Pastoral,relative-cost-logit
+Europe_Eastern,Beef,Imports,relative-cost-logit
+Europe_Eastern,Dairy,Imports,relative-cost-logit
+Europe_Eastern,Pork,Imports,relative-cost-logit
+Europe_Eastern,Poultry,Imports,relative-cost-logit
+Europe_Eastern,SheepGoat,Imports,relative-cost-logit
+Europe_Non_EU,Beef,Mixed,relative-cost-logit
+Europe_Non_EU,Beef,Pastoral,relative-cost-logit
+Europe_Non_EU,Dairy,Mixed,relative-cost-logit
+Europe_Non_EU,Dairy,Pastoral,relative-cost-logit
+Europe_Non_EU,Pork,Mixed,relative-cost-logit
+Europe_Non_EU,Poultry,Mixed,relative-cost-logit
+Europe_Non_EU,SheepGoat,Mixed,relative-cost-logit
+Europe_Non_EU,SheepGoat,Pastoral,relative-cost-logit
+Europe_Non_EU,Beef,Imports,relative-cost-logit
+Europe_Non_EU,Dairy,Imports,relative-cost-logit
+Europe_Non_EU,Pork,Imports,relative-cost-logit
+Europe_Non_EU,Poultry,Imports,relative-cost-logit
+Europe_Non_EU,SheepGoat,Imports,relative-cost-logit
+European Free Trade Association,Beef,Mixed,relative-cost-logit
+European Free Trade Association,Beef,Pastoral,relative-cost-logit
+European Free Trade Association,Dairy,Mixed,relative-cost-logit
+European Free Trade Association,Dairy,Pastoral,relative-cost-logit
+European Free Trade Association,Pork,Mixed,relative-cost-logit
+European Free Trade Association,Poultry,Mixed,relative-cost-logit
+European Free Trade Association,SheepGoat,Mixed,relative-cost-logit
+European Free Trade Association,SheepGoat,Pastoral,relative-cost-logit
+European Free Trade Association,Beef,Imports,relative-cost-logit
+European Free Trade Association,Dairy,Imports,relative-cost-logit
+European Free Trade Association,Pork,Imports,relative-cost-logit
+European Free Trade Association,Poultry,Imports,relative-cost-logit
+European Free Trade Association,SheepGoat,Imports,relative-cost-logit
+India,Beef,Mixed,relative-cost-logit
+India,Beef,Pastoral,relative-cost-logit
+India,Dairy,Mixed,relative-cost-logit
+India,Dairy,Pastoral,relative-cost-logit
+India,Pork,Mixed,relative-cost-logit
+India,Poultry,Mixed,relative-cost-logit
+India,SheepGoat,Mixed,relative-cost-logit
+India,SheepGoat,Pastoral,relative-cost-logit
+India,Beef,Imports,relative-cost-logit
+India,Dairy,Imports,relative-cost-logit
+India,Pork,Imports,relative-cost-logit
+India,Poultry,Imports,relative-cost-logit
+India,SheepGoat,Imports,relative-cost-logit
+Indonesia,Beef,Mixed,relative-cost-logit
+Indonesia,Beef,Pastoral,relative-cost-logit
+Indonesia,Dairy,Mixed,relative-cost-logit
+Indonesia,Dairy,Pastoral,relative-cost-logit
+Indonesia,Pork,Mixed,relative-cost-logit
+Indonesia,Poultry,Mixed,relative-cost-logit
+Indonesia,SheepGoat,Mixed,relative-cost-logit
+Indonesia,SheepGoat,Pastoral,relative-cost-logit
+Indonesia,Beef,Imports,relative-cost-logit
+Indonesia,Dairy,Imports,relative-cost-logit
+Indonesia,Pork,Imports,relative-cost-logit
+Indonesia,Poultry,Imports,relative-cost-logit
+Indonesia,SheepGoat,Imports,relative-cost-logit
+Japan,Beef,Mixed,relative-cost-logit
+Japan,Beef,Pastoral,relative-cost-logit
+Japan,Dairy,Mixed,relative-cost-logit
+Japan,Dairy,Pastoral,relative-cost-logit
+Japan,Pork,Mixed,relative-cost-logit
+Japan,Poultry,Mixed,relative-cost-logit
+Japan,SheepGoat,Mixed,relative-cost-logit
+Japan,SheepGoat,Pastoral,relative-cost-logit
+Japan,Beef,Imports,relative-cost-logit
+Japan,Dairy,Imports,relative-cost-logit
+Japan,Pork,Imports,relative-cost-logit
+Japan,Poultry,Imports,relative-cost-logit
+Japan,SheepGoat,Imports,relative-cost-logit
+Mexico,Beef,Mixed,relative-cost-logit
+Mexico,Beef,Pastoral,relative-cost-logit
+Mexico,Dairy,Mixed,relative-cost-logit
+Mexico,Dairy,Pastoral,relative-cost-logit
+Mexico,Pork,Mixed,relative-cost-logit
+Mexico,Poultry,Mixed,relative-cost-logit
+Mexico,SheepGoat,Mixed,relative-cost-logit
+Mexico,SheepGoat,Pastoral,relative-cost-logit
+Mexico,Beef,Imports,relative-cost-logit
+Mexico,Dairy,Imports,relative-cost-logit
+Mexico,Pork,Imports,relative-cost-logit
+Mexico,Poultry,Imports,relative-cost-logit
+Mexico,SheepGoat,Imports,relative-cost-logit
+Middle East,Beef,Mixed,relative-cost-logit
+Middle East,Beef,Pastoral,relative-cost-logit
+Middle East,Dairy,Mixed,relative-cost-logit
+Middle East,Dairy,Pastoral,relative-cost-logit
+Middle East,Pork,Mixed,relative-cost-logit
+Middle East,Poultry,Mixed,relative-cost-logit
+Middle East,SheepGoat,Mixed,relative-cost-logit
+Middle East,SheepGoat,Pastoral,relative-cost-logit
+Middle East,Beef,Imports,relative-cost-logit
+Middle East,Dairy,Imports,relative-cost-logit
+Middle East,Pork,Imports,relative-cost-logit
+Middle East,Poultry,Imports,relative-cost-logit
+Middle East,SheepGoat,Imports,relative-cost-logit
+Pakistan,Beef,Mixed,relative-cost-logit
+Pakistan,Beef,Pastoral,relative-cost-logit
+Pakistan,Dairy,Mixed,relative-cost-logit
+Pakistan,Dairy,Pastoral,relative-cost-logit
+Pakistan,Pork,Mixed,relative-cost-logit
+Pakistan,Poultry,Mixed,relative-cost-logit
+Pakistan,SheepGoat,Mixed,relative-cost-logit
+Pakistan,SheepGoat,Pastoral,relative-cost-logit
+Pakistan,Beef,Imports,relative-cost-logit
+Pakistan,Dairy,Imports,relative-cost-logit
+Pakistan,Pork,Imports,relative-cost-logit
+Pakistan,Poultry,Imports,relative-cost-logit
+Pakistan,SheepGoat,Imports,relative-cost-logit
+Russia,Beef,Mixed,relative-cost-logit
+Russia,Beef,Pastoral,relative-cost-logit
+Russia,Dairy,Mixed,relative-cost-logit
+Russia,Dairy,Pastoral,relative-cost-logit
+Russia,Pork,Mixed,relative-cost-logit
+Russia,Poultry,Mixed,relative-cost-logit
+Russia,SheepGoat,Mixed,relative-cost-logit
+Russia,SheepGoat,Pastoral,relative-cost-logit
+Russia,Beef,Imports,relative-cost-logit
+Russia,Dairy,Imports,relative-cost-logit
+Russia,Pork,Imports,relative-cost-logit
+Russia,Poultry,Imports,relative-cost-logit
+Russia,SheepGoat,Imports,relative-cost-logit
+South Africa,Beef,Mixed,relative-cost-logit
+South Africa,Beef,Pastoral,relative-cost-logit
+South Africa,Dairy,Mixed,relative-cost-logit
+South Africa,Dairy,Pastoral,relative-cost-logit
+South Africa,Pork,Mixed,relative-cost-logit
+South Africa,Poultry,Mixed,relative-cost-logit
+South Africa,SheepGoat,Mixed,relative-cost-logit
+South Africa,SheepGoat,Pastoral,relative-cost-logit
+South Africa,Beef,Imports,relative-cost-logit
+South Africa,Dairy,Imports,relative-cost-logit
+South Africa,Pork,Imports,relative-cost-logit
+South Africa,Poultry,Imports,relative-cost-logit
+South Africa,SheepGoat,Imports,relative-cost-logit
+South America_Northern,Beef,Mixed,relative-cost-logit
+South America_Northern,Beef,Pastoral,relative-cost-logit
+South America_Northern,Dairy,Mixed,relative-cost-logit
+South America_Northern,Dairy,Pastoral,relative-cost-logit
+South America_Northern,Pork,Mixed,relative-cost-logit
+South America_Northern,Poultry,Mixed,relative-cost-logit
+South America_Northern,SheepGoat,Mixed,relative-cost-logit
+South America_Northern,SheepGoat,Pastoral,relative-cost-logit
+South America_Northern,Beef,Imports,relative-cost-logit
+South America_Northern,Dairy,Imports,relative-cost-logit
+South America_Northern,Pork,Imports,relative-cost-logit
+South America_Northern,Poultry,Imports,relative-cost-logit
+South America_Northern,SheepGoat,Imports,relative-cost-logit
+South America_Southern,Beef,Mixed,relative-cost-logit
+South America_Southern,Beef,Pastoral,relative-cost-logit
+South America_Southern,Dairy,Mixed,relative-cost-logit
+South America_Southern,Dairy,Pastoral,relative-cost-logit
+South America_Southern,Pork,Mixed,relative-cost-logit
+South America_Southern,Poultry,Mixed,relative-cost-logit
+South America_Southern,SheepGoat,Mixed,relative-cost-logit
+South America_Southern,SheepGoat,Pastoral,relative-cost-logit
+South America_Southern,Beef,Imports,relative-cost-logit
+South America_Southern,Dairy,Imports,relative-cost-logit
+South America_Southern,Pork,Imports,relative-cost-logit
+South America_Southern,Poultry,Imports,relative-cost-logit
+South America_Southern,SheepGoat,Imports,relative-cost-logit
+South Asia,Beef,Mixed,relative-cost-logit
+South Asia,Beef,Pastoral,relative-cost-logit
+South Asia,Dairy,Mixed,relative-cost-logit
+South Asia,Dairy,Pastoral,relative-cost-logit
+South Asia,Pork,Mixed,relative-cost-logit
+South Asia,Poultry,Mixed,relative-cost-logit
+South Asia,SheepGoat,Mixed,relative-cost-logit
+South Asia,SheepGoat,Pastoral,relative-cost-logit
+South Asia,Beef,Imports,relative-cost-logit
+South Asia,Dairy,Imports,relative-cost-logit
+South Asia,Pork,Imports,relative-cost-logit
+South Asia,Poultry,Imports,relative-cost-logit
+South Asia,SheepGoat,Imports,relative-cost-logit
+South Korea,Beef,Mixed,relative-cost-logit
+South Korea,Beef,Pastoral,relative-cost-logit
+South Korea,Dairy,Mixed,relative-cost-logit
+South Korea,Dairy,Pastoral,relative-cost-logit
+South Korea,Pork,Mixed,relative-cost-logit
+South Korea,Poultry,Mixed,relative-cost-logit
+South Korea,SheepGoat,Mixed,relative-cost-logit
+South Korea,SheepGoat,Pastoral,relative-cost-logit
+South Korea,Beef,Imports,relative-cost-logit
+South Korea,Dairy,Imports,relative-cost-logit
+South Korea,Pork,Imports,relative-cost-logit
+South Korea,Poultry,Imports,relative-cost-logit
+South Korea,SheepGoat,Imports,relative-cost-logit
+Southeast Asia,Beef,Mixed,relative-cost-logit
+Southeast Asia,Beef,Pastoral,relative-cost-logit
+Southeast Asia,Dairy,Mixed,relative-cost-logit
+Southeast Asia,Dairy,Pastoral,relative-cost-logit
+Southeast Asia,Pork,Mixed,relative-cost-logit
+Southeast Asia,Poultry,Mixed,relative-cost-logit
+Southeast Asia,SheepGoat,Mixed,relative-cost-logit
+Southeast Asia,SheepGoat,Pastoral,relative-cost-logit
+Southeast Asia,Beef,Imports,relative-cost-logit
+Southeast Asia,Dairy,Imports,relative-cost-logit
+Southeast Asia,Pork,Imports,relative-cost-logit
+Southeast Asia,Poultry,Imports,relative-cost-logit
+Southeast Asia,SheepGoat,Imports,relative-cost-logit
+Argentina,Beef,Mixed,relative-cost-logit
+Argentina,Beef,Pastoral,relative-cost-logit
+Argentina,Dairy,Mixed,relative-cost-logit
+Argentina,Dairy,Pastoral,relative-cost-logit
+Argentina,Pork,Mixed,relative-cost-logit
+Argentina,Poultry,Mixed,relative-cost-logit
+Argentina,SheepGoat,Mixed,relative-cost-logit
+Argentina,SheepGoat,Pastoral,relative-cost-logit
+Argentina,Beef,Imports,relative-cost-logit
+Argentina,Dairy,Imports,relative-cost-logit
+Argentina,Pork,Imports,relative-cost-logit
+Argentina,Poultry,Imports,relative-cost-logit
+Argentina,SheepGoat,Imports,relative-cost-logit
+Colombia,Beef,Mixed,relative-cost-logit
+Colombia,Beef,Pastoral,relative-cost-logit
+Colombia,Dairy,Mixed,relative-cost-logit
+Colombia,Dairy,Pastoral,relative-cost-logit
+Colombia,Pork,Mixed,relative-cost-logit
+Colombia,Poultry,Mixed,relative-cost-logit
+Colombia,SheepGoat,Mixed,relative-cost-logit
+Colombia,SheepGoat,Pastoral,relative-cost-logit
+Colombia,Beef,Imports,relative-cost-logit
+Colombia,Dairy,Imports,relative-cost-logit
+Colombia,Pork,Imports,relative-cost-logit
+Colombia,Poultry,Imports,relative-cost-logit
+Colombia,SheepGoat,Imports,relative-cost-logit

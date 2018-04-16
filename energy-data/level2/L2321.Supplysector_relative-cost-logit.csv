@@ -1,0 +1,69 @@
+INPUT_TABLE
+Variable ID
+Supplysector_relative-cost-logit
+
+region,supplysector,logit.type
+USA,cement,relative-cost-logit
+USA,process heat cement,relative-cost-logit
+Africa_Eastern,cement,relative-cost-logit
+Africa_Eastern,process heat cement,relative-cost-logit
+Africa_Northern,cement,relative-cost-logit
+Africa_Northern,process heat cement,relative-cost-logit
+Africa_Southern,cement,relative-cost-logit
+Africa_Southern,process heat cement,relative-cost-logit
+Africa_Western,cement,relative-cost-logit
+Africa_Western,process heat cement,relative-cost-logit
+Australia_NZ,cement,relative-cost-logit
+Australia_NZ,process heat cement,relative-cost-logit
+Brazil,cement,relative-cost-logit
+Brazil,process heat cement,relative-cost-logit
+Canada,cement,relative-cost-logit
+Canada,process heat cement,relative-cost-logit
+Central America and Caribbean,cement,relative-cost-logit
+Central America and Caribbean,process heat cement,relative-cost-logit
+Central Asia,cement,relative-cost-logit
+Central Asia,process heat cement,relative-cost-logit
+China,cement,relative-cost-logit
+China,process heat cement,relative-cost-logit
+EU-12,cement,relative-cost-logit
+EU-12,process heat cement,relative-cost-logit
+EU-15,cement,relative-cost-logit
+EU-15,process heat cement,relative-cost-logit
+Europe_Eastern,cement,relative-cost-logit
+Europe_Eastern,process heat cement,relative-cost-logit
+Europe_Non_EU,cement,relative-cost-logit
+Europe_Non_EU,process heat cement,relative-cost-logit
+European Free Trade Association,cement,relative-cost-logit
+European Free Trade Association,process heat cement,relative-cost-logit
+India,cement,relative-cost-logit
+India,process heat cement,relative-cost-logit
+Indonesia,cement,relative-cost-logit
+Indonesia,process heat cement,relative-cost-logit
+Japan,cement,relative-cost-logit
+Japan,process heat cement,relative-cost-logit
+Mexico,cement,relative-cost-logit
+Mexico,process heat cement,relative-cost-logit
+Middle East,cement,relative-cost-logit
+Middle East,process heat cement,relative-cost-logit
+Pakistan,cement,relative-cost-logit
+Pakistan,process heat cement,relative-cost-logit
+Russia,cement,relative-cost-logit
+Russia,process heat cement,relative-cost-logit
+South Africa,cement,relative-cost-logit
+South Africa,process heat cement,relative-cost-logit
+South America_Northern,cement,relative-cost-logit
+South America_Northern,process heat cement,relative-cost-logit
+South America_Southern,cement,relative-cost-logit
+South America_Southern,process heat cement,relative-cost-logit
+South Asia,cement,relative-cost-logit
+South Asia,process heat cement,relative-cost-logit
+South Korea,cement,relative-cost-logit
+South Korea,process heat cement,relative-cost-logit
+Southeast Asia,cement,relative-cost-logit
+Southeast Asia,process heat cement,relative-cost-logit
+Taiwan,cement,relative-cost-logit
+Taiwan,process heat cement,relative-cost-logit
+Argentina,cement,relative-cost-logit
+Argentina,process heat cement,relative-cost-logit
+Colombia,cement,relative-cost-logit
+Colombia,process heat cement,relative-cost-logit

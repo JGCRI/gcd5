@@ -1,0 +1,37 @@
+INPUT_TABLE
+Variable ID
+Supplysector_relative-cost-logit
+
+region,supplysector,logit.type
+USA,transportation,relative-cost-logit
+Africa_Eastern,transportation,relative-cost-logit
+Africa_Northern,transportation,relative-cost-logit
+Africa_Southern,transportation,relative-cost-logit
+Africa_Western,transportation,relative-cost-logit
+Australia_NZ,transportation,relative-cost-logit
+Brazil,transportation,relative-cost-logit
+Canada,transportation,relative-cost-logit
+Central America and Caribbean,transportation,relative-cost-logit
+Central Asia,transportation,relative-cost-logit
+China,transportation,relative-cost-logit
+EU-12,transportation,relative-cost-logit
+EU-15,transportation,relative-cost-logit
+Europe_Eastern,transportation,relative-cost-logit
+Europe_Non_EU,transportation,relative-cost-logit
+European Free Trade Association,transportation,relative-cost-logit
+India,transportation,relative-cost-logit
+Indonesia,transportation,relative-cost-logit
+Japan,transportation,relative-cost-logit
+Mexico,transportation,relative-cost-logit
+Middle East,transportation,relative-cost-logit
+Pakistan,transportation,relative-cost-logit
+Russia,transportation,relative-cost-logit
+South Africa,transportation,relative-cost-logit
+South America_Northern,transportation,relative-cost-logit
+South America_Southern,transportation,relative-cost-logit
+South Asia,transportation,relative-cost-logit
+South Korea,transportation,relative-cost-logit
+Southeast Asia,transportation,relative-cost-logit
+Taiwan,transportation,relative-cost-logit
+Argentina,transportation,relative-cost-logit
+Colombia,transportation,relative-cost-logit

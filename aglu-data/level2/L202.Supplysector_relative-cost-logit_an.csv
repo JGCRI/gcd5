@@ -1,0 +1,160 @@
+INPUT_TABLE
+Variable ID
+Supplysector_relative-cost-logit
+
+region,supplysector,logit.type
+USA,Beef,relative-cost-logit
+USA,Dairy,relative-cost-logit
+USA,Pork,relative-cost-logit
+USA,Poultry,relative-cost-logit
+USA,SheepGoat,relative-cost-logit
+Africa_Eastern,Beef,relative-cost-logit
+Africa_Eastern,Dairy,relative-cost-logit
+Africa_Eastern,Pork,relative-cost-logit
+Africa_Eastern,Poultry,relative-cost-logit
+Africa_Eastern,SheepGoat,relative-cost-logit
+Africa_Northern,Beef,relative-cost-logit
+Africa_Northern,Dairy,relative-cost-logit
+Africa_Northern,Pork,relative-cost-logit
+Africa_Northern,Poultry,relative-cost-logit
+Africa_Northern,SheepGoat,relative-cost-logit
+Africa_Southern,Beef,relative-cost-logit
+Africa_Southern,Dairy,relative-cost-logit
+Africa_Southern,Pork,relative-cost-logit
+Africa_Southern,Poultry,relative-cost-logit
+Africa_Southern,SheepGoat,relative-cost-logit
+Africa_Western,Beef,relative-cost-logit
+Africa_Western,Dairy,relative-cost-logit
+Africa_Western,Pork,relative-cost-logit
+Africa_Western,Poultry,relative-cost-logit
+Africa_Western,SheepGoat,relative-cost-logit
+Australia_NZ,Beef,relative-cost-logit
+Australia_NZ,Dairy,relative-cost-logit
+Australia_NZ,Pork,relative-cost-logit
+Australia_NZ,Poultry,relative-cost-logit
+Australia_NZ,SheepGoat,relative-cost-logit
+Brazil,Beef,relative-cost-logit
+Brazil,Dairy,relative-cost-logit
+Brazil,Pork,relative-cost-logit
+Brazil,Poultry,relative-cost-logit
+Brazil,SheepGoat,relative-cost-logit
+Canada,Beef,relative-cost-logit
+Canada,Dairy,relative-cost-logit
+Canada,Pork,relative-cost-logit
+Canada,Poultry,relative-cost-logit
+Canada,SheepGoat,relative-cost-logit
+Central America and Caribbean,Beef,relative-cost-logit
+Central America and Caribbean,Dairy,relative-cost-logit
+Central America and Caribbean,Pork,relative-cost-logit
+Central America and Caribbean,Poultry,relative-cost-logit
+Central America and Caribbean,SheepGoat,relative-cost-logit
+Central Asia,Beef,relative-cost-logit
+Central Asia,Dairy,relative-cost-logit
+Central Asia,Pork,relative-cost-logit
+Central Asia,Poultry,relative-cost-logit
+Central Asia,SheepGoat,relative-cost-logit
+China,Beef,relative-cost-logit
+China,Dairy,relative-cost-logit
+China,Pork,relative-cost-logit
+China,Poultry,relative-cost-logit
+China,SheepGoat,relative-cost-logit
+EU-12,Beef,relative-cost-logit
+EU-12,Dairy,relative-cost-logit
+EU-12,Pork,relative-cost-logit
+EU-12,Poultry,relative-cost-logit
+EU-12,SheepGoat,relative-cost-logit
+EU-15,Beef,relative-cost-logit
+EU-15,Dairy,relative-cost-logit
+EU-15,Pork,relative-cost-logit
+EU-15,Poultry,relative-cost-logit
+EU-15,SheepGoat,relative-cost-logit
+Europe_Eastern,Beef,relative-cost-logit
+Europe_Eastern,Dairy,relative-cost-logit
+Europe_Eastern,Pork,relative-cost-logit
+Europe_Eastern,Poultry,relative-cost-logit
+Europe_Eastern,SheepGoat,relative-cost-logit
+Europe_Non_EU,Beef,relative-cost-logit
+Europe_Non_EU,Dairy,relative-cost-logit
+Europe_Non_EU,Pork,relative-cost-logit
+Europe_Non_EU,Poultry,relative-cost-logit
+Europe_Non_EU,SheepGoat,relative-cost-logit
+European Free Trade Association,Beef,relative-cost-logit
+European Free Trade Association,Dairy,relative-cost-logit
+European Free Trade Association,Pork,relative-cost-logit
+European Free Trade Association,Poultry,relative-cost-logit
+European Free Trade Association,SheepGoat,relative-cost-logit
+India,Beef,relative-cost-logit
+India,Dairy,relative-cost-logit
+India,Pork,relative-cost-logit
+India,Poultry,relative-cost-logit
+India,SheepGoat,relative-cost-logit
+Indonesia,Beef,relative-cost-logit
+Indonesia,Dairy,relative-cost-logit
+Indonesia,Pork,relative-cost-logit
+Indonesia,Poultry,relative-cost-logit
+Indonesia,SheepGoat,relative-cost-logit
+Japan,Beef,relative-cost-logit
+Japan,Dairy,relative-cost-logit
+Japan,Pork,relative-cost-logit
+Japan,Poultry,relative-cost-logit
+Japan,SheepGoat,relative-cost-logit
+Mexico,Beef,relative-cost-logit
+Mexico,Dairy,relative-cost-logit
+Mexico,Pork,relative-cost-logit
+Mexico,Poultry,relative-cost-logit
+Mexico,SheepGoat,relative-cost-logit
+Middle East,Beef,relative-cost-logit
+Middle East,Dairy,relative-cost-logit
+Middle East,Pork,relative-cost-logit
+Middle East,Poultry,relative-cost-logit
+Middle East,SheepGoat,relative-cost-logit
+Pakistan,Beef,relative-cost-logit
+Pakistan,Dairy,relative-cost-logit
+Pakistan,Pork,relative-cost-logit
+Pakistan,Poultry,relative-cost-logit
+Pakistan,SheepGoat,relative-cost-logit
+Russia,Beef,relative-cost-logit
+Russia,Dairy,relative-cost-logit
+Russia,Pork,relative-cost-logit
+Russia,Poultry,relative-cost-logit
+Russia,SheepGoat,relative-cost-logit
+South Africa,Beef,relative-cost-logit
+South Africa,Dairy,relative-cost-logit
+South Africa,Pork,relative-cost-logit
+South Africa,Poultry,relative-cost-logit
+South Africa,SheepGoat,relative-cost-logit
+South America_Northern,Beef,relative-cost-logit
+South America_Northern,Dairy,relative-cost-logit
+South America_Northern,Pork,relative-cost-logit
+South America_Northern,Poultry,relative-cost-logit
+South America_Northern,SheepGoat,relative-cost-logit
+South America_Southern,Beef,relative-cost-logit
+South America_Southern,Dairy,relative-cost-logit
+South America_Southern,Pork,relative-cost-logit
+South America_Southern,Poultry,relative-cost-logit
+South America_Southern,SheepGoat,relative-cost-logit
+South Asia,Beef,relative-cost-logit
+South Asia,Dairy,relative-cost-logit
+South Asia,Pork,relative-cost-logit
+South Asia,Poultry,relative-cost-logit
+South Asia,SheepGoat,relative-cost-logit
+South Korea,Beef,relative-cost-logit
+South Korea,Dairy,relative-cost-logit
+South Korea,Pork,relative-cost-logit
+South Korea,Poultry,relative-cost-logit
+South Korea,SheepGoat,relative-cost-logit
+Southeast Asia,Beef,relative-cost-logit
+Southeast Asia,Dairy,relative-cost-logit
+Southeast Asia,Pork,relative-cost-logit
+Southeast Asia,Poultry,relative-cost-logit
+Southeast Asia,SheepGoat,relative-cost-logit
+Argentina,Beef,relative-cost-logit
+Argentina,Dairy,relative-cost-logit
+Argentina,Pork,relative-cost-logit
+Argentina,Poultry,relative-cost-logit
+Argentina,SheepGoat,relative-cost-logit
+Colombia,Beef,relative-cost-logit
+Colombia,Dairy,relative-cost-logit
+Colombia,Pork,relative-cost-logit
+Colombia,Poultry,relative-cost-logit
+Colombia,SheepGoat,relative-cost-logit
